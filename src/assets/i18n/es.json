@@ -1,0 +1,407 @@
+{
+    "HOME": {
+        "title": "Bienvenido",
+        "descrip": "Bienvenido a WikiTow, el propósito de la aplicación es poder ayudar de alguna manera a aquellos que están comenzando el juego o incluso a aquellos que han estado jugando durante algún tiempo. No dude en enviar su opinión sobre la aplicación o sugerencia / corrección de cualquier información. En el menú de la izquierda accederá a todo el contenido que la aplicación tiene actualmente. ¡Haz buen uso y espero que esta aplicación te ayude!"
+    },
+    "ALERT": {
+        "header": "Error",
+        "msg": "There was a problem with your operation"
+    },
+
+    "NVLPRATOS": {
+
+        "BASICS": "Platos de inicio",
+        "LVL5":  "Nivel culinario 5",
+        "LVL10": "Nivel culinario 10",
+        "LVL15": "Nivel culinario 15",
+        "LVL20": "Nivel culinario 20",
+        "LVL25": "Nivel culinario 25"
+
+    },
+
+    "EGGNOODLES": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Macarrones con huevos",
+        "buffs": "CB: 2400, HP: 3300, ataque: 110, defensa: 110, recuperación de HP: 3000"
+        
+    },
+
+    "MASHEDPOTATO": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Puré de patatas",
+        "buffs": "CB: 2520, HP: 3600, Ataque: 120, Defensa: 120, Daño final: 1500"
+
+    },
+
+    "CORNSOUP": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Sopa De Maíz Dulce",
+        "buffs": "CB: 2640, HP: 3900, Ataque: 130, Defensa: 130, Daño reflejado: 1500"
+
+    },
+
+    "FISHBALL": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Bola de pescado",
+        "buffs": "CB: 2760, HP: 4200, Ataque: 140, Defensa: 140, VIT: +1%"
+
+    },
+
+    "FISHFILLET": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Filete de pescado",
+        "buffs": "CB: 2880, HP: 4200, Ataque: 140, Defensa: 140, DMG: +1%"
+
+    },
+
+    "PLAINOMELLETE": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Tortilla simple",
+        "buffs": "CB: 3000, HP: 4800, Ataque: 160, Defensa: 160, Robo de vida: 2000"
+
+    },
+
+    "PIZZA": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Pizza Vegetariana e Bacalhau",
+        "buffs": "CB: 3120, HP: 5100, Ataque: 170, Defensa: 170, Cura: +5%, VIT: +2%"
+
+    },
+
+    "ESPETODECORDEIRO": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Brocheta de pescado y cordero",
+        "buffs": "CB: 3240, HP: 5400, Ataque: 180, Defensa: 180, Posibilidad de bloqueo: +1%"
+
+    },
+
+    "CALDOCORAGEM": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Caldo de coraje",
+        "buffs": "CB: 3360, HP: 5700, Ataque: 190, Defensa: 190, Crit: +2%"
+
+    },
+
+    "ESPAGUETE": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Espaguetis",
+        "buffs": "CB: 3480, HP: 6000, Ataque: 200, Defensa: 200, DMG a jefe: +2%"
+
+    },
+
+    "WRAPDRAGON": {
+
+        "lvlreq": "LVL 60 para comer",
+        "require": "Ingredientes",
+        "name": "Envoltura de dragón",
+        "buffs": "CB: 3720, HP: 6600, Ataque: 220, Defensa: 220, Resistencia a los críticos: 1~2%"
+
+    },
+
+    "WRAPFRANGO": {
+
+        "lvlreq": "LVL 60 para comer",
+        "require": "Ingredientes",
+        "name": "Envoltura de pollo y queso a la parrilla",
+        "buffs": "CB: 3960, HP: 7200, Ataque: 240, Defensa: 240, Exactitud: 1%, DMG: 1%"
+
+    },
+
+    "FILEALASKA": {
+
+        "lvlreq": "LVL 60 para comer",
+        "require": "Ingredientes",
+        "name": "Filete de bacalao de Alaska",
+        "buffs": "CB: 4200, HP: 7800, Ataque: 260, Defensa: 260, Ignorar DEF: 2% ~ 4%"
+
+    },
+
+    "HAMBURGUER": {
+
+        "lvlreq": "LVL 60 para comer",
+        "require": "Ingredientes",
+        "name": "Hamburguesas tiernas con papas fritas y pollo",
+        "buffs": "CB: 4400, HP: 8400, Ataque: 280, Defensa: 280, Curación realizada: 5%, Reducción de daño crítico: 2%, Resistencia a los críticos: 0 ~ 2%"
+
+    },
+
+    "COSTELACORDEIRO": {
+
+        "lvlreq": "LVL 60 para comer",
+        "require": "Ingredientes",
+        "name": "Chuleta de cordero",
+        "buffs": "CB: 4680, HP: 9000, Ataque: 300, Defensa: 300, Debuff Boost: 2% ~ 5%, DMG: 0 ~ 1%"
+
+    },
+
+    "CORDEIROCOMBATATA": {
+
+        "lvlreq": "LVL 70 para comer",
+        "require": "Ingredientes",
+        "name": "Estofado de cordero con patatas",
+        "buffs": "CB: 4920, HP: 9600, Ataque: 320, Defensa: 320, Curación realizada: 5.0%, HP: 1.0%, DMG: 1.0%, DMG de todas las clases: 0-1.0%"
+
+    },
+
+    "CHESSY": {
+
+        "lvlreq": "LVL 70 para comer",
+        "require": "Ingredientes",
+        "name": "Cazuela de arroz y pollo con queso",
+        "buffs": "CB: 5160, HP: 10200, Ataque: 340, Defensa: 340, Robo de vida: 1% ~ 2%, HP: 1.0%, Debuff Resist: 0 ~ 3%"
+
+    },
+
+    "BLACKPEPPER": {
+
+        "lvlreq": "LVL 70 para comer",
+        "require": "Ingredientes",
+        "name": "Pimienta Negra Cordero",
+        "buffs": "CB: 5400, HP: 10800, Ataque: 360, Defensa: 360, Slash DMG: 2% ~ 4%"
+
+    },
+
+    "FIDEUA": {
+
+        "lvlreq": "LVL 70 para comer",
+        "require": "Ingredientes",
+        "name": "Fideua",
+        "buffs": "CB: 5640, HP: 11400, Ataque: 380, Defensa: 380, DMG adicional a objetivos con desventaja: 2% ~ 4%"
+
+    },
+
+    "CRISPYSQUID": {
+
+        "lvlreq": "LVL 70 para comer",
+        "require": "Ingredientes",
+        "name": "Calamar Crujiente",
+        "buffs": "CB: 5880, HP: 12000, Ataque: 400, Defensa: 400, Crit DMG: 4%, Crit Rate: 0 ~ 2%"
+
+    },
+
+    "PASSIONSALAD": {
+
+        "lvlreq": "LVL 80 para comer",
+        "require": "Ingredientes",
+        "name": "Ensalada De Pasion",
+        "buffs": "CB: 6120, HP: 12600, Ataque: 420, Defensa: 420, Probabilidad de bloqueo: 2%, HP: 0 ~ 2%, Reducción de daño de bloque: 0 ~ 2%"
+
+    },
+
+    "SQUIDSALAD": {
+
+        "lvlreq": "LVL 80 para comer",
+        "require": "Ingredientes",
+        "name": "Sub ensalada de calamar",
+        "buffs": "CB: 6360, HP: 13200, Ataque: 440, Defensa: 440, HP: 2%, DMGx: 0% ~ 2%, Crit resistencia: 0% ~ 2%"
+
+    },
+
+    "PANFRIED": {
+
+        "lvlreq": "LVL 80 para comer",
+        "require": "Ingredientes",
+        "name": "Solomillo de cordero frito",
+        "buffs": "CB: 6600, HP: 13800, Ataque: 460, Defensa: 460, DMG a Guerreros: 2% ~ 3%, DMG a Clérigos: 0% ~ 3%, DMG Todas las clases: 0% ~ 3%"
+
+    },
+
+    "MUSHROOMPIE": {
+
+        "lvlreq": "LVL 80 para comer",
+        "require": "Ingredientes",
+        "name": "Pastel de champiñones",
+        "buffs": "CB: 6840, HP: 14400, Ataque: 480, Defensa: 480, Curación realizada: 3% ~ 8%, Velocidad de movimiento: 2% ~ 8%"
+
+    },
+
+    "LOBSTER": {
+
+        "lvlreq": "LVL 80 para comer",
+        "require": "Ingredientes",
+        "name": "Langosta Thermidor",
+        "buffs": "CB: 7080, HP: 15000, Ataque: 500, Defensa: 500, Ataque: 1% ~ 2%, Crit rate: 1% ~ 2%, Ignorar Def: 0% ~ 5%"
+
+    },
+
+    "OAK": {
+
+        "lvlreq": "LVL 90 para comer",
+        "require": "Ingredientes",
+        "name": "Phoenix asado de roble",
+        "buffs": "CB: 7320, HP: 15900, Ataque: 530, Defensa: 530, Curación realizada: 5%, All attr: 1% ~ 3%, DMGx: 1% ~ 3%, HP: 0% ~ 3%"
+
+    },
+
+    "RAINBOW": {
+
+        "lvlreq": "LVL 90 para comer",
+        "require": "Ingredientes",
+        "name": "Tentáculos de calamar arcoiris",
+        "buffs": "CB: 7560, HP: 16800, Ataque: 560, Defensa: 560, Resistencia a la debuff: 3% ~ 8%"
+
+    },
+
+    "SEAFOOD": {
+
+        "lvlreq": "LVL 90 para comer",
+        "require": "Ingredientes",
+        "name": "Mariscos Sukiyaki",
+        "buffs": "CB: 8040, HP: 18600, Ataque: 620, Defensa: 620, Posibilidad de bloqueo: 5%, Bloquear el daño: 0% ~ 3%, Reducción refleja la tasa: 0% ~ 5%"
+
+    },
+
+    "SALMON": {
+
+        "lvlreq": "LVL 90 para comer",
+        "require": "Ingredientes",
+        "name": "Salmón y huevo con tostadas",
+        "buffs": "CB: 8280, HP: 19500, Ataque: 650, Defensa: 650, tasa de esquivar: 2% ~ 3%, HP: 0% ~ 3%, DMGx: 0% ~ 3%"
+
+    },
+
+    "COZINHAR": {
+        "name": "Cocinar"
+    },
+
+    "FARM": {
+        "name": "Granja"
+    },
+
+    "CB": {
+        "name": "Consejos sobre CB",
+        "cbcartas": "",
+        "cbequips": "",
+        "cbacessorios": "",
+        "cbmontariabatalha": "",
+        "cbpthabilidades": "",
+        "cbcomidas": "",
+        "cbaprimoramento": "",
+        "cbmoda": "",
+        "cbtreinaguilda": "",
+        "cbfada": "",
+        "cbguardiao": "",
+        "cbtrilha": "",
+        "cbbrasao": ""
+    },
+
+    "MERCADO": {
+        "name": "Mercado",
+        "descrip": "",
+        "vitrine": "",
+        "especial": "",
+        "limite": "",
+        "espiral": "",
+        "moeda": "",
+        "pontos": "",
+        "artefato": "",
+        "comprar": "",
+        "vender": "",
+        "antecipacao": ""
+    },
+
+    "FAMA": {
+        "name": "Fama del reino",
+        "descrip": "",
+        "ondeganhar": "",
+        "paraqueserve": "",
+        "dicascomogastar": ""
+    },
+
+    "MONTARIADEGUERRA": {
+        "name": "Montura de guerra",
+        "descrip": "",
+        "ondeganhar": "",
+        "paraqueserve": "",
+        "subirnvl": "",
+        "fundir": ""
+    },
+
+    "CASTELOCEU": {
+        "name": "Castillo del Cielo",
+        "descrip": "",
+        "comofunciona": "",
+        "baus": "",
+        "carrocas": "",
+        "lojadoceu": ""
+    },
+
+    "CORREDORNEBULOSO": {
+        "name": "Corredor nublado",
+        "descrip": "",
+        "comofunciona": "",
+        "acessorios": "",
+        "equipe": ""
+    },
+
+    "EQUIPAMENTOS": {
+        "name": "Equipos",
+        "descrip": "",
+        "dicas": "",
+        "avancar": "",
+        "slotscarta": "",
+        "reforja": ""
+
+    },
+
+    "CARTAS":{
+        "name": "Tarjetas",
+        "melhorar": "",
+        "refinar": "",
+        "desmantelar": "",
+        "poeiraamarela": "",
+        "poeiravermelha": ""
+    },
+
+    "CONCHAS": {
+        "name": "Caracolas",
+        "comoganhar": "",
+        "paraqueserve":"",
+        "dicas": ""
+    },
+
+    "GUILDA": {
+        "name": "Gremio",
+        "descrip": "",
+        "treinamentodaguilda":"",
+        "cargadaguilda": "",
+        "guaxinins": "",
+        "coco": "",
+        "gvg": "",
+        "temploluz": "",
+        "dragao": "",
+        "artefato": "",
+        "invocacoes": ""
+    },
+
+    "GUARDIAO": {
+        "name": "Guardián",
+        "descrip": "",
+        "matriz": "",
+        "aprender": "",
+        "evoluir": "",
+        "refinar": "",
+        "mutar": ""
+    }
+
+}

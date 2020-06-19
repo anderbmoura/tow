@@ -1,0 +1,413 @@
+{
+    "HOME": {
+        "title": "Bem vindo",
+        "descrip": "Seja muito bem vindo ao WikiTow, o intuito do aplicativo é poder ajudar de alguma forma quem está começando no game ou até mesmo aqueles que já jogam a algum tempo. Sinta-se a vontade para mandar sua opinião sobre o app ou sugestão/correção de alguma informação. No menu a esquerda você irá acessar todo o conteúdo que o app possui atualmente. Faça bom proveito e espero que este app te ajude!"
+    },
+    "ALERT": {
+        "header": "Error",
+        "msg": "There was a problem with your operation"
+    },
+
+    "NVLPRATOS": {
+
+        "BASICS": "Pratos Iniciais",
+        "LVL5":  "Nível de culinária 5",
+        "LVL10": "Nível de culinária 10",
+        "LVL15": "Nível de culinária 15",
+        "LVL20": "Nível de culinária 20",
+        "LVL25": "Nível de culinária 25"
+
+    },
+
+    "EGGNOODLES": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Macarrão com ovos",
+        "buffs": "CB: 2400, HP: 3300, Ataque: 110, Defesa: 110, Recuperação de HP: 3000"
+        
+    },
+
+    "MASHEDPOTATO": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Purê de batatas",
+        "buffs": "CB: 2520, HP: 3600, Ataque: 120, Defesa: 120, Dano final: 1500"
+
+    },
+
+    "CORNSOUP": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Sopa de milho doce",
+        "buffs": "CB: 2640, HP: 3900, Ataque: 130, Defesa: 130, Dano refletido: 1500"
+
+    },
+
+    "FISHBALL": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Bolinho de peixe",
+        "buffs": "CB: 2760, HP: 4200, Ataque: 140, Defesa: 140, VIT: +1%"
+
+    },
+
+    "FISHFILLET": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Filé de peixe",
+        "buffs": "CB: 2880, HP: 4200, Ataque: 140, Defesa: 140, DMG: +1%"
+
+    },
+
+    "PLAINOMELLETE": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Omelete simples",
+        "buffs": "CB: 3000, HP: 4800, Ataque: 160, Defesa: 160, Roubo de vida: 2000"
+
+    },
+
+    "PIZZA": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Pizza de vegetais e Bacalhau",
+        "buffs": "CB: 3120, HP: 5100, Ataque: 170, Defesa: 170, Cura: +5%, VIT: +2%"
+
+    },
+
+    "ESPETODECORDEIRO": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Espeto de peixe e cordeiro",
+        "buffs": "CB: 3240, HP: 5400, Ataque: 180, Defesa: 180, Chance de bloqueio: +1%"
+
+    },
+
+    "CALDOCORAGEM": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Caldo de corajem",
+        "buffs": "CB: 3360, HP: 5700, Ataque: 190, Defesa: 190, Crit: +2%"
+
+    },
+
+    "ESPAGUETE": {
+
+        "lvlreq": "LVL 55 para comer",
+        "require": "Ingredientes",
+        "name": "Espaguete",
+        "buffs": "CB: 3480, HP: 6000, Ataque: 200, Defesa: 200, DMG ao chefe: +2%"
+
+    },
+
+    "WRAPDRAGON": {
+
+        "lvlreq": "LVL 60 para comer",
+        "require": "Ingredientes",
+        "name": "Dragon Wrap",
+        "buffs": "CB: 3720, HP: 6600, Ataque: 220, Defesa: 220, Resistencia a crítico: 1~2%"
+
+    },
+
+    "WRAPFRANGO": {
+
+        "lvlreq": "LVL 60 para comer",
+        "require": "Ingredientes",
+        "name": "Wrap de frango e queijo grelhado",
+        "buffs": "CB: 3960, HP: 7200, Ataque: 240, Defesa: 240, Precisão: 1%, DMG: 1%"
+
+    },
+
+    "FILEALASKA": {
+
+        "lvlreq": "LVL 60 para comer",
+        "require": "Ingredientes",
+        "name": "Filé de bacalhau do Alasca",
+        "buffs": "CB: 4200, HP: 7800, Ataque: 260, Defesa: 260, Ignorar DEF: 2% ~ 4%"
+
+    },
+
+    "HAMBURGUER": {
+
+        "lvlreq": "LVL 60 para comer",
+        "require": "Ingredientes",
+        "name": "Hambúrguer com Batatas Fritas e Frango",
+        "buffs": "CB: 4400, HP: 8400, Ataque: 280, Defesa: 280, Cura realizada: 5%, Redução de dano crítico: 2%, Resistencia a críticos: 0 ~ 2%"
+
+    },
+
+    "COSTELACORDEIRO": {
+
+        "lvlreq": "LVL 60 para comer",
+        "require": "Ingredientes",
+        "name": "Costeleta de cordeiro",
+        "buffs": "CB: 4680, HP: 9000, Ataque: 300, Defesa: 300, Debuff Boost: 2% ~ 5%, DMG: 0 ~ 1%"
+
+    },
+
+    "CORDEIROCOMBATATA": {
+
+        "lvlreq": "LVL 70 para comer",
+        "require": "Ingredientes",
+        "name": "Ensopado de Cordeiro com Batatas",
+        "buffs": "CB: 4920, HP: 9600, Ataque: 320, Defesa: 320, Cura realizada: 5.0%, HP: 1.0%, DMG: 1.0%, DMG em todas classes: 0-1.0%"
+
+    },
+
+    "CHESSY": {
+
+        "lvlreq": "LVL 70 para comer",
+        "require": "Ingredientes",
+        "name": "Caçarola de frango e arroz Chessy",
+        "buffs": "CB: 5160, HP: 10200, Ataque: 340, Defesa: 340, Roubo de vida: 1% ~ 2%, HP: 1.0%, Debuff Resist: 0 ~ 3%"
+
+    },
+
+    "BLACKPEPPER": {
+
+        "lvlreq": "LVL 70 para comer",
+        "require": "Ingredientes",
+        "name": "Pimenta preta, cordeiro",
+        "buffs": "CB: 5400, HP: 10800, Ataque: 360, Defesa: 360, Slash DMG: 2% ~ 4%"
+
+    },
+
+    "FIDEUA": {
+
+        "lvlreq": "LVL 70 para comer",
+        "require": "Ingredientes",
+        "name": "Fideua",
+        "buffs": "CB: 5640, HP: 11400, Ataque: 380, Defensa: 380, Bônus de DMG para alvos com debuff: 2% ~ 4%"
+
+    },
+
+    "CRISPYSQUID": {
+
+        "lvlreq": "LVL 70 para comer",
+        "require": "Ingredientes",
+        "name": "Lula crocante",
+        "buffs": "CB: 5880, HP: 12000, Ataque: 400, Defesa: 400, Crit DMG: 4%, Crit Rate: 0 ~ 2%"
+
+    },
+
+    "PASSIONSALAD": {
+
+        "lvlreq": "LVL 80 para comer",
+        "require": "Ingredientes",
+        "name": "Salada de Paixão",
+        "buffs": "CB: 6120, HP: 13200, Ataque: 440, Defesa: 440, Chance de bloqueio: 2%, HP: 0 ~ 2%, Redução de dano de bloqueio: 0 ~ 2%"
+
+    },
+
+    "SQUIDSALAD": {
+
+        "lvlreq": "LVL 80 para comer",
+        "require": "Ingredientes",
+        "name": "Salada de Lula no pão",
+        "buffs": "CB: 6360, HP: 12600, Ataque: 420, Defesa: 420, HP: 2%, DMGx: 0% ~ 2%, Crit resistencia: 0% ~ 2%"
+
+    },
+
+    "PANFRIED": {
+
+        "lvlreq": "LVL 80 para comer",
+        "require": "Ingredientes",
+        "name": "Lombinho de borrego frito",
+        "buffs": "CB: 6600, HP: 13800, Ataque: 460, Defesa: 460, DMG a Guerreiros: 2% ~ 3%, DMG a Clérigos: 0% ~ 3%, DMG Todas as clases: 0% ~ 3%"
+
+    },
+
+    "MUSHROOMPIE": {
+
+        "lvlreq": "LVL 80 para comer",
+        "require": "Ingredientes",
+        "name": "Torta de Cogumelos",
+        "buffs": "CB: 6840, HP: 14400, Ataque: 480, Defesa: 480, Cura realizada: 3% ~ 8%, Velocidade de movimento: 2% ~ 8%"
+
+    },
+
+    "LOBSTER": {
+
+        "lvlreq": "LVL 80 para comer",
+        "require": "Ingredientes",
+        "name": "Langosta Thermidor",
+        "buffs": "CB: 7080, HP: 15000, Ataque: 500, Defesa: 500, Ataque: 1% ~ 2%, Crit rate: 1% ~ 2%, Ignorar Def: 0% ~ 5%"
+
+    },
+
+    "OAK": {
+
+        "lvlreq": "LVL 90 para comer",
+        "require": "Ingredientes",
+        "name": "Phoenix assado em carvalho",
+        "buffs": "CB: 7320, HP: 15900, Ataque: 530, Defesa: 530, Cura realizada: 5%, Todos attr: 1% ~ 3%, DMGx: 1% ~ 3%, HP: 0% ~ 3%"
+
+    },
+
+    "RAINBOW": {
+
+        "lvlreq": "LVL 90 para comer",
+        "require": "Ingredientes",
+        "name": "Tentáculos da lula do arco-íris",
+        "buffs": "CB: 7560, HP: 16800, Ataque: 560, Defesa: 560, Resistencia a debuff: 3% ~ 8%"
+
+    },
+
+    "SEAFOOD": {
+
+        "lvlreq": "LVL 90 para comer",
+        "require": "Ingredientes",
+        "name": "Frutos do mar Sukiyaki",
+        "buffs": "CB: 8040, HP: 18600, Ataque: 620, Defesa: 620, Chance de bloqueio: 5%, Bloqueio de dano: 0% ~ 3%, Redução de dano refletido: 0% ~ 5%"
+
+    },
+
+    "SALMON": {
+
+        "lvlreq": "LVL 90 para comer",
+        "require": "Ingredientes",
+        "name": "Salmão e ovo com torradas",
+        "buffs": "CB: 8280, HP: 19500, Ataque: 650, Defesa: 650, taxa de esquiva: 2% ~ 3%, HP: 0% ~ 3%, DMGx: 0% ~ 3%"
+
+    },
+
+    "COZINHAR": {
+        "name": "Cozinhar"
+    },
+
+    "FARM": {
+        "name": "Fazenda",
+        "descricao": "A fazenda é um local aonde você irá fazer plantações, cuidar dos animais e colher suas produções, e o mais imporante aumentar o nível dela para que possa desbloquear a cozinha. E comece a criar receitas que te ajudarão e te darão algum buff dependendo do prato feito. Também é importante que atenda todos os clientes que nela estão para que vá ganhando a exp necessária para subir o nível da sua fazenda.",
+        "chefechoco": "Após atender todos os clientes o Chefe Choco pode aparecer na sua fazenda solicitando a você algum pedido especial. Ao atendelo você irá ganhar a sacola do mestre cozinheiro que poderá te dar algum item raro ou apenas itens normais.",
+        "guaxinim": "Atender o Guaxinim também é importante, porque ele é uma das fontes que te darão ovos de inseto, que são utilizados para alimentar a coco da guilda!",
+        "cachorros": "Na sua fazenda, você também pode ter um cachorro, aonde o mesmo deve ser alimentado todos os dias por você e seus amigos, após atinger uma certa quantidade de alimentação ele sairá numa viagem, quando voltar, te trará um presente aleatório.",
+        "fimdescricao": "Com isso, o recado é, sempre procure cuidar da sua fazenda e upar ela todos os dias para que desbloqueie novos ingredientes e possa fazer novos pratos."
+    },
+
+    "CB": {
+        "name": "Dicas sobre CB",
+        "cbcartas": "",
+        "cbequips": "",
+        "cbacessorios": "",
+        "cbmontariabatalha": "",
+        "cbpthabilidades": "",
+        "cbcomidas": "",
+        "cbaprimoramento": "",
+        "cbmoda": "",
+        "cbtreinaguilda": "",
+        "cbfada": "",
+        "cbguardiao": "",
+        "cbtrilha": "",
+        "cbbrasao": ""
+    },
+
+    "MERCADO": {
+        "name": "Mercado",
+        "descrip": "",
+        "vitrine": "",
+        "especial": "",
+        "limite": "",
+        "espiral": "",
+        "moeda": "",
+        "pontos": "",
+        "artefato": "",
+        "comprar": "",
+        "vender": "",
+        "antecipacao": ""
+    },
+
+    "FAMA": {
+        "name": "Fama do Reino",
+        "descrip": "",
+        "ondeganhar": "",
+        "paraqueserve": "",
+        "dicascomogastar": ""
+    },
+
+    "MONTARIADEGUERRA": {
+        "name": "Montaria de Guerra",
+        "descrip": "",
+        "ondeganhar": "",
+        "paraqueserve": "",
+        "subirnvl": "",
+        "fundir": ""
+    },
+
+    "CASTELOCEU": {
+        "name": "Castelo do Céu",
+        "descrip": "",
+        "comofunciona": "",
+        "baus": "",
+        "carrocas": "",
+        "lojadoceu": ""
+    },
+
+    "CORREDORNEBULOSO": {
+        "name": "Corredor Nebuloso",
+        "descrip": "",
+        "comofunciona": "",
+        "acessorios": "",
+        "equipe": ""
+    },
+
+    "EQUIPAMENTOS": {
+        "name": "Equipamentos",
+        "descrip": "",
+        "dicas": "",
+        "avancar": "",
+        "slotscarta": "",
+        "reforja": ""
+
+    },
+
+    "CARTAS":{
+        "name": "Cartas",
+        "melhorar": "",
+        "refinar": "",
+        "desmantelar": "",
+        "poeiraamarela": "",
+        "poeiravermelha": ""
+    },
+
+    "CONCHAS": {
+        "name": "Conchas",
+        "comoganhar": "",
+        "paraqueserve":"",
+        "dicas": ""
+    },
+
+    "GUILDA": {
+        "name": "Guilda",
+        "descrip": "",
+        "treinamentodaguilda":"",
+        "cargadaguilda": "",
+        "guaxinins": "",
+        "coco": "",
+        "gvg": "",
+        "temploluz": "",
+        "dragao": "",
+        "artefato": "",
+        "invocacoes": ""
+    },
+
+    "GUARDIAO": {
+        "name": "Guardião",
+        "descrip": "",
+        "matriz": "",
+        "aprender": "",
+        "evoluir": "",
+        "refinar": "",
+        "mutar": ""
+    }
+
+
+}

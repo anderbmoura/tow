@@ -1,0 +1,7 @@
+{
+  "name": "wikitow",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
