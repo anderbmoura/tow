@@ -286,16 +286,22 @@
 
     "FARM": {
         "name": "Fazenda",
-        "descricao": "A fazenda é um local aonde você irá fazer plantações, cuidar dos animais e colher suas produções, e o mais imporante aumentar o nível dela para que possa desbloquear a cozinha. E comece a criar receitas que te ajudarão e te darão algum buff dependendo do prato feito. Também é importante que atenda todos os clientes que nela estão para que vá ganhando a exp necessária para subir o nível da sua fazenda.",
-        "chefechoco": "Após atender todos os clientes o Chefe Choco pode aparecer na sua fazenda solicitando a você algum pedido especial. Ao atendelo você irá ganhar a sacola do mestre cozinheiro que poderá te dar algum item raro ou apenas itens normais.",
-        "guaxinim": "Atender o Guaxinim também é importante, porque ele é uma das fontes que te darão ovos de inseto, que são utilizados para alimentar a coco da guilda!",
-        "cachorros": "Na sua fazenda, você também pode ter um cachorro, aonde o mesmo deve ser alimentado todos os dias por você e seus amigos, após atinger uma certa quantidade de alimentação ele sairá numa viagem, quando voltar, te trará um presente aleatório.",
-        "fimdescricao": "Com isso, o recado é, sempre procure cuidar da sua fazenda e upar ela todos os dias para que desbloqueie novos ingredientes e possa fazer novos pratos."
+        "descricao": "Fazenda é onde você pode cultivar, fabricar itens alimentares e atender aos pedidos dos clientes para obter mais vantagens e recompensas dentro do jogo. Pode ser desbloqueado a partir do nível 30 pagando 100 de fama do reino.",
+        "headerchefechoco": "Chefe Choco",
+        "chefechoco": "Após atender todos os clientes o Chefe Choco pode aparecer na sua fazenda solicitando a você algum pedido especial. Ao atendelo você irá ganhar a sacola do mestre cozinheiro que poderá te dar algum item raro ou normal. Também lhe da a chance de conseguir melhorias para os animais da sua fazenda.",
+        "headerguaxinim": "Trocas com o Guaxinim",
+        "guaxinim": "Varias vezes ao dia o Guaxinim irá aparecer na sua fazenda te pedindo algo aleatório, é importante atende-lo pois é uma das fontes que você tem para ganhar ovos de inseto.",
+        "headerpets": "Pet da fazenda",
+        "cachorros": "Você pode obter um cão de estimação por 10000 moedas de fazenda. Ele ficará na sua fazenda e fará uma viagem para trazer de volta recompensas a cada 8 vezes que for alimentado. Somente seus amigos e companheiros de guilda podem alimentar o cão. Você pode alimentar uma vez por dia até 12 cães, incluindo o seu próprio cão. Após 4 pequenas viagens, o cão está fazendo uma viagem mais longa.",
+        "fimdescricao": "Então sempre reserve um tempo para sua fazenda, pois ela é imporatante para sua evolução."
     },
 
     "CB": {
         "name": "Dicas sobre CB",
-        "cbcartas": "",
+        "descrip": "Abaixo você encontrar todas as formas de aumentar seu CB disponíveis no jogo.",
+        "cbcartarheader": "CB das Cartas",
+        "cbcartas": "Nas cartas a dica que podemos dar para os iniciantes é, não gaste sua mana melhorando cartas roxas, pois elas serão trocadas rapidamente por cartas douradas. Quando começar a pegar suas primeiras cartas douradas não tenho medo de avançar ela até o limite máximo de +12, pois quando pegar cartas melhores e for realizar a troca, ao desmantelar suas cartas douradas, toda mana gasta para melhorar até +12 será devolvida para você. Assim te permitando aumentar o nível da sua nova carta. Conforme você avançar no jogo verá que existem cartas de difernetes níveis e tipos, douradas nível 1,2 e 3, vermelhas (que são as melhores do jogo) níveis 1,2 e 3 também, como já é esperado as cartas vermelhas são as mais díficeis de se conseguir mas vale a paciência pos o retorno de CB e atributos para o personagem é muito bom.",
+        "cbequipsheader": "CB dos Equipamentos",
         "cbequips": "",
         "cbacessorios": "",
         "cbmontariabatalha": "",
