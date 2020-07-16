@@ -319,24 +319,21 @@
     "MERCADO": {
         "name": "Mercado",
         "descrip": "",
-        "vitrine": "",
-        "especial": "",
-        "limite": "",
-        "espiral": "",
-        "moeda": "",
-        "pontos": "",
-        "artefato": "",
-        "comprar": "",
-        "vender": "",
-        "antecipacao": ""
+        "comercio": "Basicamente no comércio é onde você irá atrás de comprar os equipamentos para o seu personagem, o único diferencial maior dentro do comércio é a vitrine que funciona por sistema de lances, um item fica exposto na vitrine por 4 horas, nesse tempo até 50 jogadores podem se interessar por aquele item, ao final da contagem o item será vendido aleatoriamente ao jogador mais “sortudo”.",
+        "especial": "Ofertas que são pagas apenas  com espirais pagos. Nesta aba não é possível conseguir nada com espiral vinculada.",
+        "limite": "Alguns pacotes e itens também comprados com espiral pago. Ao atingir determinado nível vai aparecendo alguns itens mais interessantes como o “livro de troca de classe” que é comprado com estrela de prata.",
+        "espiral": "Aqui você poderá usar suas espirais vinculadas para conseguir materiais de melhoria para seus equipamentos. Como por exemplo: Gemas de melhoria, Montarias simples, Bilhetes de gacha, dentre outros que liberam de acordo com seu nível.",
+        "moeda": "As moedas são adquiridas através de recompra, você consegue fazer recompra com itens e cartas não identificadas além de alguns outros itens que são obtidos no jogo como por exemplo: Adaman. É possível comprar: Estrelas de prata, Mana, Poeira estelar, Materiais de melhoria, Luz da lua dourada e outros.",
+        "pontos": "Os pontos são divididos em 3 tipos.",
+        "cartasAjudante": "Adquiridas quando você ajuda outro player em alguma dg, como nos Reinos das Cartas, Equipamentos, Tesouro do dragão, Escolta, Chefe dos Zodíacos ou até mesmo enviando pratos de comida.",
+        "ptarena": "adquirida quando você luta na arena, ganhando colocações. ",
+        "famareino": "obtida participando de eventos do reino durante todo o dia no servidor. Nesta aba você consegue comprar fragmentos de baú, cartas de talismã, materiais de melhoria dentre outros.",
+        "artefato": "Disponibilizado diariamente itens aleatórios para que você possa comprar, como: pena, tecido elegante, rede e poeira. Os itens podem ser atualizados utilizando “Bilhete de atualização de artefato”, comprado com 10 espirais."
     },
 
     "FAMA": {
         "name": "Fama do Reino",
-        "descrip": "",
-        "ondeganhar": "",
-        "paraqueserve": "",
-        "dicascomogastar": ""
+        "descrip": "A fama do reino é adquirida pelas participações nos eventos do reino que ocorrem diariamente durante o decorrer do dia dentro do jogo. Vale lembrar que existe um limite diário para os ganhos de fama do reino. A fama do reino é utilizada para liberar soquete em equipamentos e comprar alguns materiais de melhoria para os seus equipamentos. Também é possível comprar luz da lua roxa para fazer  invocações e realizar o drop de brasões, para utilizar os pontos basta ir até o mercado na aba Pontos."
     },
 
     "MONTARIADEGUERRA": {
@@ -350,10 +347,10 @@
 
     "CASTELOCEU": {
         "name": "Castelo do Céu",
-        "descrip": "",
-        "comofunciona": "",
-        "baus": "",
-        "carrocas": "",
+        "descrip": "Ao atingir o nível 70 você ganhará acesso ao castelo do céu, aqui é onde você irá ganhar sua montaria de batalha, para ganhar ela de forma simples basta completar as missões diárias do castelo para ganhar as moedas da loja do castelo. Após completar suas missões e receber suas recompensas basta entrar na loja do castelo do céu pela interface do reino e comprar seu primeiro ovo de montaria. abaixo você pode ter uma ideia de quais são os eventos diários.",
+        "baus": "No campo adversário existem baús no chão, eles ficam na lateral do mapa, então ao sair da sua base, basta seguir pelas laterais direita ou esquerda tanto faz. Você deve pegar 5 desses baús e trazer para sua base, existe um marcador no seu campo mostrando onde eles devem ser deixados.",
+        "carrocas": "Assim como nos baús existem duas carroças em cada campo inimigo, aqui é legal ir com uma equipe ou assim que abrir o castelo pois terá muitos players batendo na carroça que é bem tank. A missão consiste em destruir 3 carroças, você não precisa dar o golpe final para contabilizar a destruição, só de ter causado dano já irá contar como 1 carroça destruída.",
+        "detalhe": "Mesmo após destruir as carroças e pegar os 5 baús, sua barra de progresso ainda não estará totalmente completa e você não terá ganho todos os baús possíveis do dia. Para terminar de completar essa barra de progresso basta achar um campo com monstros que ficam nas laterais ou no centro do mapa e ficar matando os mobs que lá se encontram. Após ter carregado totalmente sua barra de progresso e coletado as recompensas não há mais nada a ser feito por aqui",
         "lojadoceu": ""
     },
 
