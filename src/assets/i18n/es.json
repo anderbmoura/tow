@@ -285,7 +285,15 @@
     },
 
     "FARM": {
-        "name": "Granja"
+        "name": "Granja",
+        "descricao": "Farm es donde puedes cultivar, fabricar alimentos y cumplir con los pedidos de los clientes para obtener más beneficios y recompensas en el juego. Se puede desbloquear desde el nivel 30 en adelante pagando 100 fama del reino.",
+        "headerchefechoco": "Jefe Choco",
+        "chefechoco": "Después de atender a todos los clientes, el Chef Choco puede aparecer en su granja pidiéndole una solicitud especial. En el servicio, ganará la bolsa del maestro cocinero que puede darle algún artículo raro o normal. También te da la oportunidad de hacer mejoras en los animales de tu granja.",
+        "headerguaxinim": "Intercambios con el mapache",
+        "guaxinim": "Varias veces al día, el mapache aparecerá en su granja pidiéndole algo al azar, es importante servirlo, ya que es una de las fuentes que tiene para ganar huevos de insectos.",
+        "headerpets": "Mascota de la granja",
+        "cachorros": "Puedes conseguir un perro mascota por 10,000 monedas de granja. Él se quedará en su granja y hará un viaje para traer recompensas cada 8 veces que sea alimentado. Solo tus amigos y compañeros de clan pueden alimentar al perro. Puede alimentar hasta 12 perros una vez al día, incluido su propio perro. Después de 4 viajes cortos, el perro está haciendo un viaje más largo.",
+        "fimdescricao": "Así que siempre dedique tiempo a su granja, ya que es importante para su evolución."
     },
 
     "CB": {

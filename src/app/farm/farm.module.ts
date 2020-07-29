@@ -8,12 +8,22 @@ import { FarmPageRoutingModule } from './farm-routing.module';
 
 import { FarmPage } from './farm.page';
 
+import { TranslateModule } from '@ngx-translate/core';
+import { RouterModule } from '@angular/router';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    FarmPageRoutingModule
+    FarmPageRoutingModule,
+    RouterModule.forChild([
+      {
+        path: '',
+        component: FarmPage
+      }
+    ]),
+    TranslateModule
   ],
   declarations: [FarmPage]
 })
