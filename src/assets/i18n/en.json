@@ -287,11 +287,14 @@
 
     "FARM": {
         "name": "Farm",
-        "descricao": "A fazenda é um local aonde você irá fazer plantações, cuidar dos animais e colher suas produções, e o mais imporante aumentar o nível dela para que possa desbloquear a cozinha. E comece a criar receitas que te ajudarão e te darão algum buff dependendo do prato feito. Também é importante que atenda todos os clientes que nela estão para que vá ganhando a exp necessária para subir o nível da sua fazenda.",
-        "chefechoco": "Após atender todos os clientes o Chefe Choco pode aparecer na sua fazenda solicitando a você algum pedido especial. Ao atendelo você irá ganhar a sacola do mestre cozinheiro que poderá te dar algum item raro ou apenas itens normais.",
-        "guaxinim": "Atender o Guaxinim também é importante, porque ele é uma das fontes que te darão ovos de inseto, que são utilizados para alimentar a coco da guilda!",
-        "cachorros": "Na sua fazenda, você também pode ter um cachorro, aonde o mesmo deve ser alimentado todos os dias por você e seus amigos, após atinger uma certa quantidade de alimentação ele sairá numa viagem, quando voltar, te trará um presente aleatório.",
-        "fimdescricao": "Com isso, o recado é, sempre procure cuidar da sua fazenda e upar ela todos os dias para que desbloqueie novos ingredientes e possa fazer novos pratos."
+        "descricao": "Farm is where you can grow, manufacture food items and fulfill customer orders for more in-game benefits and rewards. It can be unlocked from level 30 onwards by paying 100 kingdom fame.",
+        "headerchefechoco": "Chief Choco",
+        "chefechoco": "After serving all customers, Chef Choco can appear on your farm asking you for a special request. At the service you will win the bag of the master cook who can give you some rare or normal item. It also gives you the chance to make improvements to the animals on your farm.",
+        "headerguaxinim": "The Great Raccoon",
+        "guaxinim": "Several times a day the Raccoon will appear on your farm asking you for something random, it is important to serve you as it is one of the sources you have to earn insect eggs.",
+        "headerpets": "Farm pet",
+        "cachorros": "You can get a pet dog for 10,000 farm coins. He will stay on your farm and take a trip to bring back rewards every 8 times he is fed. Only your friends and guild mates can feed the dog. You can feed up to 12 dogs once a day, including your own dog. After 4 short trips, the dog is taking a longer trip.",
+        "fimdescricao": "So always make time for your farm, as it is important for its evolution."
     },
 
     "CB": {

@@ -289,7 +289,7 @@
         "descricao": "Fazenda é onde você pode cultivar, fabricar itens alimentares e atender aos pedidos dos clientes para obter mais vantagens e recompensas dentro do jogo. Pode ser desbloqueado a partir do nível 30 pagando 100 de fama do reino.",
         "headerchefechoco": "Chefe Choco",
         "chefechoco": "Após atender todos os clientes o Chefe Choco pode aparecer na sua fazenda solicitando a você algum pedido especial. Ao atendelo você irá ganhar a sacola do mestre cozinheiro que poderá te dar algum item raro ou normal. Também lhe da a chance de conseguir melhorias para os animais da sua fazenda.",
-        "headerguaxinim": "Trocas com o Guaxinim",
+        "headerguaxinim": "O Grande Guaxinim",
         "guaxinim": "Varias vezes ao dia o Guaxinim irá aparecer na sua fazenda te pedindo algo aleatório, é importante atende-lo pois é uma das fontes que você tem para ganhar ovos de inseto.",
         "headerpets": "Pet da fazenda",
         "cachorros": "Você pode obter um cão de estimação por 10000 moedas de fazenda. Ele ficará na sua fazenda e fará uma viagem para trazer de volta recompensas a cada 8 vezes que for alimentado. Somente seus amigos e companheiros de guilda podem alimentar o cão. Você pode alimentar uma vez por dia até 12 cães, incluindo o seu próprio cão. Após 4 pequenas viagens, o cão está fazendo uma viagem mais longa.",
@@ -318,7 +318,7 @@
 
     "MERCADO": {
         "name": "Mercado",
-        "descrip": "",
+        "descrip": "Descrição do mercado.",
         "comercio": "Basicamente no comércio é onde você irá atrás de comprar os equipamentos para o seu personagem, o único diferencial maior dentro do comércio é a vitrine que funciona por sistema de lances, um item fica exposto na vitrine por 4 horas, nesse tempo até 50 jogadores podem se interessar por aquele item, ao final da contagem o item será vendido aleatoriamente ao jogador mais “sortudo”.",
         "especial": "Ofertas que são pagas apenas  com espirais pagos. Nesta aba não é possível conseguir nada com espiral vinculada.",
         "limite": "Alguns pacotes e itens também comprados com espiral pago. Ao atingir determinado nível vai aparecendo alguns itens mais interessantes como o “livro de troca de classe” que é comprado com estrela de prata.",

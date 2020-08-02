@@ -8,12 +8,22 @@ import { MercadoPageRoutingModule } from './mercado-routing.module';
 
 import { MercadoPage } from './mercado.page';
 
+import { TranslateModule } from '@ngx-translate/core';
+import { RouterModule } from '@angular/router';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    MercadoPageRoutingModule
+    MercadoPageRoutingModule,
+    RouterModule.forChild([
+      {
+        path: '',
+        component: MercadoPage
+      }
+    ]),
+    TranslateModule
   ],
   declarations: [MercadoPage]
 })
