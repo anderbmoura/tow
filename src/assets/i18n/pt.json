@@ -318,7 +318,7 @@
 
     "MERCADO": {
         "name": "Mercado",
-        "descrip": "Descrição do mercado.",
+        "descrip": "Dentro da opção mercado, você irá notar que existe dois tipos diferentes, o comércio e a loja. a loja é aonde você poderá gastar espirais, comprar pacotes, trocar suas moedas de recompra dentre outras coisas. Já no comércio é aonde você irá encontrar itens dropados por outros jogadores e colocados a venda para que você possa comprar.",
         "comercio": "Basicamente no comércio é onde você irá atrás de comprar os equipamentos para o seu personagem, o único diferencial maior dentro do comércio é a vitrine que funciona por sistema de lances, um item fica exposto na vitrine por 4 horas, nesse tempo até 50 jogadores podem se interessar por aquele item, ao final da contagem o item será vendido aleatoriamente ao jogador mais “sortudo”.",
         "especial": "Ofertas que são pagas apenas  com espirais pagos. Nesta aba não é possível conseguir nada com espiral vinculada.",
         "limite": "Alguns pacotes e itens também comprados com espiral pago. Ao atingir determinado nível vai aparecendo alguns itens mais interessantes como o “livro de troca de classe” que é comprado com estrela de prata.",
