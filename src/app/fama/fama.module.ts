@@ -8,12 +8,22 @@ import { FamaPageRoutingModule } from './fama-routing.module';
 
 import { FamaPage } from './fama.page';
 
+import { TranslateModule } from '@ngx-translate/core';
+import { RouterModule } from '@angular/router';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    FamaPageRoutingModule
+    FamaPageRoutingModule,
+    RouterModule.forChild([
+      {
+        path: '',
+        component: FamaPage
+      }
+    ]),
+    TranslateModule
   ],
   declarations: [FamaPage]
 })
