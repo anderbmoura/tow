@@ -68,7 +68,7 @@ export class AppComponent {
       },
       {
         title : 'MONTARIADEGUERRA.name',
-        url   : "/montariag",
+        url   : "/montariadeguerra",
         icon  : "dragao"
       },
       {

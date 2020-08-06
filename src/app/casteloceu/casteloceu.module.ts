@@ -8,12 +8,22 @@ import { CasteloceuPageRoutingModule } from './casteloceu-routing.module';
 
 import { CasteloceuPage } from './casteloceu.page';
 
+import { TranslateModule } from '@ngx-translate/core';
+import { RouterModule } from '@angular/router';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    CasteloceuPageRoutingModule
+    CasteloceuPageRoutingModule,
+        RouterModule.forChild([
+      {
+        path: '',
+        component: CasteloceuPage
+      }
+    ]),
+    TranslateModule
   ],
   declarations: [CasteloceuPage]
 })
