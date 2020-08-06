@@ -8,12 +8,22 @@ import { GuardiaoPageRoutingModule } from './guardiao-routing.module';
 
 import { GuardiaoPage } from './guardiao.page';
 
+import { TranslateModule } from '@ngx-translate/core';
+import { RouterModule } from '@angular/router';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    GuardiaoPageRoutingModule
+    GuardiaoPageRoutingModule,
+    RouterModule.forChild([
+      {
+        path: '',
+        component: GuardiaoPage
+      }
+    ]),
+    TranslateModule
   ],
   declarations: [GuardiaoPage]
 })

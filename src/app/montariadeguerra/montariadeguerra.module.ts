@@ -8,12 +8,22 @@ import { MontariadeguerraPageRoutingModule } from './montariadeguerra-routing.mo
 
 import { MontariadeguerraPage } from './montariadeguerra.page';
 
+import { TranslateModule } from '@ngx-translate/core';
+import { RouterModule } from '@angular/router';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    MontariadeguerraPageRoutingModule
+    MontariadeguerraPageRoutingModule,
+    RouterModule.forChild([
+      {
+        path: '',
+        component: MontariadeguerraPage
+      }
+    ]),
+    TranslateModule
   ],
   declarations: [MontariadeguerraPage]
 })

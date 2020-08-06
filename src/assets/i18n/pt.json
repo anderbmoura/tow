@@ -347,20 +347,24 @@
 
     "MONTARIADEGUERRA": {
         "name": "Montaria de Guerra",
-        "descrip": "",
-        "ondeganhar": "",
-        "paraqueserve": "",
-        "subirnvl": "",
-        "fundir": ""
+        "descrip": "A montaria de guerra é liberada a partir do nível 70, quando é liberado o evento Castelo do céu. Ao entrar no castelo você irá realizar algumas missões para ganhar a moeda de troca necessária para poder comprar seu primeiro ovo de dragão. A montaria de guerra é utilizada para te auxiliar em combates e afeta seu CB diretamente.",
+        "sacolat": "Sacola",
+        "sacola": "Na sacola é apresentado todos os itens que você dropa ou ganha em baús comprados na loja do castelo do céu. Caso queira desmantelar os itens ganhos eles irão se transformar em essência para que seja consumido pela montaria.",
+        "subirnvlt": "Subir NV",
+        "subirnvl": "Para subir o nível da sua montaria, você irá utilizar os materias que não te servem mais como fonte de exp para ela. Equipamentos azuis dão pouca exp enquanto os roxos dão uma quantidade bem mais interessante para ajudar o up da montaria.",
+        "fundirt": "Fundir",
+        "fundir": "O material utilizado na fundição são os ovos de dragão que você irá dropar durante o dia a dia. Importante utilizar este aba pois ajuda bastante no CB da sua montaria apesar de ser mais difícil de conseguir os ovos, sempre que possível utilize este recurso para aumentar o poder da sua montaria."
     },
 
     "CASTELOCEU": {
         "name": "Castelo do Céu",
-        "descrip": "Ao atingir o nível 70 você ganhará acesso ao castelo do céu, aqui é onde você irá ganhar sua montaria de batalha, para ganhar ela de forma simples basta completar as missões diárias do castelo para ganhar as moedas da loja do castelo. Após completar suas missões e receber suas recompensas basta entrar na loja do castelo do céu pela interface do reino e comprar seu primeiro ovo de montaria. abaixo você pode ter uma ideia de quais são os eventos diários.",
+        "descrip": "Ao atingir o nível 70 você ganhará acesso ao castelo do céu, aqui é onde você irá ganhar sua montaria de batalha, para ganhar ela de forma simples basta completar as missões diárias do castelo e compra-lá na loja. Após completar suas missões e receber suas recompensas basta entrar na loja do castelo do céu pela interface do reino e comprar seu primeiro ovo de montaria.",
+        "baust": "Coleta de baú",
         "baus": "No campo adversário existem baús no chão, eles ficam na lateral do mapa, então ao sair da sua base, basta seguir pelas laterais direita ou esquerda tanto faz. Você deve pegar 5 desses baús e trazer para sua base, existe um marcador no seu campo mostrando onde eles devem ser deixados.",
+        "carrocast": "Destruir Carroças",
         "carrocas": "Assim como nos baús existem duas carroças em cada campo inimigo, aqui é legal ir com uma equipe ou assim que abrir o castelo pois terá muitos players batendo na carroça que é bem tank. A missão consiste em destruir 3 carroças, você não precisa dar o golpe final para contabilizar a destruição, só de ter causado dano já irá contar como 1 carroça destruída.",
-        "detalhe": "Mesmo após destruir as carroças e pegar os 5 baús, sua barra de progresso ainda não estará totalmente completa e você não terá ganho todos os baús possíveis do dia. Para terminar de completar essa barra de progresso basta achar um campo com monstros que ficam nas laterais ou no centro do mapa e ficar matando os mobs que lá se encontram. Após ter carregado totalmente sua barra de progresso e coletado as recompensas não há mais nada a ser feito por aqui",
-        "lojadoceu": ""
+        "detalhet": "Spots",
+        "detalhe": "Mesmo após destruir as carroças e pegar os 5 baús, sua barra de progresso ainda não estará totalmente completa e você não terá ganho todos os baús possíveis do dia. Para terminar de completar essa barra de progresso basta achar um campo com monstros que ficam nas laterais ou no centro do mapa e ficar matando os mobs que lá se encontram. Após ter carregado totalmente sua barra de progresso e coletado as recompensas não há mais nada a ser feito por aqui."
     },
 
     "CORREDORNEBULOSO": {
@@ -413,12 +417,17 @@
 
     "GUARDIAO": {
         "name": "Guardião",
-        "descrip": "",
-        "matriz": "",
-        "aprender": "",
-        "evoluir": "",
-        "refinar": "",
-        "mutar": ""
+        "descrip": "Guardiões possuem diferentes qualidades como azul, roxo, dourado e vermelho. Assim como nos equipamentos essas qualidades vão do mais fraco (azul) até o mais forte (vermelho), as qualidades de azul a dourado podem ser adquiridas utilizando o item REDE no mapa Ilha dos Guardiões. Já os guardiões de qualidade vermelha, somente são conquistados juntando 25 fragmentos de determinado guardião, os fragmentos podem ser dropados com mapa do artefato, comprados no comércio ou em eventos.",
+        "matrizt": "Matriz",
+        "matriz": "Conforme você avança de nível novas matrizes vão sendo desbloqueadas permitindo a você colocar mais guardiões nela. O ponto mais importante da matriz é se atentar ao atributo que cada uma te fornece em relação ao guardião equipado. Por exemplo, na matriz de cima, ela te da 9% (guardiões dourados) de todos os atributos do guardião, logo você deve deixar seu guardião mais forte neste espaço. A medida que você for desbloqueando e ganhando novos guardições procure deixar aquele que é mais forte em determido slot para que assim você possa se beneficiar mais dele. Os slots que irão se liberar serão: ATQ, DEF, HP, EQUILIBRO.",
+        "aprendert": "Aprender Habilidade",
+        "aprender": "Para aprender uma nova habilidade de guardião, basta você dropar, ganhar ou comprar um livro e ensina-la ao seu guardião. A melhor dica que podemos dar aqui é, procure sempre por livros que tem de atributos em (%), como Poder do Sábio, Coração de Dexter, Poder do Sentinela dentre muitas outras.",
+        "evoluirt": "Evoluir",
+        "evoluir": "Abaixo de cada guardião existe um número de estrelas, para aumentar essas estrelas e assim aumentar a força do seu guardião, você deve dar a ele sucos de verão. Quando a barra de progresso estiver completa basta sacrificar o número solicitado de guardiões com o mesmo total de estrelas do guardião que esta melhorando para que assim possa avançar para o próximo nível. (Exemplo: Se o seu guardião tem 4 estrelas, você deverá sacrificar 4 guardiões que possuam 4 estrelas para que assim ele possa chegar a 5 estrelas.)",
+        "refinart": "Refinar",
+        "refinar": "ALERTA: NÃO JOGUE FORA SUAS FRUTAS DE LÓTUS. O refino de um guardião nada mais é do que mudar sua personalidade e habilidade passiva. Assim como nos equipamentos e cartas, aqui também existem qualidades (azul, roxo, dourado e vermelho). Tirar uma boa habilidade e uma boa personalidade depende muito da sorte. Mas, sempre que tiver umas frutas de lótus sobrando, invista nisso.",
+        "mutart": "Mutar",
+        "mutar": "Quando seu guardião atingir 5 estrelas e você tiver o nível requerido para acessar a aba mutar, você poderá aumentar ainda mais a força do seu guardião. A mutação é bem simples, basta oferecer outro guardião 5 estrelas como sacrificio para o seu principal para que ele possa ser mutado, após a mutação o guardião oferecido irá sumir e o seu guardião mutado estava mais forte."
     }
 
 
