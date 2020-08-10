@@ -1,6 +1,7 @@
 {
     "HOME": {
         "title": "Bem vindo",
+        "colaboracao": "Colaboração da guilda, FairyTail - EST-117",
         "descrip": "Seja muito bem vindo ao WikiTow, o intuito do aplicativo é poder ajudar de alguma forma quem está começando no game ou até mesmo aqueles que já jogam a algum tempo. Sinta-se a vontade para mandar sua opinião sobre o app ou sugestão/correção de alguma informação. No menu a esquerda você irá acessar todo o conteúdo que o app possui atualmente. Faça bom proveito e espero que este app te ajude!"
     },
     "ALERT": {
@@ -369,10 +370,16 @@
 
     "CORREDORNEBULOSO": {
         "name": "Corredor Nebuloso",
-        "descrip": "",
-        "comofunciona": "",
-        "acessorios": "",
-        "equipe": ""
+        "descrip": "O corredor nebuloso é liberado ao alcançar o nível 75, o acesso é feito pelo mapa Manador. O corredor é a forma que você tem para começar a ganhar seus acessórios dentro do mundo de Tales. Monte equipe de 5 jogadores fortes e do mesmo nível de habilidade, não é recomendado jogar no modo automático nesse mapa, sempre se movimente e desvia o máximo possível para não perder suas 4 vidas disponíveis.",
+        "bossesqt": "Boss Esquerda: Mahonin",
+        "bossesq": "Bem na entrada do campo de Mahonin existe um “ativador” que irá fazer surgir um fantasma sombrio e um fantasma da luz nos quais você irá se transformar para cancelar algumas habilidades do boss caso ele as invoque. Em um certo momento Mahonin pode invocar uma criatura sombria no meio do campo que irá soltar ondas de dano massivo em cima de você, use o ativador para se transformar no fantasma da luz, chegue próximo da criatura e usa a skill do fantasma para matar o mesmo imediatamente. Dica: combine para que 1 jogador ative enquanto outro já fica posicionado para se transformar, assim você cancela o maior dano possível ao seu time. Mahonin também possui uma habilidade onde ela começa a falar sobre a luz divina do julgamento, nesse momento seja rápido, use o ativador para que algum membro da sua equipe se transforme no fantasma sombrio, chegue perto de Mahonin e use a habilidade do fantasma. Caso não consiga realizar a ação, use alguma transformação pois o dano que irão receber é alto.",
+        "bossdirt": "Boss Direita: Clione",
+        "bossdir": "O mais tranquilo de todos é o Clione, antes de entrar dentro do campo de batalha de Clione, pegue a runa que se encontra bem na entrada, o jogador que pegar a runa será o responsável por libertar seus aliados do stun que Clione causa em todos (menos em quem está com a runa). No canto superior direito da tela existe um ativador que deve ser usado assim que Clione gritar “PARE COM ESSE TUMULTO”, o jogador que pegou a runa deve correr até o ativador para que possa libertar seus aliados, caso o mesmo não faça isso os aliados na área de efeito do ataque de Clione irão tomar hit kill. Mas é bem básico e tranquilo, aqui é apenas posicionamento e torcer para quem está com a runa te salvar.",
+        "baphomett": "3 Baphomets",
+        "baphomet": "Após passar por Clione você irá subir até os 3 Baphomets, é recomendado ir um DPS no meio e dois de cada lado nas laterais direita e esquerda, pise no círculo que está bem na entrada de cada baphomet para desativar o escudo que os cerca e comece a dar dano. Aqui é apenas matar eles rápido para que não ativem suas skills.",
+        "ellat": "Boss final: Ella",
+        "ella": "",
+        "acessorios": "Ao matar cada boss você irá ganhar acessórios aleatórios, com qualidades diferentes seguindo o mesmo padrão, azul, roxo e dourado. Os acessórios posuem elementos e são indicados para cada tipo de build que você esteja fazendo, Fogo: DPS, Gelo: Tank, Vento: Esquiva."
     },
 
     "EQUIPAMENTOS": {
@@ -396,19 +403,24 @@
 
     "CONCHAS": {
         "name": "Conchas",
-        "comoganhar": "",
-        "paraqueserve":"",
-        "dicas": ""
+        "comoganhart": "",
+        "comoganhar": "Você pode ganhar conchas vendendo equipamentos dourados, brasões, montarias, chapéu, ou seja tudo que você puder colocar no comercio. Você também ganha conchas realizando a carga da guilda, apostando na corrida que ocorre todas as quartas-feiras, dando o último golpe no chefe do mundo e doando distintivo da fama roxo ou dourado ganhos no Eventos do Reino. No jogo também existe o passe, com as moedas do passe é possível trocar por uma quantidade semanal fixa de conchas.",
+        "paraqueservet": "Como utilizar?",
+        "paraqueserve":"As conchas são a sua moeda de compra dentro do comércio do jogo. É com ela que você irá comprar seus itens dourados, seus brasões, suas montarias, dentre muitas outras coisas disponíveis no mercado."
     },
 
     "GUILDA": {
         "name": "Guilda",
         "descrip": "",
-        "treinamentodaguilda":"",
-        "cargadaguilda": "",
-        "guaxinins": "",
-        "coco": "",
-        "gvg": "",
+        "treinamentodaguildat": "Treinamento da Guilda",
+        "treinamentodaguilda": "Ao realizar atividades relacionadas a guilda você irá receber brasões da guilda, estes brasões são utilizados para serem doados no treinamento da guilda. Ao doar seus brasões você começa o processo de evolução do calíce, cade calíce é pessoal e mesmo se você trocar de guilda ele irá se manter de onde vocẽ parou. Ao completar o calíce 100% e passar para o próximo nível você irá receber pontos que serão distribuidos de acordo com sua necessidade. Em atributos você irá receber CB e % de dano ou resistencia extra contra críticos. Modo de jogo te dará buffs em determinados modos de jogo conforme listado, GvG, Templo da Luz, etc. Produção aumenta o tanto de peixe, madeira ou mineiro que você coleta. Renda te alguns extras dentro do jogo, como estrela de prata, mana e fama do reino. Repare que também existe para cada um dos modos um tipo de dominío, ao encher essas barras de dominío você irá receber atributos extras ou espirais por exemplo, vocẽ pode verificar o bonus que irá ganhar clicando sobre (?) que se encontra logo ao lado do nome. O treinamento da guilda é acessado pela aba eventos dentro do menu da guilda.",
+        "cargadaguildat": "Carga da Guilda",
+        "cargadaguilda": "A carga da guilda é uma das maneiras que você tem para conseguir conchas dentro do jogo, moeda utilizada para compras dentro do comércio. Ela funciona de forma simples, você irá carrega-lá com todos os itens que ela esta pedindo. Conforme vocẽ avança vai ganhando algumas recompensas fixas até chegar na ultima que será após completar 10 cargas e ganhar 1 mapa do artefato. A carga da guilda é acessada pela aba eventos dentro do menu da guilda.",
+        "guaxininst": "Legião de Guaxinins",
+        "guaxinins": "Em momentos aleatŕios do dia a legião dos guaxinins irá atacar a sua guilda, você deve formar uma equipe com pelo menos 3 membros e todos devem ser da mesma guilda para expulsar os guaxinins da base da guilda. Cada guaxinim expulso você ganha brasões da guilda para utilizar o treinameto da guilda, além de ovos de inseto para alimentar a coco e a chance de ganhar pimenta preta utilizada cozinhar na sua fazenda. A unica invasão que é certeza que irá acontecer todos os dias no mesmo horário é as 18h50 do servidor, nesta invaoa além de expulsar os guaxinins vocẽ deve derrotar o Velho Vombat que irá surgir após todos terem sidos expulsos, não deixe de mata-lo junto a sua guilda pois se não conseguirem até as 19h10 irão perder recursos da guilda.",
+        "cocot": "Coco",
+        "coco": "A mecânica da coco é bem tranquila, você deve alimentar ela todos os dias com carpas, ovos de inseto, bacalhau, baiacu, ou seja com o que você tiver. Após encher a coco, você pode abrir a celebração dela, que consiste em te dar XP, Espiral para os 3 primeiros do rank de doares, e o QUIZ que te da ovos de inseto por cada pergunta em que você acertar primeiro.",
+        "gvg": "A guerra das guildas acontece toda terça e quinta as 20h horário do servidor. ",
         "temploluz": "",
         "dragao": "",
         "artefato": "",
