@@ -71,6 +71,10 @@ const routes: Routes = [
     path: 'cozinhar',
     loadChildren: () => import('./cozinhar/cozinhar.module').then( m => m.CozinharPageModule)
   },
+  {
+    path: 'fada',
+    loadChildren: () => import('./fada/fada.module').then( m => m.FadaPageModule)
+  },
 ];
 
 @NgModule({

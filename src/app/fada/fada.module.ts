@@ -4,9 +4,9 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { CorredornebulosoPageRoutingModule } from './corredornebuloso-routing.module';
+import { FadaPageRoutingModule } from './fada-routing.module';
 
-import { CorredornebulosoPage } from './corredornebuloso.page';
+import { FadaPage } from './fada.page';
 
 import { TranslateModule } from '@ngx-translate/core';
 import { RouterModule } from '@angular/router';
@@ -16,15 +16,15 @@ import { RouterModule } from '@angular/router';
     CommonModule,
     FormsModule,
     IonicModule,
-    CorredornebulosoPageRoutingModule,
+    FadaPageRoutingModule,
     RouterModule.forChild([
       {
         path: '',
-        component: CorredornebulosoPage
+        component: FadaPage
       }
     ]),
     TranslateModule
   ],
-  declarations: [CorredornebulosoPage]
+  declarations: [FadaPage]
 })
-export class CorredornebulosoPageModule {}
+export class FadaPageModule {}

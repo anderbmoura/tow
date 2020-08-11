@@ -106,6 +106,11 @@ export class AppComponent {
         url   : "/guardiao",
         icon  : "animal"
       },
+      {
+        title : 'FADA.name',
+        url   : "/fada",
+        icon  : "fada"
+      },
     ]
   }
 }

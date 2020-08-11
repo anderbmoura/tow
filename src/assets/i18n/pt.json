@@ -378,7 +378,8 @@
         "baphomett": "3 Baphomets",
         "baphomet": "Após passar por Clione você irá subir até os 3 Baphomets, é recomendado ir um DPS no meio e dois de cada lado nas laterais direita e esquerda, pise no círculo que está bem na entrada de cada baphomet para desativar o escudo que os cerca e comece a dar dano. Aqui é apenas matar eles rápido para que não ativem suas skills.",
         "ellat": "Boss final: Ella",
-        "ella": "",
+        "ella": "Por último temos Ella, as habilidades dela são umas das mais complicadas dentre os boss do corredor. É de extrema importância que fique se movendo a todo momento, pois ela causa altas quantidades de dano. Para passar deste boss, basta apenas ter cuidado e ir causando dano sempre que possível. Duas habilidades que você precisa tomar cuidado são os balões que o boss solta e quando ela vira uma determinada carta no meio da luta. Nos balões não há segredo, basta apenas desviar para se manter vivo e continuar causando dano. Já na segunda habilidade, Ella irá mostrar 3 cartas surpresas, e ao serem reveladas corra para o lado oposto, por exemplo: Se Ella lhe mostrar uma carta PRETA DE ESPADAS, você deve correr para o lado vermelho do campo, e se caso ela lhe mostrar uma carta DE COPAS VERMELHA, vocẽ deve correr para o lado preto do campo. Caso não consiga realizar essa ação você irá tomar hit kil.",
+        "acessoriost": "Acessórios",
         "acessorios": "Ao matar cada boss você irá ganhar acessórios aleatórios, com qualidades diferentes seguindo o mesmo padrão, azul, roxo e dourado. Os acessórios posuem elementos e são indicados para cada tipo de build que você esteja fazendo, Fogo: DPS, Gelo: Tank, Vento: Esquiva."
     },
 
@@ -394,17 +395,17 @@
 
     "CARTAS":{
         "name": "Cartas",
-        "descrip": "Uma das melhores maneiras de deixar seu personagem mais forte é com boas cartas. As cartas respeitem os níveis de qualidade assim como os equipamentos, existem as cartas azuis, roxas, douradas e vermelhas, sendo que possuem níveis diferentes, sendo níveis 1,2 e 3. As cartas vermelhas são conquistadas coletando 25 fragmentos do respectivo nível que esta juntando e depois fundindo elas em 1 carta. As cartas douradas, roxas e azuis são dropadas no reino das cartas normalmente.",
+        "descrip": "Uma das melhores maneiras de deixar seu personagem mais forte é com boas cartas. As cartas respeitem os níveis de qualidade assim como os equipamentos, existem as cartas azuis, roxas, douradas e vermelhas, sendo que possuem níveis diferentes, são eles 1,2,3 e 4. As cartas vermelhas são conquistadas coletando 25 fragmentos do respectivo nível que esta juntando e depois fundindo elas em 1 carta. As cartas douradas, roxas e azuis são dropadas no reino das cartas normalmente. As cartas possuem 'efeitos', cada carta amarela pode ter até 5 efeitos, enquanto as vermelhas podem ter 6, esses efeitos são conquistados refinando sua carta até que todos estejam listados.",
         "melhorar": "",
         "refinar": "",
         "desmantelar": "",
-        "poeiraamarela": "",
-        "poeiravermelha": ""
+        "poeiraamarela": "Material utilizado para refinar cartas de qualidade dourada. Quanto maior o nível da carta, mais poeiras serão necessárias para realizar o refinamento.",
+        "poeiravermelha": "Material utilizado para refinar cartas de qualidade vermelha. Quanto maior o nível da carta, mais poeiras serão necessárias para realizar o refinamento."
     },
 
     "CONCHAS": {
         "name": "Conchas",
-        "comoganhart": "",
+        "comoganhart": "Como conseguir concha",
         "comoganhar": "Você pode ganhar conchas vendendo equipamentos dourados, brasões, montarias, chapéu, ou seja tudo que você puder colocar no comercio. Você também ganha conchas realizando a carga da guilda, apostando na corrida que ocorre todas as quartas-feiras, dando o último golpe no chefe do mundo e doando distintivo da fama roxo ou dourado ganhos no Eventos do Reino. No jogo também existe o passe, com as moedas do passe é possível trocar por uma quantidade semanal fixa de conchas.",
         "paraqueservet": "Como utilizar?",
         "paraqueserve":"As conchas são a sua moeda de compra dentro do comércio do jogo. É com ela que você irá comprar seus itens dourados, seus brasões, suas montarias, dentre muitas outras coisas disponíveis no mercado."
@@ -417,7 +418,7 @@
         "cargadaguildat": "Carga da Guilda",
         "cargadaguilda": "A carga da guilda é uma das maneiras que você tem para conseguir conchas dentro do jogo, moeda utilizada para compras dentro do comércio. Ela funciona de forma simples, você irá carrega-lá com todos os itens que ela esta pedindo. Conforme vocẽ avança vai ganhando algumas recompensas fixas até chegar na ultima que será após completar 10 cargas e ganhar 1 mapa do artefato. A carga da guilda é acessada pela aba eventos dentro do menu da guilda.",
         "guaxininst": "Legião de Guaxinins",
-        "guaxinins": "Em momentos aleatŕios do dia a legião dos guaxinins irá atacar a sua guilda, você deve formar uma equipe com pelo menos 3 membros e todos devem ser da mesma guilda para expulsar os guaxinins da base da guilda. Cada guaxinim expulso você ganha brasões da guilda para utilizar o treinameto da guilda, além de ovos de inseto para alimentar a coco e a chance de ganhar pimenta preta utilizada cozinhar na sua fazenda. A unica invasão que é certeza que irá acontecer todos os dias no mesmo horário é as 18h50 do servidor, nesta invaoa além de expulsar os guaxinins vocẽ deve derrotar o Velho Vombat que irá surgir após todos terem sidos expulsos, não deixe de mata-lo junto a sua guilda pois se não conseguirem até as 19h10 irão perder recursos da guilda.",
+        "guaxinins": "Em momentos aleatórios do dia a legião dos guaxinins irá atacar a sua guilda, você deve formar uma equipe com pelo menos 3 membros e todos devem ser da mesma guilda para expulsar os guaxinins da base da guilda. Cada guaxinim expulso você ganha brasões da guilda para utilizar o treinameto da guilda, além de ovos de inseto para alimentar a coco e a chance de ganhar pimenta preta utilizada cozinhar na sua fazenda. A unica invasão que é certeza que irá acontecer todos os dias no mesmo horário é as 18h50 do servidor, nesta invaoa além de expulsar os guaxinins vocẽ deve derrotar o Velho Vombat que irá surgir após todos terem sidos expulsos, não deixe de mata-lo junto a sua guilda pois se não conseguirem até as 19h10 irão perder recursos da guilda.",
         "cocot": "Coco",
         "coco": "A mecânica da coco é bem tranquila, você deve alimentar ela todos os dias com carpas, ovos de inseto, bacalhau, baiacu, ou seja com o que você tiver. Após encher a coco, você pode abrir a celebração dela, que consiste em te dar XP, Espiral para os 3 primeiros do rank de doares, e o QUIZ que te da ovos de inseto por cada pergunta em que você acertar primeiro.",
         "gvgt": "Guerra das Guildas",

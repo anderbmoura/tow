@@ -8,12 +8,22 @@ import { GuildaPageRoutingModule } from './guilda-routing.module';
 
 import { GuildaPage } from './guilda.page';
 
+import { TranslateModule } from '@ngx-translate/core';
+import { RouterModule } from '@angular/router';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    GuildaPageRoutingModule
+    GuildaPageRoutingModule,
+    RouterModule.forChild([
+      {
+        path: '',
+        component: GuildaPage
+      }
+    ]),
+    TranslateModule
   ],
   declarations: [GuildaPage]
 })
