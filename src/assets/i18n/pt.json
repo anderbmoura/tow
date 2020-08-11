@@ -394,6 +394,7 @@
 
     "CARTAS":{
         "name": "Cartas",
+        "descrip": "Uma das melhores maneiras de deixar seu personagem mais forte é com boas cartas. As cartas respeitem os níveis de qualidade assim como os equipamentos, existem as cartas azuis, roxas, douradas e vermelhas, sendo que possuem níveis diferentes, sendo níveis 1,2 e 3. As cartas vermelhas são conquistadas coletando 25 fragmentos do respectivo nível que esta juntando e depois fundindo elas em 1 carta. As cartas douradas, roxas e azuis são dropadas no reino das cartas normalmente.",
         "melhorar": "",
         "refinar": "",
         "desmantelar": "",
@@ -411,7 +412,6 @@
 
     "GUILDA": {
         "name": "Guilda",
-        "descrip": "",
         "treinamentodaguildat": "Treinamento da Guilda",
         "treinamentodaguilda": "Ao realizar atividades relacionadas a guilda você irá receber brasões da guilda, estes brasões são utilizados para serem doados no treinamento da guilda. Ao doar seus brasões você começa o processo de evolução do calíce, cade calíce é pessoal e mesmo se você trocar de guilda ele irá se manter de onde vocẽ parou. Ao completar o calíce 100% e passar para o próximo nível você irá receber pontos que serão distribuidos de acordo com sua necessidade. Em atributos você irá receber CB e % de dano ou resistencia extra contra críticos. Modo de jogo te dará buffs em determinados modos de jogo conforme listado, GvG, Templo da Luz, etc. Produção aumenta o tanto de peixe, madeira ou mineiro que você coleta. Renda te alguns extras dentro do jogo, como estrela de prata, mana e fama do reino. Repare que também existe para cada um dos modos um tipo de dominío, ao encher essas barras de dominío você irá receber atributos extras ou espirais por exemplo, vocẽ pode verificar o bonus que irá ganhar clicando sobre (?) que se encontra logo ao lado do nome. O treinamento da guilda é acessado pela aba eventos dentro do menu da guilda.",
         "cargadaguildat": "Carga da Guilda",
@@ -420,11 +420,16 @@
         "guaxinins": "Em momentos aleatŕios do dia a legião dos guaxinins irá atacar a sua guilda, você deve formar uma equipe com pelo menos 3 membros e todos devem ser da mesma guilda para expulsar os guaxinins da base da guilda. Cada guaxinim expulso você ganha brasões da guilda para utilizar o treinameto da guilda, além de ovos de inseto para alimentar a coco e a chance de ganhar pimenta preta utilizada cozinhar na sua fazenda. A unica invasão que é certeza que irá acontecer todos os dias no mesmo horário é as 18h50 do servidor, nesta invaoa além de expulsar os guaxinins vocẽ deve derrotar o Velho Vombat que irá surgir após todos terem sidos expulsos, não deixe de mata-lo junto a sua guilda pois se não conseguirem até as 19h10 irão perder recursos da guilda.",
         "cocot": "Coco",
         "coco": "A mecânica da coco é bem tranquila, você deve alimentar ela todos os dias com carpas, ovos de inseto, bacalhau, baiacu, ou seja com o que você tiver. Após encher a coco, você pode abrir a celebração dela, que consiste em te dar XP, Espiral para os 3 primeiros do rank de doares, e o QUIZ que te da ovos de inseto por cada pergunta em que você acertar primeiro.",
-        "gvg": "A guerra das guildas acontece toda terça e quinta as 20h horário do servidor. ",
-        "temploluz": "",
-        "dragao": "",
-        "artefato": "",
-        "invocacoes": ""
+        "gvgt": "Guerra das Guildas",
+        "gvg": "A guerra das guildas acontece toda terça e quinta as 20h horário do servidor. É de extrema importância que você participe e ajude a sua guilda neste evento, pois é nele que vocês irão ganhar os artefatos para conseguirem forjar suas armas da guilda. Na GvG existem as TORRES, que são apenas aqueles nomeados elites de batalha pelo líder da guilda que pode entrar para lutar contra adversários e destruir as torres inimigas. Já as MINAS que são de extrema importância tanto quanto as torres irá todo restante da guilda, o objetivo é coletar os cristais que aparecem pelo mapa, ao coletar esses cristais suas torres no campo de batalha irão se fortalecer e renegerar vida mais rápidamente, atrapalhando assim o inimigo. Caso veja algum adversário colentando cristais ataque ele para que assim ele para a coleta. Muito importante que haja uma equipe forte se possível nas MINAS para que matem os inimigos enquanto o restante realiza a coleta.",
+        "temploluzt": "Templo da Luz",
+        "temploluz": "É uma masmorra acessada pelo território da guilda que só pode ser aberta toda sexta-feira pelo líder da guilda, o objetivo é eliminar todos os boss e ir subindo o maior número de andares que conseguirem. O tempo que a masmorra dura é 30 minutos podendo entrar até 40 pessoas. Cada boss derrotado te da fragmentos de baú de ouro.",
+        "dragaot": "Missão do Dragão",
+        "dragao": "A missão do dragão pode ser iniciada toda terça-feira e é preciso ter 20 membros da guilda online para que o evento se inicie. O objetivo é derrotar o dragão que irá aparecer no território da guilda e sequestrar um membro do sexo feminino. Após o sequestro os membros deveram escolher entre 2 caminhos, 'unidos venceremos' e 'caminho do herói', o caminho do herói é recomendado para os membros mais fortes da guilda pois é realizado de maneira solo. Já o unidos venceremos é feito por todos os membros que entrarem por este caminho. É obrigatorio ter ao menos 1 herói para salvar a princesa sequestrada. Este evento irá te dar bastante estrela de prata e exp além do titulo de princesa (para as meninas) é de conde para quem salvar a princesa.",
+        "artefatot": "Artefato da Guilda",
+        "artefato": "O artefato da guilda é a arma utilizada apenas por membros da guilda que é fundida através dos fragmentos de artefato ganhos na guerra das guildas. Esta arma aumenta os stats e da uns bonus interessantes, mas apenas para atividades que envolvem a guilda, ou seja, ela não funciona para tudo dentro do jogo. Quando sua guilda forjar a primeira arma, ela poderá ser convetertida em outras armas sempre que quiserem trocar a classe de quem irá utiliza-lá, respitando o tempo limite entre cada conversão.",
+        "invocacoest": "Invocar Sinos",
+        "invocacoes": "Sempre que você realiza o evento tesouro do dragão, você recebe alguns sinos de invocação. Estes sinos devem ser invocados no território da guilda, é legal criar uma equipe e pedir ajuda para matalos caso não consiga fazer isso sozinho. O pessoal da equipe também recebe um pouco do drop do monstro invocado."
     },
 
     "GUARDIAO": {
@@ -440,6 +445,10 @@
         "refinar": "ALERTA: NÃO JOGUE FORA SUAS FRUTAS DE LÓTUS. O refino de um guardião nada mais é do que mudar sua personalidade e habilidade passiva. Assim como nos equipamentos e cartas, aqui também existem qualidades (azul, roxo, dourado e vermelho). Tirar uma boa habilidade e uma boa personalidade depende muito da sorte. Mas, sempre que tiver umas frutas de lótus sobrando, invista nisso.",
         "mutart": "Mutar",
         "mutar": "Quando seu guardião atingir 5 estrelas e você tiver o nível requerido para acessar a aba mutar, você poderá aumentar ainda mais a força do seu guardião. A mutação é bem simples, basta oferecer outro guardião 5 estrelas como sacrificio para o seu principal para que ele possa ser mutado, após a mutação o guardião oferecido irá sumir e o seu guardião mutado estava mais forte."
+    },
+
+    "FADA": {
+        "name": "Fada"
     }
 
 
