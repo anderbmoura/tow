@@ -8,12 +8,22 @@ import { CartasPageRoutingModule } from './cartas-routing.module';
 
 import { CartasPage } from './cartas.page';
 
+import { TranslateModule } from '@ngx-translate/core';
+import { RouterModule } from '@angular/router';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    CartasPageRoutingModule
+    CartasPageRoutingModule,
+    RouterModule.forChild([
+      {
+        path: '',
+        component: CartasPage
+      }
+    ]),
+    TranslateModule
   ],
   declarations: [CartasPage]
 })

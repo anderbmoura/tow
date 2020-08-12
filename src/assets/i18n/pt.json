@@ -395,11 +395,14 @@
 
     "CARTAS":{
         "name": "Cartas",
-        "descrip": "Uma das melhores maneiras de deixar seu personagem mais forte é com boas cartas. As cartas respeitem os níveis de qualidade assim como os equipamentos, existem as cartas azuis, roxas, douradas e vermelhas, sendo que possuem níveis diferentes, são eles 1,2,3 e 4. As cartas vermelhas são conquistadas coletando 25 fragmentos do respectivo nível que esta juntando e depois fundindo elas em 1 carta. As cartas douradas, roxas e azuis são dropadas no reino das cartas normalmente. As cartas possuem 'efeitos', cada carta amarela pode ter até 5 efeitos, enquanto as vermelhas podem ter 6, esses efeitos são conquistados refinando sua carta até que todos estejam listados.",
-        "melhorar": "",
-        "refinar": "",
-        "desmantelar": "",
+        "descrip": "Uma das melhores maneiras de deixar seu personagem mais forte é com boas cartas. As cartas respeitem os níveis de qualidade assim como os equipamentos, existem as cartas azuis, roxas, douradas e vermelhas, sendo que possuem níveis diferentes, são eles 1,2,3 e 4. As cartas vermelhas são conquistadas coletando 25 fragmentos do respectivo nível que esta juntando e depois fundindo elas em 1 carta. As cartas douradas, roxas e azuis são dropadas no reino das cartas normalmente. Todas as cartas possuem 'efeitos', cada carta amarela pode ter até 5 efeitos, enquanto as vermelhas podem ter 6, esses efeitos são conquistados refinando sua carta até que todos estejam listados.",
+        "melhorart": "Melhorar Cartas",
+        "melhorar": "Para melhorar uma carta você irá gastar, estrela de prata e mana. As cartas douradas podem ser melhoradas até +12, enquanto as vermelhas podem ser melhoradas até +15. Caso você tenha melhorado uma carta e vá substituila, quando ela for desmantelada a quantidade de mana que se usa para chegar no limite máximo será devolvida há você. A mana que você precisa para melhorar suas cartas é adquirada desmantelando as cartas que você conseguir no reino das cartas e que não vá utilizar.",
+        "refinart": "Refinar",
+        "refinar": "Através do refinar você consegue melhorar os efeitos da carta, toda carta tem um limite de efeitos que pode possuir, as cartas amarelas podem ter até 5 efeitos, enquanto as cartas vermelhas podem ter 6 efeitos. O material utilizado para refinar cartas é adquirido em eventos, na loja ou no chefes do zodiaco.",
+        "poeiraamarelat": "Poeira Estelar Amarela",
         "poeiraamarela": "Material utilizado para refinar cartas de qualidade dourada. Quanto maior o nível da carta, mais poeiras serão necessárias para realizar o refinamento.",
+        "poeiravermelhat": "Poeira Estelar Vemelha",
         "poeiravermelha": "Material utilizado para refinar cartas de qualidade vermelha. Quanto maior o nível da carta, mais poeiras serão necessárias para realizar o refinamento."
     },
 
@@ -449,7 +452,15 @@
     },
 
     "FADA": {
-        "name": "Fada"
+        "name": "Fada",
+        "descrip": "Ao atingir o nível 65 a fada será liberada, para desbloquear basta construir a casa dela na fazenda com os materias solicitados. ",
+        "vit": "VIT é o que você irá utilizar para poder usar a ação de organizar, cada vez que faz o organizar da fada é consumido 10 de VIT. Todos os dias você recebe 30 de VIT para gastar na fada, essa quantidade pode ser aumentando comprando presente para a ela, o presente de 60 espirais aumenta o VIT diário para 40 enquanto o presente de 160 aumenta para 50.",
+        "presente": "",
+        "desbloquear": "",
+        "organizar": "",
+        "docedefada": "",
+        "metas": "",
+        "requerimentos": ""
     }
 
 

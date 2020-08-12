@@ -8,12 +8,22 @@ import { ConchasPageRoutingModule } from './conchas-routing.module';
 
 import { ConchasPage } from './conchas.page';
 
+import { TranslateModule } from '@ngx-translate/core';
+import { RouterModule } from '@angular/router';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    ConchasPageRoutingModule
+    ConchasPageRoutingModule,
+    RouterModule.forChild([
+      {
+        path: '',
+        component: ConchasPage
+      }
+    ]),
+    TranslateModule
   ],
   declarations: [ConchasPage]
 })
