@@ -387,11 +387,12 @@
 
     "EQUIPAMENTOS": {
         "name": "Equipamentos",
-        "descrip": "",
-        "dicas": "",
-        "avancar": "",
-        "slotscarta": "",
-        "reforja": ""
+        "descrip": "Como um todo os equipamentos são uma das partes mais importantes do seu personagem, é baseado nele que você irá moldar em que atributo seu personagem será focado, os sets são compostos por (peitoral, cinto, calça e bota), juntando as 4 partes de um mesmo set ou seja com o mesmo nome. Você irá ativar atributos extras para o seu personagem como taxa de crítico, chance de bloqueio, esquiva e por assim vai.. Já a arma, luva e talismã por sua vez não possuem sets, porém existem também vários tipos diferentes, você deve escolher aquela que melhor se encaixa com o tipo de personagem que você esta fazendo. E o chapéu pode ser conquistado utilizando o mapa do artefato e podem vir com qualidades diferentes (roxo, dourado ou vermelho).",
+        "dicas": "Se você esta começando o jogo agora utilize os equipamentos que forem dropando ao decorrer do jogo até atingir o nível 60, a partir deste nível você deve focar em comprar e dropar equipamentos dourados de nível 60, nunca gaste suas conchas com equipamentos que não sejam deste nível, pois os equipamentos de nível 60 são os únicos que ficarão com você pelo resto do jogo inteiro, porque posteriormente eles poderão ser avançandos em equipamentos 70, 80 e assim por diante.",
+        "avancar": "Avançar um equipamento o torna um pouco mais forte, basta ter os máterias necessários que são dropados no reino dos equipamentos e uma certa quantidade de estrela de prata para que possa realizar esta ação. Quando for subir o nível do seu equipamento avançado para 70 por exemplo, o material gasto nele na hora de avançar será devolvido. Dica: Só vale a pena você avançar um equipamento se estiver muito difícil de conseguir o brasão para o nível 70 por exemplo, pois os atributos do nível 70 são melhores que um 60 avançado.",
+        "slotscarta": "Slots de cartas são liberados ao decorrer do jogo conforme seu personagem sobe de nível é liberado a opção de abrir novos slots para cartas, sendo que este slots são pagos com fama do reino para serem desbloqueados. O máximo que um equipamento pode ter são até 4 slots. O unico equipamento que é diferente para abrir slots é o chapéu sendo necessário que você adquira pergaminhos de soquete de chapéu para que tal ação seja possível, estes pergaminhos são adquiridos no comércio ou desmantelando outros chapéis.",
+        "subirnvl": "Para subir o nível de um equipamento será necessário que você drope ou compre no comércio um brasão para o item que está querendo subir de nível. Ao conseguir  este brasão basta ir até a opção subir nível que é acessada clicando sobre o item em questão e ter os itens necessários que serão (seu equipamento 60 + brasão + cristal).",
+        "reforja": "A reforja dos seus itens devem ser feitas somente em itens de nível 60 ou superior. Reforjar um equipamento nada mais é do que mudar seus atributos adicionais em busca de melhores, aqui os melhores são os atributos dourados, sempre reforje seu equipamento até que consiga algum atributo dourado nele, após conseguir que venha um atributo dourado você pode 'travar' determinado atributo para que possa realizar uma nova reforja sem que este mude, você pode travar até 2 atributos e com isso elevando o preço pago para realizar a reforja além de ser necessário 2 tipos de material ao invés de 1. O equipamento com uma boa reforja tem sua barra de progresso totalmente cheia ou ao menos perto disso."
 
     },
 
@@ -463,7 +464,7 @@
         "organizar": "Dentro de organizar é onde você irá realizar a ação de 'Organização da Agenda', basta selecionar os treinamentos/entreterimentos e clicar em começar, é importante manter um equilibrio nas agendas de treinamento e entreteirimento para que o estresse mental da fada não passe do limite. Ao realizar o organizar será consumido 10 de VIT e em seguida toda a sua Ação será reestabelicida novamanete para que possa jogar o doce de fada. Dica: Procure sempre combinar o entreterimento com o mesmo tipo de atributo que você está buscando, ou por entreterimentos que de atributos globais. O VIT é resetado todos os dias as 5h. ",
         "docedefada": "Para jogar o doce de fada é consumido Ação por cada movimento que você fizer no tabuleiro. O Objetivo é colher os atributos que esta procurando sem deixar para trás os que irá precisar para desbloquear requisitos para testes e classes. Os testes acontecem em determinadas idades e são indicados no canto da tela quando estiverem perto de acontecer.",
         "metas": "As metas de vida da fada aparecem ao decorrer da sua evolução, são mostradas no canto inferior esquerdo da tela, para ver os requisitos solicitados basta apertar em cima e terá acesso ao que sua fada deve ter antes de certa idade para ganhar alguns bonus de atributos.",
-        "requerimentos": ""
+        "requerimentos": "Para saber o que sua fada irá precisar para desbloquear uma nova classe, bem ao lado dela na internface existe um prateleira com livros, basta clicar ali e verificar qual o próxima classe que você irá querer desbloquear, a cada nova classe desbloqueada de determinado atributo a próxima sempre irá exigir mais e mais pontos para que seja alcançado seu objetivo."
     }
 
 
