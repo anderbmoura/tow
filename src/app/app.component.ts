@@ -51,11 +51,11 @@ export class AppComponent {
         url   : "/farm",
         icon  : "vegetal"
       },
-      {
-        title : 'CB.name',
-        url   : "/cb",
-        icon  : "thumbs-up-outline"
-      },
+      // {
+      //   title : 'CB.name',
+      //   url   : "/cb",
+      //   icon  : "thumbs-up-outline"
+      // },
       {
         title : 'MERCADO.name',
         url   : "/mercado",
@@ -110,6 +110,16 @@ export class AppComponent {
         title : 'FADA.name',
         url   : "/fada",
         icon  : "fada"
+      },
+      {
+        title : 'TRILHADASESTRELAS.name',
+        url   : "/trilhadasestrelas",
+        icon  : "brilho"
+      },
+      {
+        title : 'FRONTEDAGLORIA.name',
+        url   : "/frontedagloria",
+        icon  : "monstro"
       },
     ]
   }

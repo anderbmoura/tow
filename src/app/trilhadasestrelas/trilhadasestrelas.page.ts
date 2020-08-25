@@ -5,11 +5,11 @@ import { TranslateService } from '@ngx-translate/core';
 import { AdmobFreeService } from '../services/admobfree.service';
 
 @Component({
-  selector: 'app-cb',
-  templateUrl: './cb.page.html',
-  styleUrls: ['./cb.page.scss'],
+  selector: 'app-trilhadasestrelas',
+  templateUrl: './trilhadasestrelas.page.html',
+  styleUrls: ['./trilhadasestrelas.page.scss'],
 })
-export class CbPage implements OnInit {
+export class TrilhadasestrelasPage implements OnInit {
 
   constructor(private translate: TranslateService, private popoverCtrl: PopoverController, private alertCtrl: AlertController, private admobFreeService: AdmobFreeService) { }
 

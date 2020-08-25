@@ -4,27 +4,28 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { CbPageRoutingModule } from './cb-routing.module';
+import { FrontedagloriaPageRoutingModule } from './frontedagloria-routing.module';
 
-import { CbPage } from './cb.page';
+import { FrontedagloriaPage } from './frontedagloria.page';
 
 import { TranslateModule } from '@ngx-translate/core';
 import { RouterModule } from '@angular/router';
+
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    CbPageRoutingModule,
+    FrontedagloriaPageRoutingModule,
     RouterModule.forChild([
       {
         path: '',
-        component: CbPage
+        component: FrontedagloriaPage
       }
     ]),
     TranslateModule
   ],
-  declarations: [CbPage]
+  declarations: [FrontedagloriaPage]
 })
-export class CbPageModule {}
+export class FrontedagloriaPageModule {}

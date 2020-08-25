@@ -4,9 +4,9 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { CbPageRoutingModule } from './cb-routing.module';
+import { TrilhadasestrelasPageRoutingModule } from './trilhadasestrelas-routing.module';
 
-import { CbPage } from './cb.page';
+import { TrilhadasestrelasPage } from './trilhadasestrelas.page';
 
 import { TranslateModule } from '@ngx-translate/core';
 import { RouterModule } from '@angular/router';
@@ -16,15 +16,15 @@ import { RouterModule } from '@angular/router';
     CommonModule,
     FormsModule,
     IonicModule,
-    CbPageRoutingModule,
+    TrilhadasestrelasPageRoutingModule,
     RouterModule.forChild([
       {
         path: '',
-        component: CbPage
+        component: TrilhadasestrelasPage
       }
     ]),
     TranslateModule
   ],
-  declarations: [CbPage]
+  declarations: [TrilhadasestrelasPage]
 })
-export class CbPageModule {}
+export class TrilhadasestrelasPageModule {}

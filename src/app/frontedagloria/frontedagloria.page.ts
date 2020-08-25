@@ -5,11 +5,11 @@ import { TranslateService } from '@ngx-translate/core';
 import { AdmobFreeService } from '../services/admobfree.service';
 
 @Component({
-  selector: 'app-cb',
-  templateUrl: './cb.page.html',
-  styleUrls: ['./cb.page.scss'],
+  selector: 'app-frontedagloria',
+  templateUrl: './frontedagloria.page.html',
+  styleUrls: ['./frontedagloria.page.scss'],
 })
-export class CbPage implements OnInit {
+export class FrontedagloriaPage implements OnInit {
 
   constructor(private translate: TranslateService, private popoverCtrl: PopoverController, private alertCtrl: AlertController, private admobFreeService: AdmobFreeService) { }
 
@@ -33,5 +33,6 @@ export class CbPage implements OnInit {
     });
     await popover.present();
   }
+
 
 }

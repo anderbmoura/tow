@@ -115,7 +115,7 @@
         "lvlreq": "LVL 60 para comer",
         "require": "Ingredientes",
         "name": "Dragon Wrap",
-        "buffs": "CB: 3720, HP: 6600, Ataque: 220, Defesa: 220, Resistencia a crítico: 1~2%"
+        "buffs": "CB: 3720, HP: 6600, Ataque: 220, Defesa: 220, Resistência a crítico: 1~2%"
 
     },
 
@@ -142,7 +142,7 @@
         "lvlreq": "LVL 60 para comer",
         "require": "Ingredientes",
         "name": "Hambúrguer com Batatas Fritas e Frango",
-        "buffs": "CB: 4400, HP: 8400, Ataque: 280, Defesa: 280, Cura realizada: 5%, Redução de dano crítico: 2%, Resistencia a críticos: 0 ~ 2%"
+        "buffs": "CB: 4400, HP: 8400, Ataque: 280, Defesa: 280, Cura realizada: 5%, Redução de dano crítico: 2%, Resistência a críticos: 0 ~ 2%"
 
     },
 
@@ -214,7 +214,7 @@
         "lvlreq": "LVL 80 para comer",
         "require": "Ingredientes",
         "name": "Salada de Lula no pão",
-        "buffs": "CB: 6360, HP: 12600, Ataque: 420, Defesa: 420, HP: 2%, DMGx: 0% ~ 2%, Crit resistencia: 0% ~ 2%"
+        "buffs": "CB: 6360, HP: 12600, Ataque: 420, Defesa: 420, HP: 2%, DMGx: 0% ~ 2%, Crit resistência: 0% ~ 2%"
 
     },
 
@@ -259,7 +259,7 @@
         "lvlreq": "LVL 90 para comer",
         "require": "Ingredientes",
         "name": "Tentáculos da lula do arco-íris",
-        "buffs": "CB: 7560, HP: 16800, Ataque: 560, Defesa: 560, Resistencia a debuff: 3% ~ 8%"
+        "buffs": "CB: 7560, HP: 16800, Ataque: 560, Defesa: 560, Resistência a debuff: 3% ~ 8%"
 
     },
 
@@ -299,9 +299,9 @@
 
     "CB": {
         "name": "Dicas sobre CB",
-        "descrip": "Abaixo você encontra todas as formas de aumentar seu CB disponíveis no jogo.",
+        "descrip": "EM BREVE!",
         "cbcartarheader": "CB das Cartas",
-        "cbcartas": "Nas cartas a dica que podemos dar para os iniciantes é, não gaste sua mana melhorando cartas roxas, pois elas serão trocadas rapidamente por cartas douradas. Quando começar a pegar suas primeiras cartas douradas não tenho medo de avançar ela até o limite máximo de +12, pois quando pegar cartas melhores e for realizar a troca, ao desmantelar suas cartas douradas, toda mana gasta para melhorar até +12 será devolvida para você. Assim te permitando aumentar o nível da sua nova carta. Conforme você avançar no jogo verá que existem cartas de difernetes níveis e tipos, douradas nível 1,2 e 3, vermelhas (que são as melhores do jogo) níveis 1,2 e 3 também, como já é esperado as cartas vermelhas são as mais díficeis de se conseguir mas vale a paciência pois o retorno de CB e atributos para o personagem é muito bom.",
+        "cbcartas": "Nas cartas a dica que podemos dar para os iniciantes é, não gaste sua mana melhorando cartas roxas, pois elas serão trocadas rapidamente por cartas douradas. Quando começar a pegar suas primeiras cartas douradas não tenho medo de avançar ela até o limite máximo de +12, pois quando pegar cartas melhores e for realizar a troca, ao desmantelar suas cartas douradas, toda mana gasta para melhorar até +12 será devolvida para você. Assim te permitindo aumentar o nível da sua nova carta. Conforme você avançar no jogo verá que existem cartas de diferentes níveis e tipos, douradas nível 1,2 e 3, vermelhas (que são as melhores do jogo) níveis 1,2 e 3 também, como já é esperado as cartas vermelhas são as mais difíceis de se conseguir mas vale a paciência pois o retorno de CB e atributos para o personagem é muito bom.",
         "cbequipsheader": "CB dos Equipamentos",
         "cbequips": "",
         "cbacessorios": "",
@@ -457,26 +457,47 @@
     "FADA": {
         "name": "Fada",
         "descrip": "Ao atingir o nível 65 a fada será liberada e para desbloquear basta construir a casa dela na fazenda com os materias solicitados. ",
+        "vitt": "Vitalitade",
         "vit": "VIT é o que você irá utilizar para poder usar a ação de organizar, cada vez que faz o organizar da fada é consumido 10 de VIT. Todos os dias você recebe 30 de VIT para gastar na fada, essa quantidade pode ser aumentanda comprando presente para a ela, o presente de 60 espirais aumenta o VIT diário para 40 enquanto o presente de 150 aumenta para 50.",
+        "presentet": "Presentes",
         "presente": "O presente da fada é uma forma de te ajudar a subir mais rapidamente os atributos da fada, quando você abre o presente que adquiriu virá uma roupa com buffs aletórios para atributos aletórios que só poderá ser utilizada em um determido periodo de idade da fada indicado na descrição da roupa. O presente também só poderá ser utilizado na fada atual, ou seja, se você utilizar uma roupa para te ajudar a subir atributos na sua fada ao pegar outra essa roupa não estará mais disponível sendo necessário comprar novamente um presente. Dica: Os presentes são melhores utilizados em metas que precisem de 8000+ de pontos de determinado atributo.",
+        "desbloqueart": "Desbloquear",
         "desbloquear": "Na aba desbloquear você irá liberar novos tipos de treinamento para serem utilizados no organizar da fada. Quanto maior o nível do treinamento desbloqueado, maior é o número de pontos que ele te da ao ser utilizado. Em 'aprender' você desbloqueia treinamentos importantes para o cumprimento das metas e alcance dos objetivos e pré-requisitos para que a fada possa desbloquear uma nova classe, vale ressaltar que a cada treinamento desbloqueado será necessário cada vez mais Vigor para desbloquear o próximo, sendo que quanto mais você pega de uma determinada cor, mais barato fica o desbloqueio. Já em 'Entreterimento' você desbloqueia 'treinamentos' que relaxam a sua fada, diminuindo o estresse causado pelos treinamentos de verdade, são como se fossem brincadeiras para ela, é muito importante manter um equilibrio bom entre esses dois tipos.",
+        "estresset": "Estresse",
         "estresse": "Na parte de cima dentro do menu organizar existe uma barrada de estresse mental, é importante que você saiba equilibrar esta barra para não perder pontos importantes nos atributos conquistados ou pontos de 'Ação'. Para manter a barra sempre com uma média razoavel não arriscando que ela estoure basta que na organização da fada não tenha apenas Treinamentos e sim uma mescla entre (Aprender x Entreterimento). ",
+        "organizart": "Organizar",
         "organizar": "Dentro de organizar é onde você irá realizar a ação de 'Organização da Agenda', basta selecionar os treinamentos/entreterimentos e clicar em começar, é importante manter um equilibrio nas agendas de treinamento e entreteirimento para que o estresse mental da fada não passe do limite. Ao realizar o organizar será consumido 10 de VIT e em seguida toda a sua Ação será reestabelicida novamanete para que possa jogar o doce de fada. Dica: Procure sempre combinar o entreterimento com o mesmo tipo de atributo que você está buscando, ou por entreterimentos que de atributos globais. O VIT é resetado todos os dias as 5h. ",
+        "docedefadat": "Doce de Fada",
         "docedefada": "Para jogar o doce de fada é consumido Ação por cada movimento que você fizer no tabuleiro. O Objetivo é colher os atributos que esta procurando sem deixar para trás os que irá precisar para desbloquear requisitos para testes e classes. Os testes acontecem em determinadas idades e são indicados no canto da tela quando estiverem perto de acontecer.",
+        "metast": "Metas",
         "metas": "As metas de vida da fada aparecem ao decorrer da sua evolução, são mostradas no canto inferior esquerdo da tela, para ver os requisitos solicitados basta apertar em cima e terá acesso ao que sua fada deve ter antes de certa idade para ganhar alguns bônus de atributos.",
+        "requerimentost": "Requerimentos",
         "requerimentos": "Para saber o que sua fada irá precisar para desbloquear uma nova classe, bem ao lado dela na interface existe uma prateleira com livros, basta clicar ali e verificar qual o próxima classe que você irá querer desbloquear, a cada nova classe desbloqueada de determinado atributo a próxima sempre irá exigir mais e mais pontos para que seja alcançado seu objetivo."
     },
 
     "TRILHADASESTRELAS": {
+        "name": "Trilha das Estrelas",
         "descrip": "A trilha das estrelas é liberada ao atingir o nível 60. Dentro da interface da trilha existem 2 tipos que devem ser evoluídos sempre que possuir os materiais necessários, a evolução da trilha afeta seu CB diretamente além de aumentar os atributos do seu personagem de acordo com a trilha em que esta subindo de nível. Já na evolução da nébula também é afetado diretamente o CB, aumentando os atributos do personagem e ainda lhe dando uma habilidade adicional que possui uma pequena chance de ser ativada.",
+        "trilhat": "Trilha das Estrelas",
         "trilha": "A primeira trilha liberada para você será a Sagitta, os materiais utilizados para evoluir sua trilha das estrelas são Obsidiana, Esmeralda, Colbalto Oceânico e Ametista que são obtidos no mapa Ruinas Antigas realizando as duas missões diarias, abrindo a sacola de gema estelar ou comprando na loja da trilha, o número de materiais solicitados aumenta conforme o nível da trilha sobe, inicialmente para qualquer uma delas irão te pedir 6 Obsidiana, 6 Esmeralda e 6 Cobalto. É importante ver quais atributos a trilha te fornece e quais são seus atributos quando chegar ao nível máximo, para isso basta clicar na trilha e logo após sobre a lupa que se encontra do lado direito da descrição, veja se os atributos são importantes para o seu personagem pois as trilhas possuem suas particularidades, elas podem te dar ataque, defesa, dano contra chefes, Chance de bloqueio e etc. Conforme você subir o nível da sua trilha outras tilhas serão liberadas sendo um total de 12.",
         "elitedasruinas": "A missão de derrotar 5 elites da ruina é realizada da seguinte forma, você deve ir para um spot para realizar a sua missão principal que é derrotar 100 monstros, sempre que você derrota uma certa quantidade de monstros um chefe surge, você deve derrotar o chefe 5 vezes para concluir todas as suas missões nas Ruinas Antigas.",
+        "nebulat": "Nébula",
         "nebula": "A nébula funciona da mesma maneira que a trilha das estrelas, você deve possuir os matériais necessários para que possa avança-lá de nível. A diferença maior se encontra em 2 detalhes, o primeiro é o tipo de material necessário para evoluir sua nébula, aqui são utilizados Pedra Esmaltada, Âmbar e Diamante Bruto que são adquiridos na loja da trilha com cristais, comprando com espirais em algum evento/loja ou juntando os distintivos ganhos na celebração do castelo do céu. E a segunda é que ao evoluir a nébula pelo menos ao nível de força roxo é liberada uma habilidade extra que possui uma pequena chance de ser ativada. Os detalhes de cada nébula podem ser acessadas também pela lupa que se encontra ao lado direito na descrição de cada uma delas.",
+        "lojat": "Loja",
         "loja": "A loja da trilha da estrelas é acessada clicando no botão que se encontra ao lado esquerdo dentro da interface da trilha das estrelas. Todos os materiais necessários para aumentar o nível da trilha são vendidos por cristais.",
+        "dicast": "Elite e Dica",
         "dica": "Por mais demorado que seja juntar Esmeraldas e Cobalto Oceânico não gaste seus cristais para compra-los, seus cristais devem ser gastos apenas com Pedra Esmaltada (2500k), Âmbar(2500k) e Diamnte Bruto(50000k). Como pode ver o Diamante Bruto será o mais dificil de ser conquistado, portanto tenha paciência e junte seus cristais. Outro dica é não vender suas sacolas de gema estelar, sempre as utilize para já começar a juntar as pedras e cristais desde de cedo."
     },
 
     "FRONTEDAGLORIA": {
+        "name": "Fronte da Glória",
+        "descrip": "Ao atingir o nível 80 você irá receber a quest do despertar que deve ser realizada para poder acessar o Fronte da Glória. Será liberado na parte das cartas os conjuntos, cada conjunto deve ser criado para determinada situação que você vá jogar, por exemplo conjunto 1: PVE, conjunto 2: PVP, conjunto 3: Fronte da Glória, o conjunto fronte da glória deve conter as cartas Mina ou Loras que começaram a ser dropadas no novo reino das cartas VAZIO, estas cartas possuem o atributo PERFURAR que é utilizado para destruir o escudo que o boss possui, quanto mais perfurar você tiver, mais rapidamente o escudo irá quebrar. Ao quebrar o escudo do boss você terá um pequeno momento para que seja possível dar dano nele antes que o escudo sejá restaurado, se neste tempo você não conseguir derrotar o boss terá que quebrar o escudo novamente até que consiga realizar esta ação. É no fronte da gloria que você irá dropar runas, exp e livros que serão utilizados para melhorar suas habilidades do despertar.",
+        "desafiosolot": "Desafio Solo",
+        "desafiosolo": "O desafio solo é liberado logo após você ter completado a quest do despertar, aqui existirá uma quantidade mínima recomendada de perfurar para que você possa passar tranquilamente do primeiro boss, a medida que você avança a quantidade de perfurar necessário aumenta gradativamente chegando ao máximo de 150 que será no terceiro boss. Ao derrotar o último boss você irá receber exp do despertar e uma nova habilidade aleatória relacionada ao despertar. O desafio solo só pode ser completado uma única vez não sendo resetado semanalmente assim como o desafio em equipe.",
+        "desafioequipet": "Desafio em Equipe",
+        "desafioequipe": "Você pode iniciar batalhas em equipe após passar os 3 estágios do modo solo na fronte da glória, ou fazendo parte de alguma equipe que já possa iniciar neste modo desde que você tenha ao menos passado do nível 1 no modo solo. Diferente do desafio solo, o desafio em equipe se torna mais difícil exigindo que você tenha ainda mais perfurar e dano para conseguir passar. Outra diferença do desafio em equipe é que ele pode ser completado 1 vez por semana, sendo possível ganhar novamente exp do despertar, runas e habilidades relacionadas ao mesmo. Procure sempre entrar com uma equipe forte e bem equilibrada em termos de classe pois aqui é realmente mais difícil que o desafio solo. A fronte da glória é resetada toda quinta-feira às 5h.",
+        "perfurart": "Cartas Perfurar",
+        "perfurar": "Perfurar é um atributo utilizado no desafio Fronte da Glória, a função do perfurar é retirar o escudo que cerca o boss neste modo, ao fim da barra o boss irá ficar vulnerável e perder HP ao tomar dano. As cartas de perfurar são adquiridas no reino das cartas a partir do nível 80 jogando o reino do vazio, você deve juntar 25 fragmentos de Mina ou Loras e depois fundi-los para adquirir suas cartas, é possível equipar até 4 Minas e 4 Loras aumentando ainda mais o seu perfurar, é importante que você deixa suas cartas bem refinadas e na melhoria +12 para que possa ter o máximo proveito possível delas. O material utilizado para refinar cartas de perfurar é adquirido desmantelando outras Minas ou Loras."
 
     }
 

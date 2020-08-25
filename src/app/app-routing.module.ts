@@ -75,6 +75,14 @@ const routes: Routes = [
     path: 'fada',
     loadChildren: () => import('./fada/fada.module').then( m => m.FadaPageModule)
   },
+  {
+    path: 'frontedagloria',
+    loadChildren: () => import('./frontedagloria/frontedagloria.module').then( m => m.FrontedagloriaPageModule)
+  },
+  {
+    path: 'trilhadasestrelas',
+    loadChildren: () => import('./trilhadasestrelas/trilhadasestrelas.module').then( m => m.TrilhadasestrelasPageModule)
+  },
 ];
 
 @NgModule({

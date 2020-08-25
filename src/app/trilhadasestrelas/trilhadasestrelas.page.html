@@ -1,0 +1,81 @@
+<ion-header>
+  <ion-toolbar color="light">
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+      </ion-buttons>
+    <ion-title>
+      {{ 'TRILHADASESTRELAS.name' | translate }}
+    </ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="openLanguagePopover($event)">
+        <ion-icon name="ellipsis-horizontal-circle-outline" slot="icon-only">
+        </ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-text>
+    <h6>{{ 'TRILHADASESTRELAS.descrip' | translate }}</h6>
+  </ion-text>
+
+
+  <ion-item-divider color="primary">
+    <ion-text color="light">
+      <h4><b>{{ 'TRILHADASESTRELAS.trilhat' | translate }}</b></h4>
+    </ion-text>
+   </ion-item-divider>
+
+   <ion-card>
+    <img src="../../assets/imgs/trilhaestrelas/trilha.jpg" />
+  </ion-card>
+
+   <ion-text>
+    <h6>{{ 'TRILHADASESTRELAS.trilha' | translate }}</h6>
+  </ion-text>
+
+  <ion-item-divider color="primary">
+    <ion-text color="light">
+      <h4><b>{{ 'TRILHADASESTRELAS.nebulat' | translate }}</b></h4>
+    </ion-text>
+   </ion-item-divider>
+
+   <ion-card>
+    <img src="../../assets/imgs/trilhaestrelas/nebula.jpg" />
+  </ion-card>
+
+   <ion-text>
+    <h6>{{ 'TRILHADASESTRELAS.nebula' | translate }}</h6>
+  </ion-text>
+
+  <ion-item-divider color="primary">
+    <ion-text color="light">
+      <h4><b>{{ 'TRILHADASESTRELAS.lojat' | translate }}</b></h4>
+    </ion-text>
+   </ion-item-divider>
+
+   <ion-card>
+    <img src="../../assets/imgs/trilhaestrelas/loja.jpg" />
+  </ion-card>
+
+   <ion-text>
+    <h6>{{ 'TRILHADASESTRELAS.loja' | translate }}</h6>
+  </ion-text>
+
+  <ion-item-divider color="primary">
+    <ion-text color="light">
+      <h4><b>{{ 'TRILHADASESTRELAS.dicast' | translate }}</b></h4>
+    </ion-text>
+   </ion-item-divider>
+
+   <ion-text>
+    <h6>{{ 'TRILHADASESTRELAS.elitedasruinas' | translate }}</h6>
+  </ion-text>
+
+  <ion-text>
+    <h6>{{ 'TRILHADASESTRELAS.dica' | translate }}</h6>
+  </ion-text>
+
+</ion-content>
