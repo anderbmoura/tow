@@ -39,7 +39,9 @@ export class AppComponent {
   private initializeFirebase() {
     const options: PushOptions = {
       android: {
-        senderID: 'Seu codigo aqui'
+        senderID: '923222499648',
+        sound: true,
+        vibrate: true
       }
     }
 
@@ -47,7 +49,6 @@ export class AppComponent {
 
     pushObject.on('registration').subscribe(res => console.log(` ${res.registrationId}`))
 
-    pushObject.on('notification').subscribe(res => console.log(`Já chegou o disco voador: ${res.message}`))
   }
 
   sideMenu()
