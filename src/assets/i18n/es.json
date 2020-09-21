@@ -1,7 +1,8 @@
 {
     "HOME": {
         "title": "Bienvenido",
-        "descrip": "Bienvenido a WikiTow, el propósito de la aplicación es poder ayudar de alguna manera a aquellos que están comenzando el juego o incluso a aquellos que han estado jugando durante algún tiempo. No dude en enviar su opinión sobre la aplicación o sugerencia / corrección de cualquier información. En el menú de la izquierda accederá a todo el contenido que la aplicación tiene actualmente. ¡Haz buen uso y espero que esta aplicación te ayude!"
+        "colaboracao": "Colaboración del gremio, FairyTail - EST-117",
+        "descrip": "Bienvenidos a Tales of Guide, nuestro objetivo es poder ayudar de alguna forma a los que están comenzando o incluso a los que llevan algún tiempo jugando. No dude en enviar su opinión sobre la aplicación o sugerencia / corrección de cualquier información. En el menú de la izquierda accederás a todo el contenido que tenemos actualmente. ¡Obtenga buenas ganancias y un buen juego!"
     },
     "ALERT": {
         "header": "Error",
@@ -60,7 +61,7 @@
         "lvlreq": "LVL 55 para comer",
         "require": "Ingredientes",
         "name": "Filete de pescado",
-        "buffs": "CB: 2880, HP: 4200, Ataque: 140, Defensa: 140, DMG: +1%"
+        "buffs": "CB: 2880, HP: 4200, Ataque: 140, Defensa: 140, DMG: +1% - necesario comprar la receta en el npc."
 
     },
 
@@ -105,7 +106,7 @@
         "lvlreq": "LVL 55 para comer",
         "require": "Ingredientes",
         "name": "Espaguetis",
-        "buffs": "CB: 3480, HP: 6000, Ataque: 200, Defensa: 200, DMG a jefe: +2%"
+        "buffs": "CB: 3480, HP: 6000, Ataque: 200, Defensa: 200, DMG a jefe: +2%  - necesario comprar la receta en el npc."
 
     },
 
@@ -150,7 +151,7 @@
         "lvlreq": "LVL 60 para comer",
         "require": "Ingredientes",
         "name": "Chuleta de cordero",
-        "buffs": "CB: 4680, HP: 9000, Ataque: 300, Defensa: 300, Debuff Boost: 2% ~ 5%, DMG: 0 ~ 1%"
+        "buffs": "CB: 4680, HP: 9000, Ataque: 300, Defensa: 300, Debuff Boost: 2% ~ 5%, DMG: 0 ~ 1%  - necesario comprar la receta en el npc."
 
     },
 
@@ -186,7 +187,7 @@
         "lvlreq": "LVL 70 para comer",
         "require": "Ingredientes",
         "name": "Fideua",
-        "buffs": "CB: 5640, HP: 11400, Ataque: 380, Defensa: 380, DMG adicional a objetivos con desventaja: 2% ~ 4%"
+        "buffs": "CB: 5640, HP: 11400, Ataque: 380, Defensa: 380, DMG adicional a objetivos con desventaja: 2% ~ 4%  - necesario comprar la receta en el npc."
 
     },
 
@@ -195,7 +196,7 @@
         "lvlreq": "LVL 70 para comer",
         "require": "Ingredientes",
         "name": "Calamar Crujiente",
-        "buffs": "CB: 5880, HP: 12000, Ataque: 400, Defensa: 400, Crit DMG: 4%, Crit Rate: 0 ~ 2%"
+        "buffs": "CB: 5880, HP: 12000, Ataque: 400, Defensa: 400, Crit DMG: 4%, Crit Rate: 0 ~ 2% - receta ganada en la bolsa del maestro cocinero."
 
     },
 
@@ -231,7 +232,7 @@
         "lvlreq": "LVL 80 para comer",
         "require": "Ingredientes",
         "name": "Pastel de champiñones",
-        "buffs": "CB: 6840, HP: 14400, Ataque: 480, Defensa: 480, Curación realizada: 3% ~ 8%, Velocidad de movimiento: 2% ~ 8%"
+        "buffs": "CB: 6840, HP: 14400, Ataque: 480, Defensa: 480, Curación realizada: 3% ~ 8%, Velocidad de movimiento: 2% ~ 8%  - necesario comprar la receta en el npc."
 
     },
 
@@ -240,7 +241,7 @@
         "lvlreq": "LVL 80 para comer",
         "require": "Ingredientes",
         "name": "Langosta Thermidor",
-        "buffs": "CB: 7080, HP: 15000, Ataque: 500, Defensa: 500, Ataque: 1% ~ 2%, Crit rate: 1% ~ 2%, Ignorar Def: 0% ~ 5%"
+        "buffs": "CB: 7080, HP: 15000, Ataque: 500, Defensa: 500, Ataque: 1% ~ 2%, Crit rate: 1% ~ 2%, Ignorar Def: 0% ~ 5%  - receta ganada en la bolsa del maestro cocinero."
 
     },
 
@@ -267,7 +268,7 @@
         "lvlreq": "LVL 90 para comer",
         "require": "Ingredientes",
         "name": "Mariscos Sukiyaki",
-        "buffs": "CB: 8040, HP: 18600, Ataque: 620, Defensa: 620, Posibilidad de bloqueo: 5%, Bloquear el daño: 0% ~ 3%, Reducción refleja la tasa: 0% ~ 5%"
+        "buffs": "CB: 8040, HP: 18600, Ataque: 620, Defensa: 620, Posibilidad de bloqueo: 5%, Bloquear el daño: 0% ~ 3%, Reducción refleja la tasa: 0% ~ 5%  - necesario comprar la receta en el npc."
 
     },
 
@@ -276,7 +277,7 @@
         "lvlreq": "LVL 90 para comer",
         "require": "Ingredientes",
         "name": "Salmón y huevo con tostadas",
-        "buffs": "CB: 8280, HP: 19500, Ataque: 650, Defensa: 650, tasa de esquivar: 2% ~ 3%, HP: 0% ~ 3%, DMGx: 0% ~ 3%"
+        "buffs": "CB: 8280, HP: 19500, Ataque: 650, Defensa: 650, tasa de esquivar: 2% ~ 3%, HP: 0% ~ 3%, DMGx: 0% ~ 3%  - receta ganada en la bolsa del maestro cocinero."
 
     },
 
@@ -286,19 +287,22 @@
 
     "FARM": {
         "name": "Granja",
-        "descricao": "Granja es donde puedes cultivar, fabricar alimentos y cumplir con los pedidos de los clientes para obtener más beneficios y recompensas en el juego. Se puede desbloquear desde el nivel 30 en adelante pagando 100 fama del reino.",
+        "descricao": "En la granja, puede cultivar, fabricar alimentos, cumplir con las solicitudes de recompensas de los clientes como: monedas de la granja, experiencia ilimitada y plumas. Pesca, minería y adquisición de madera. La granja se puede desbloquear desde el nivel 30 en adelante pagando 100 de fama del reino.",
         "headerchefechoco": "Jefe Choco",
-        "chefechoco": "Después de atender a todos los clientes, el Chef Choco puede aparecer en su granja pidiéndole una solicitud especial. En el servicio, ganará la bolsa del maestro cocinero que puede darle algún artículo raro o normal. También te da la oportunidad de hacer mejoras en los animales de tu granja.",
-        "headerguaxinim": "El gran mapache",
-        "guaxinim": "Varias veces al día, el mapache aparecerá en su granja pidiéndole algo al azar, es importante servirlo, ya que es una de las fuentes que tiene para ganar huevos de insectos.",
-        "headerpets": "Mascota de la granja",
-        "cachorros": "Puedes conseguir un perro mascota por 10,000 monedas de granja. Él se quedará en su granja y hará un viaje para traer recompensas cada 8 veces que sea alimentado. Solo tus amigos y compañeros de clan pueden alimentar al perro. Puede alimentar hasta 12 perros una vez al día, incluido su propio perro. Después de 4 viajes cortos, el perro está haciendo un viaje más largo.",
-        "fimdescricao": "Así que siempre dedique tiempo a su granja, ya que es importante para su evolución."
+        "chefechoco": "Después de atender a todos los clientes, Chef Choco puede aparecer en su granja pidiéndole una solicitud especial. Sirviéndote ganarás la bolsa del maestro cocinero que puede darte la oportunidad de obtener mejoras para los animales de tu granja y puntos culinarios, además de recetas que solo se pueden obtener a través de la bolsa.",
+        "headerguaxinim": "El Gran Mapache",
+        "guaxinim": "Varias veces durante el transcurso del día, el gran mapache aparecerá en su granja con una solicitud aleatoria. Es importante servirte ya que es una de las fuentes de obtención de huevos de insectos, que se utilizan para alimentar al coco y también para cobrar al gremio.",
+        "headerpets": "Mascota de la Granja",
+        "cachorros": "Puedes conseguir un perro mascota por 10,000 monedas de la granja. Se quedará en su granja y hará un viaje para traer recompensas cada 8 veces que lo alimente. Solo tus amigos y compañeros de gremio pueden alimentar al perro. Puede alimentar hasta 12 perros una vez al día, incluido su propio perro. Después de 4 viajes cortos, el perro hará un viaje más largo.",
+        "fimdescricao": "Por lo tanto, siempre reserve tiempo para su granja, ya que es importante para su evolución."
     },
 
     "CB": {
-        "name": "Consejos sobre CB",
-        "cbcartas": "",
+        "name": "Dicas sobre CB",
+        "descrip": "EM BREVE!",
+        "cbcartarheader": "CB das Cartas",
+        "cbcartas": "Nas cartas a dica que podemos dar para os iniciantes é, não gaste sua mana melhorando cartas roxas, pois elas serão trocadas rapidamente por cartas douradas. Quando começar a pegar suas primeiras cartas douradas não tenho medo de avançar ela até o limite máximo de +12, pois quando pegar cartas melhores e for realizar a troca, ao desmantelar suas cartas douradas, toda mana gasta para melhorar até +12 será devolvida para você. Assim te permitindo aumentar o nível da sua nova carta. Conforme você avançar no jogo verá que existem cartas de diferentes níveis e tipos, douradas nível 1,2 e 3, vermelhas (que são as melhores do jogo) níveis 1,2 e 3 também, como já é esperado as cartas vermelhas são as mais difíceis de se conseguir mas vale a paciência pois o retorno de CB e atributos para o personagem é muito bom.",
+        "cbequipsheader": "CB dos Equipamentos",
         "cbequips": "",
         "cbacessorios": "",
         "cbmontariabatalha": "",
@@ -315,101 +319,194 @@
 
     "MERCADO": {
         "name": "Mercado",
-        "descrip": "",
-        "vitrine": "",
-        "especial": "",
-        "limite": "",
-        "espiral": "",
-        "moeda": "",
-        "pontos": "",
-        "artefato": "",
-        "comprar": "",
-        "vender": "",
-        "antecipacao": ""
+        "descrip": "Dentro de la opción de mercado, notará que hay dos tipos de comercio. La tienda es donde puede gastar espirales, comprar paquetes, intercambiar sus monedas de recompra, gastar la fama de su reino y los puntos ganados en la arena que se utilizan para comprar un fragmento de cofre dorado o una tarjeta de talismán aleatoria. En el comercio, aquí es donde encontrarás artículos que otros jugadores dejaron caer y que se ponen a la venta.",
+        "comercioheader": "Comercio",
+        "comercio": "En el oficio puedes obtener varios ítems, tales como: equipo para el personaje, escudos de armas, habilidades para tu guardián, sombreros, accesorios, letras no identificadas y otros. La diferencia dentro del comercio es la vitrina que funciona por sistema de subasta, donde un artículo se expone durante 4 horas y durante ese tiempo hasta 50 jugadores pueden estar interesados ​​en ese artículo. Al final de la cuenta, el artículo se venderá al azar al jugador 'más afortunado'.",
+        "loja": "Tienda",
+        "descriploja": "En la pestaña de la tienda tendrás acceso a algunos artículos que se venden directamente por el juego.",
+        "especialt": "Especial",
+        "especial": "Ofertas que se compran solo con espirales pagas. En esta pestaña no es posible lograr nada con una espiral enlazada.",
+        "limitet": "Límite",
+        "limite": "Algunos paquetes y artículos también se compran con espiral de pago. Al llegar a cierto nivel, aparecen algunos elementos más interesantes, como el “libro de cambio de clase” que se compra con una estrella plateada.",
+        "espiralt": "Espiral",
+        "espiral": "Aquí puede utilizar sus espirales enlazadas para obtener materiales de mejora para sus accesorios y equipos, como: Gemas de mejora. También se puede obtener: monturas simples, boletos de gacha, fruta de loto, maná, entre otros que sueltan según tu nivel.",
+        "moedat": "Moneda",
+        "moeda": "Las monedas se adquieren mediante recompra, se pueden recomprar con elementos y tarjetas no identificados además de algunos otros elementos que se obtienen en el juego como: Adaman. Es posible comprar: estrellas plateadas, maná, polvo estelar, materiales de mejora, luz de luna dorada y otros.",
+        "pontost": "Puntos",
+        "pontos": "Los puntos se dividen en 3 tipos.",
+        "cartasAjudante": "- Cartas de ayuda: Se adquieren cuando ayudas a otro jugador en algún dg, como en los Reinos de Cartas, Equipo, Tesoro del Dragón, Escolta, Jefe de Zodíacos o incluso enviando platos de comida.",
+        "ptarena": "- Puntos de arena: ganados cuando luchas en la arena, obteniendo ubicaciones.",
+        "famareino": "- Fama del reino: se obtiene al participar en eventos del reino a lo largo del día en el servidor. En esta pestaña podrás comprar fragmentos de cofre, cartas talismán, materiales de mejora, entre otros.",
+        "artefatot": "Artefacto",
+        "artefato": "Artículos aleatorios disponibles todos los días para que los compre, como: pluma, tela elegante, red y polvo. Los artículos se pueden actualizar usando el 'Boleto de actualización de artefactos', comprado con 10 espirales."
     },
 
     "FAMA": {
-        "name": "Fama del reino",
-        "descrip": "",
-        "ondeganhar": "",
-        "paraqueserve": "",
-        "dicascomogastar": ""
+        "name": "Fama del Reino",
+        "descrip": "La fama del reino se gana al participar en eventos del reino que ocurren diariamente durante el día dentro del juego. Recuerde que hay un límite diario para las ganancias de fama del reino. La fama del reino se usa para liberar el enchufe en el equipo y comprar algunos materiales de mejora para su equipo. También es posible comprar luz de luna púrpura para hacer invocaciones y dejar escudos de armas. Para utilizar los puntos, vaya al mercado en la pestaña Puntos."
     },
 
     "MONTARIADEGUERRA": {
-        "name": "Montura de guerra",
-        "descrip": "",
-        "ondeganhar": "",
-        "paraqueserve": "",
-        "subirnvl": "",
-        "fundir": ""
+        "name": "Montura de Guerra",
+        "descrip": "La montura de guerra se lanza desde el nivel 70 en adelante, cuando se lanza el evento Sky Castle. Al ingresar al castillo realizarás algunas misiones para ganar la moneda de cambio necesaria para poder comprar tu primer huevo de dragón. La montura de guerra se utiliza para ayudarte en el combate y afecta directamente a tu CB.",
+        "sacolat": "Bolso",
+        "sacola": "En la bolsa se presentan todos los artículos que dejas caer o ganas en cofres comprados en la tienda del castillo del cielo. Si desea desmantelar los artículos ganados, se convertirán en esencia para que la montura los consuma.",
+        "subirnvlt": "Subirse NV",
+        "subirnvl": "Para subir de nivel tu montura, usarás materiales que ya no te sirven como fuente de experiencia. Los equipos azules dan poca experiencia, mientras que los morados dan una cantidad mucho más interesante para ayudar al montaje.",
+        "fundirt": "Fusionar",
+        "fundir": "Los materiales utilizados en la fundición son huevos de dragón que puedes soltar rompiendo carros, abriendo cajas de suministros que se venden en la tienda del castillo, abriendo huevos en el tesoro del dragón o incluso comprando en la tienda con espirales pagadas. Importante prestar atención a esta característica ya que ayuda mucho en el CB de tu montura.",
+        "ovodourado": "El huevo de dragón dorado se puede obtener en la sala del tesoro con 6 manzanas doradas que se pueden comprar en eventos posteriores al nivel de personaje 75. También se puede comprar en eventos del juego. El huevo de oro cambia el aspecto de tu montura, haciéndola más bonita, además de escalar CB y soltar la pestaña de 'evolucionar', donde podrás incrementar el ranking completando las 5 estrellas. Para completar estas estrellas y ascender en la clasificación de I a IV, debes consumir huevos de oro y gastar 20000k de estrella de plata. Cada clasificación desbloqueará atributos para la montura como: bonificación de daño contra monturas y bonificación de HP. También se desbloquearán más espacios para equipar los orbes de dragón que se adquieren con puntos al final del castillo. Al alcanzar el ranking II y IV se cambiará la apariencia de la montura.",
+        "pedradeguerrat": "Piedra de Guerra",
+        "pedradeguerra": "Cuando llegues al nivel 85, habilitarás la montura, la Piedra de Guerra, las piedras de guerra se obtienen en eventos o cofres de apertura de las misiones diarias del castillo del cielo. También tienen cualidades así como equipamientos que van desde el azul al dorado. Al ganar tus piedras de guerra, puedes evolucionarlas con el objetivo de hacer la piedra perfecta. El precio que se paga por cada intento de evolución es con estrellas plateadas que aumentan con cada nivel conquistado, aquí hay 3 situaciones posibles, 1 - Fracaso, 2 - Éxito o 3 - Perfecto. Debes intentar evolucionar tus piedras con tantas estrellas PERFECTAS como puedas, cuanto más perfectas, mayor es el CB que te dará tu Piedra de Guerra."
+    
     },
 
     "CASTELOCEU": {
         "name": "Castillo del Cielo",
-        "descrip": "",
-        "comofunciona": "",
-        "baus": "",
-        "carrocas": "",
-        "lojadoceu": ""
+        "descrip": "Al llegar al nivel 70 obtendrás acceso al castillo del cielo, donde ganarás tu montura de batalla, para ganarla simplemente completa las misiones diarias del castillo y cómpralo en la tienda. Después de completar sus misiones y recibir sus recompensas, simplemente ingrese a la tienda del castillo del cielo a través de la interfaz del reino y compre su primer huevo de montar.",
+        "baust": "Colección de Cofres",
+        "baus": "En el campo del oponente hay cofres en el suelo, están en el costado del mapa, así que al salir de tu base, simplemente sigue el lado derecho o izquierdo. Debes tomar 5 de estos cofres y llevarlos a tu base, hay un marcador en tu campo que muestra dónde deben dejarse.",
+        "carrocast": "Destruir carros",
+        "carrocas": "Así como en los cofres hay dos vagones en cada campo enemigo, aquí es genial ir con un equipo o tan pronto como abras el castillo ya que habrá muchos jugadores golpeando el vagón, lo que hará que la misión sea más fácil y rápida de completar. La misión es destruir 3 vagones, no necesitas dar el golpe final para dar cuenta de la destrucción, solo haber causado daño contará como 1 vagón destruido.",
+        "detalhet": "Spots",
+        "detalhe": "Incluso después de destruir los carros y tomar los 5 cofres, su barra de progreso aún no está completa. Para terminar de completar esta barra de progreso solo encuentra un campo con monstruos que están a los lados o en el centro del mapa y mata a las turbas que están allí. Una vez que haya cargado completamente su barra y haya recolectado las recompensas, no hay nada más que hacer aquí."
     },
 
     "CORREDORNEBULOSO": {
-        "name": "Corredor nublado",
-        "descrip": "",
-        "comofunciona": "",
-        "acessorios": "",
-        "equipe": ""
+        "name": "Pasillo Neblinoso",
+        "descrip": "El pasillo neblinoso se libera al llegar al nivel 75, el acceso se realiza a través del mapa de Manador. El pasillo es el camino para que comiences a ganar tus accesorios dentro del mundo de Tales. Reúne un equipo de 5 jugadores fuertes con el mismo nivel de habilidad, no se recomienda jugar en modo automático en este mapa, siempre muévete y desvía lo más posible para no perder tus 4 vidas disponibles.",
+        "bossesqt": "Jefe a la izquierda: Mahonin",
+        "bossesq": "Justo en la entrada del campamento de Mahonin hay un 'activador' que generará un fantasma oscuro y un fantasma de luz en el que te transformarás para cancelar algunas habilidades de jefe si los invoca. En cierto punto, Mahonin puede convocar a una criatura oscura en el medio del campo que desatará olas de daño masivo, usar el activador para transformarse en el fantasma de la luz, acercarse a la criatura y usar la habilidad del fantasma para matarla de inmediato. Consejo: haga arreglos para que 1 jugador se active mientras otro jugador ya está posicionado para transformarse, de modo que cancele el mayor daño posible a su equipo. Mahonin también tiene una habilidad donde comienza a hablar de la luz divina del juicio, en ese momento apresúrate, usa el activador para que algún miembro de tu equipo se convierta en el fantasma oscuro, acércate a Mahonin y usa la habilidad del fantasma. Si no puede realizar la acción, use alguna transformación ya que el daño que recibirán es alto.",
+        "bossdirt": "Jefe a la derecha: Clione",
+        "bossdir": "El más pacífico de todos es Clione, antes de entrar al campo de batalla de Clione, toma la runa que está justo en la entrada, el jugador que tome la runa se encargará de liberar a sus aliados del aturdimiento que Clione causa en todos (excepto aquellos con la runa). En la esquina superior derecha de la pantalla hay un activador que debe usarse tan pronto como Clione grite 'DETENGA ESTE TUMBLE', el jugador que tomó la runa debe correr hacia el activador para que pueda liberar a sus aliados, en caso de que los aliados no lo hagan. en el área de efecto del ataque de Clione, recibirán golpes muertos. Básicamente es una cuestión de posicionamiento.",
+        "baphomett": "3 Baphomets",
+        "baphomet": "Después de pasar Clione subirás a los 3 Baphomets, se recomienda ir un DPS en el medio y dos a cada lado a los lados derecho e izquierdo, pisa el círculo que está justo en la entrada de cada baphomet para deshabilitar el escudo que los rodea y empezar haciendo daño. Mátalos rápidamente para que no activen sus habilidades.",
+        "ellat": "Jefe final: Ella",
+        "ella": "Ella es la última jefa y sus habilidades son algunas de las más complicadas del corredor. Es extremadamente importante mantenerse en movimiento en todo momento, ya que causa una gran cantidad de daño. Para superar a este jefe, solo ten cuidado y daña siempre que sea posible. Dos habilidades que debes tener en cuenta son los globos que deja caer el jefe y cuando una carta en particular se voltea en medio de la pelea. En los globos no hay ningún secreto, solo esquiva para mantenerte con vida. En la segunda habilidad, Ella mostrará 3 cartas sorpresa, y cuando se revelen corre hacia el lado opuesto, por ejemplo: si Ella te muestra una carta de ESPADA NEGRA, debes correr hacia el lado rojo del campo, y si ella te da muestra una tarjeta de CORAZONES ROJOS, debes correr hacia el lado negro del campo. Si no puede realizar esta acción, recibirá Hit kil. Habrá un momento durante la batalla cuando el campo se dividirá y aparecerá una carta en cada lado, los miembros de cada parte del campo deben ser rápidos para matar la carta, recordando que quien esté en el lado rojo no podrá ayudar a los miembros del lado negro. , hasta que ambas cartas sean derrotadas.",
+        "acessoriost": "Accesorios",
+        "acessorios": "Derrotar a cada jefe te dará accesorios aleatorios, con diferentes cualidades siguiendo el mismo patrón, azul, morado y dorado. Los accesorios tienen elementos y están indicados para cada tipo de construcción que estés realizando, Fuego: DPS, Hielo: Tanque, Viento: Esquivar."
     },
 
     "EQUIPAMENTOS": {
-        "name": "Equipos",
-        "descrip": "",
-        "dicas": "",
-        "avancar": "",
-        "slotscarta": "",
-        "reforja": ""
+        "name": "Equipo",
+        "descrip": "En su conjunto el equipo es una de las partes más importantes de tu personaje, es en base a él que darás forma a en qué atributo se enfocará tu personaje, los conjuntos están compuestos por (pecho, cinturón, pantalón y botas), uniendo las 4 partes de el mismo set, es decir con el mismo nombre, activarás atributos extra para tu personaje como: índice crítico, posibilidad de bloquear, esquivar y otros. El arma, guante y talismán a su vez no tienen conjuntos, pero también hay varios tipos diferentes, debes elegir el que mejor se adapta al tipo de personaje que estás haciendo. El sombrero se puede ganar usando el mapa de artefactos y puede venir con diferentes calidades (morado, dorado o rojo).",
+        "dicast": "Consejos",
+        "dicas": "Si estás comenzando el juego ahora usa el equipo que caerá durante el juego hasta que llegues al nivel 60, a partir de este nivel debes enfocarte en comprar y soltar equipo dorado nivel 60, nunca gastes tus proyectiles con equipo que no sea este. nivel, porque el equipo de nivel 60 es el único que se quedará contigo durante el juego, porque luego pueden avanzar en el equipo 70, 80 y así sucesivamente, usando los escudos de armas.",
+        "avancart": "Avanzar",
+        "avancar": "Avanzar una pieza de equipo lo hace un poco más fuerte, solo teniendo los materiales necesarios que se dejan caer en el reino del equipo y una cierta cantidad de estrella de plata para realizar esta acción. Cuando el nivel de su equipo avanzado se eleva a 70, por ejemplo, se devolverá el material gastado en él a tiempo para avanzar. Sugerencia: Solo vale la pena avanzar un equipo si es muy difícil conseguir el escudo para avanzar de nivel, porque los atributos de nivel son mejores que un avance.",
+        "slotscartat": "Ranuras para tarjetas",
+        "slotscarta": "Las ranuras para tarjetas se liberan durante el juego. A medida que su personaje suba de nivel, se lanzará la opción de abrir nuevas ranuras para tarjetas, y estas ranuras se pagarán con la fama del reino para desbloquear. El máximo que puede tener un dispositivo es de hasta 4 ranuras. El único equipo que es diferente a las ranuras abiertas es el sombrero, por lo que debes comprar pergaminos de sombreros para que esta acción sea posible, estos pergaminos se compran en el comercio o desmantelando otros sombreros. Para la primera ranura necesitarás 30 rollos y para el segundo 300 rollos.",
+        "subirnvlt": "Aumentar el nivel de equipo",
+        "subirnvl": "Para subir de nivel una pieza de equipo, tendrás que soltar o comprar un escudo de armas para el objeto que quieres subir de nivel. Cuando obtengas este escudo de armas, simplemente ve a la opción de subir de nivel a la que se accede haciendo clic en el elemento en cuestión y ten los elementos necesarios que serán (tu equipo 60 + abrigo + cristal). Los cristales se pueden comprar en los minoristas o desmantelando el equipo dorado por encima del nivel 40.",
+        "reforjat": "Reforma",
+        "reforja": "La reforma de sus elementos solo debe realizarse en el nivel de equipo 60 o superior. Reformar un equipo no es más que cambiar sus atributos adicionales en busca de unos mejores, aquí los mejores son los atributos dorados, siempre reforma tu equipo hasta que obtengas algún atributo dorado, luego de conseguirlo puedes 'bloquear' cierto atributo para que puedas realizar nuevas reformas sin que cambie. Se pueden bloquear hasta 2 atributos y con ello elevar el precio pagado para realizar las reformas además de la necesidad de 2 tipos de materiales en lugar de 1. El equipo con una buena reforja tiene su barra de progreso completamente llena o al menos cerca de eso."
 
     },
 
     "CARTAS":{
-        "name": "Tarjetas",
-        "melhorar": "",
-        "refinar": "",
-        "desmantelar": "",
-        "poeiraamarela": "",
-        "poeiravermelha": ""
+        "name": "Cartas",
+        "descrip": "Una de las mejores formas de fortalecer a tu personaje es con buenas cartas. Las cartas respetan los niveles de calidad así como el equipamiento, están las cartas azul, morada, dorada y roja, y tienen distintos niveles, son I, II, III y IV. Las tarjetas rojas se conquistan solo al recolectar 25 fragmentos del nivel respectivo que está recolectando y luego fusionarlos en 1 tarjeta. Las cartas doradas, además de adquirirse con las uniones de los fragmentos, se pueden dejar caer en el reino de las cartas y también en el tesoro del dragón, así como las moradas y azules. Todas las tarjetas tienen 'efectos', cada tarjeta amarilla puede tener hasta 5 efectos, mientras que las tarjetas rojas pueden tener 6, estos efectos se logran refinando su tarjeta hasta que todas estén en la lista.",
+        "melhorart": "Mejorar cartas",
+        "melhorar": "Para mejorar una carta, usarás estrella plateada y maná. Las tarjetas doradas se pueden mejorar hasta +12, mientras que las tarjetas rojas se pueden mejorar hasta +15. Si has actualizado una carta y vas a reemplazarla, cuando se desmantele la cantidad de maná que se usó para alcanzar el límite máximo, se te devolverá. El maná que necesitas para mejorar tus cartas se adquiere desmantelando las cartas que obtienes en el reino de las cartas que no usarás o comprando en la tienda.",
+        "refinart": "Refinar",
+        "refinar": "Refinando puedes mejorar los efectos de la carta. Cada carta tiene un límite de efectos, las amarillas pueden tener hasta 5 efectos, mientras que las rojas pueden tener 6. El material utilizado para refinar las cartas se adquiere en eventos, en la tienda o en los jefes del zodíaco.",
+        "poeiraamarelat": "Polvo de estrella amarilla",
+        "poeiraamarela": "Material utilizado para refinar tarjetas de calidad dorada. Cuanto más alto sea el nivel de la tarjeta, más polvo se necesitará para realizar el refinamiento.",
+        "poeiravermelhat": "Polvo de estrella roja",
+        "poeiravermelha": "Material utilizado para perfeccionar las tarjetas rojas de calidad. Cuanto más alto sea el nivel de la tarjeta, más polvo se necesitará para realizar el refinamiento."
     },
 
     "CONCHAS": {
-        "name": "Caracolas",
-        "comoganhar": "",
-        "paraqueserve":"",
-        "dicas": ""
+        "name": "Conchas",
+        "comoganhart": "Cómo conseguir conchas",
+        "comoganhar": "Puedes ganar conchas vendiendo equipo dorado, escudos de armas, monturas, sombreros o lo que puedas poner en el mercado. También ganas conchas cargando al gremio, apostando por la carrera que se lleva a cabo todos los miércoles, dando el último golpe a la cabeza del mundo y donando insignias de fama moradas o doradas adquiridas en Kingdom Events. En el juego también hay un 'pase', con las medallas de valentía que se obtienen al realizar misiones diarias, es posible canjear por una cantidad fija semanal de proyectiles.",
+        "paraqueservet": "¿Cómo utilizar?",
+        "paraqueserve":"Las conchas son su moneda de compra dentro del comercio del juego. Es con él que comprarás tus objetos dorados, tus escudos, tus monturas, entre muchas otras cosas disponibles en el mercado."
     },
 
     "GUILDA": {
         "name": "Gremio",
-        "descrip": "",
-        "treinamentodaguilda":"",
-        "cargadaguilda": "",
-        "guaxinins": "",
-        "coco": "",
-        "gvg": "",
-        "temploluz": "",
-        "dragao": "",
-        "artefato": "",
-        "invocacoes": ""
+        "treinamentodaguildat": "Entrenamiento de gremio",
+        "treinamentodaguilda": "Al realizar actividades relacionadas con el gremio, recibirá escudos del gremio, estos escudos se utilizan para donarlos en el entrenamiento del gremio. Al donar tus abrigos inicias el proceso de evolución de la copa. Cada copa es personal e incluso si cambias de gremio, permanecerá donde lo dejaste. Al completar el 100% de calix y pasar al siguiente nivel recibirás puntos que se distribuirán según tu necesidad. En atributos recibirás CB y% de daño o resistencia extra contra los críticos. El modo de juego te dará beneficios en ciertos modos: Damage Boost y HP del equipo en GvG, Damage Boost para monstruos en los reinos, Damage Boost y HP en el templo de la luz, HP Boost en el cazador de tesoros, HP Boost en GvG, HP Boost en el castillo del cielo y HP Boost en el duelo de las ruinas. La producción aumenta la cantidad de pescado, madera o minerales que recolecta. Renda te ofrece algunos extras dentro del juego, como estrella de plata, maná y fama del reino. Tenga en cuenta que también hay un tipo de dominio para cada uno de los modos, al llenar estas barras de dominio recibirá atributos adicionales o espirales, por ejemplo, puede verificar el bono que obtendrá haciendo clic en (?) Que está justo al lado del nombre. Se accede al entrenamiento del gremio a través de la pestaña de eventos dentro del menú del gremio.",
+        "cargadaguildat": "Carga de gremio",
+        "cargadaguilda": "La carga de gremios es una de las formas en que puedes obtener conchas dentro del juego. Funciona de forma sencilla, solo cárguelo con lo que se solicita. A medida que avances obtendrás algunas recompensas fijas: cofres de oro, conchas y escudo del gremio, hasta llegar al último que será después de completar 10 carros y ganar 1 mapa del artefacto. También puede solicitar ayuda diaria para que los miembros del gremio puedan cargar su solicitud. Recordando que el envío también se puede realizar mediante espirales si no obtiene lo que se solicita. Se accede a la carga del gremio a través de la pestaña de eventos dentro del menú del gremio.",
+        "guaxininst": "Legión de mapaches",
+        "guaxinins": "En momentos aleatorios del día, la legión de mapaches atacará a tu gremio, debes formar un equipo con al menos 3 miembros y todos deben ser del mismo gremio para expulsar a los mapaches. Por cada mapache que expulsas, obtienes crestas de gremio para usar en el entrenamiento del gremio, así como huevos de insectos para alimentar al coco y la oportunidad de usar pimienta negra para cocinar en tu granja. La única invasión que seguramente ocurrirá todos los días a la misma hora es a las 18:50 en el servidor, en esta invasión además de expulsar mapaches tu gremio debe derrotar al Old Vombat que aparecerá después de que todos sean expulsados. Old Vombat debe ser derrotado a las 7:10 pm, de lo contrario el gremio perderá 300 fondos, que se utilizan para subir de nivel.",
+        "cocot": "Coco",
+        "coco": "Coco es la mascota del gremio y cada miembro puede alimentarlo hasta 25 veces al día, ya sea con huevos de insectos, carpa, bacalao y / o pez globo. Después de llenar el coco con puntos de alegría, producirá un tesoro. El maestro del gremio puede reclamar el tesoro y comenzar el evento de celebración. Cuantos más puntos de contribución de alimentos tenga, más recompensas recibirá durante el evento. Si los puntos de alegría se llenan rápidamente, aparecerán más Cocos en tu gremio, pero si tarda demasiado en llenarse, desaparecerá. Los 3 primeros en el ranking de donaciones ganan espirales.",
+        "gvgt": "Guerra de Gremios",
+        "gvg": "La guerra de gremios tiene lugar todos los martes y jueves a las 8 pm, hora del servidor. Es de suma importancia que participes y ayudes a tu gremio en este evento, ya que aquí es donde obtendrás los artefactos para poder forjar las armas del gremio. En el GvG está el CAMPO DE BATALLA principal, donde solo pueden ingresar aquellos que son nombrados élites de batalla por el líder del gremio o el delegado. El campo principal es donde se gana o se pierde el juego y pueden ingresar hasta 30 miembros que deben luchar contra oponentes, proteger las torres aliadas y destruir las torres enemigas. Del lado derecho e izquierdo tenemos dos accesos al MINAS que son sumamente importantes. El objetivo es recolectar los cristales que aparecen en el mapa, al recolectar estos cristales, tus torres en el campo de batalla fortalecerán y regenerarán la vida más rápidamente, perturbando así al enemigo. Si ves a un oponente atacando cristales, dejará de recolectar automáticamente. Es fundamental que haya un equipo fuerte en las MINAS para matar a los enemigos mientras el resto recolecta.",
+        "temploluzt": "Templo de la luz",
+        "temploluz": "Es una mazmorra a la que se accede a través del territorio del gremio que el líder del gremio puede abrir todos los viernes de 10:00 a.m. a 11:00 p.m. El objetivo es eliminar a todos los jefes y subir tantos pisos como sea posible. La duración de la mazmorra es de 30 minutos y se pueden ingresar hasta 40 personas por portal. Cada jefe derrotado dará fragmentos de cofre de oro, experiencia y el escudo del gremio, y puede tener la oportunidad de ganar un huevo de dragón púrpura y una armadura de montura de batalla. Una vez que se complete el Templo Normal, se desbloqueará el Templo Élite, donde solo los maestros del gremio pueden nombrar a las élites que tendrán acceso. Derrotar al jefe del Templo de élite arrojará elementos a la Bóveda de subasta del gremio. La subasta comenzará tan pronto como finalice el Templo de élite, y las ganancias se distribuirán de acuerdo con el daño causado, sufrido y clasificaciones de curación.",
+        "dragaot": "Misión del Dragón",
+        "dragao": "La misión del dragón se puede iniciar todos los martes y debes tener 20 miembros del gremio en línea para que comience el evento. El objetivo es derrotar al dragón que aparecerá en el territorio del gremio y secuestrar a una miembro femenina. Después del secuestro, los miembros tuvieron que elegir entre 2 caminos, 'unidos ganaremos' y 'camino del héroe', el camino del héroe es recomendado para los miembros más fuertes del gremio porque se hace en solitario. El unidos ganaremos lo hacen todos los integrantes que entran por esta vía. Es obligatorio tener al menos 1 héroe para salvar a la princesa secuestrada. Este evento ofrece muchas estrellas plateadas y exp además del título de princesa (para niñas) y cuenta para quienes salvan a la princesa (recordando que tanto los personajes femeninos como masculinos pueden ser héroes).",
+        "artefatot": "Artefacto del gremio",
+        "artefato": "El artefacto del gremio es el arma utilizada solo por los miembros del gremio que se fusiona a través de los fragmentos de artefactos obtenidos en la guerra del gremio. Esta arma aumenta las estadísticas y ofrece bonificaciones, pero solo para actividades que involucren al gremio, es decir, no funciona para todo dentro del juego. Cuando tu gremio forja la primera arma, puede convertirse en otras armas y pasarla varios miembros. Respetando el límite de tiempo entre cada conversión.",
+        "invocacoest": "Invocar campanas",
+        "invocacoes": "Siempre que realizas el evento del tesoro del dragón, recibes algunas campanas de invocación. Estas campanas deben llamarse en el territorio del gremio. Es interesante crear un equipo para matarlos si no puedes hacerlo tú mismo. El personal del equipo también recibe una pequeña gota del monstruo convocado, la estrella plateada e incluso se puede dejar caer al equipo dorado."
     },
 
     "GUARDIAO": {
         "name": "Guardián",
-        "descrip": "",
-        "matriz": "",
-        "aprender": "",
-        "evoluir": "",
-        "refinar": "",
-        "mutar": ""
+        "descrip": "Los guardianes tienen diferentes cualidades como azul, morado, dorado y rojo. Al igual que en el equipo, estas cualidades van desde la más débil (azul) hasta la más fuerte (rojo), las cualidades de azul a dorado se pueden adquirir usando el elemento RED en el mapa de la Isla de los Guardianes. Los guardianes de calidad roja, por otro lado, solo se conquistan reuniendo 25 fragmentos de un cierto guardián, los fragmentos se pueden dejar caer con un mapa del artefacto, comprar en tiendas o en eventos.",
+        "matrizt": "Matriz",
+        "matriz": "A medida que subes de nivel, se desbloquearán nuevas matrices que te permitirán colocar más guardianes en ellas. El punto más importante de la matriz es prestar atención al atributo que cada uno te da en relación al guardián equipado. Por ejemplo, en la matriz superior, te da el 9% (guardianes dorados) de todos los atributos del guardián, por lo que debes hacer que tu guardián sea más fuerte en este espacio. A medida que desbloquea y obtiene nuevos guardianes, intente dejar el más fuerte en un espacio determinado para que pueda beneficiarse más de él. Las ranuras que se liberarán serán: ATQ, DEF, HP, BALANCE.",
+        "aprendert": "Aprender habilidades",
+        "aprender": "Para aprender una nueva habilidad de guardián, simplemente suelta, gana o compra un libro y enséñaselo a tu guardián. El mejor consejo que podemos darte aquí es: busca siempre libros que te ofrezcan atributos en (%), como El poder del sabio, El corazón de Dexter, El poder del centinela entre muchos otros.",
+        "evoluirt": "Evolucionar",
+        "evoluir": "Debajo de cada guardián hay una cantidad de estrellas, para aumentar esas estrellas y así aumentar la fuerza de tu guardián, debes darle jugos de verano. Cuando la barra de progreso esté completa, simplemente sacrifique el número solicitado de guardianes con el mismo total de estrellas que el guardián que está mejorando para que pueda avanzar al siguiente nivel. (Ejemplo: si tu tutor tiene 4 estrellas, debes sacrificar 4 tutores que tienen 4 estrellas para que pueda alcanzar las 5 estrellas).",
+        "refinart": "Refinar",
+        "refinar": "ADVERTENCIA: No tire las frutas de loto. Refinar a un guardián no es más que cambiar su personalidad y habilidad pasiva. Al igual que con el equipo y las cartas, aquí también hay cualidades (azul, morado, dorado y rojo). Sacar una buena habilidad y una buena personalidad depende mucho de la suerte. Pero, siempre que sea posible, use frutas de loto.",
+        "mutart": "Mudar",
+        "mutar": "Cuando tu guardián alcanza las 5 estrellas y tienes el nivel requerido para acceder a la pestaña de silencio, puedes aumentar aún más la fuerza de tu guardián. La mutación es muy simple, solo ofrece otro guardián de 5 estrellas como sacrificio por tu director para que pueda mutar. Después de la mutación, el guardián ofrecido desaparecerá y su guardián mutado será más fuerte, y se debe respetar el período de energía de mutación. La energía se llena a medida que se realizan las misiones diarias y para acelerar se deben utilizar platos morados o mejores, que tienen una duración de 8 horas."
+    },
+
+    "FADA": {
+        "name": "Hada",
+        "descrip": "Al llegar al nivel 65 el hada será liberada y para desbloquear solo construye su casa en la granja con los materiales solicitados.",
+        "vitt": "Vitalidad",
+        "vit": "VIT es lo que usarás para poder usar la acción organizadora, cada vez que haces que el hada se organice, se consume 10 de VIT. Todos los días recibes 30 VIT para gastar en el hada, esta cantidad se puede aumentar comprándole un regalo, el regalo de 60 espirales aumenta el VIT diario a 40 mientras que el regalo de 150 aumenta a 50.",
+        "presentet": "Regalos",
+        "presente": "El regalo del hada es una forma de ayudarte a mejorar los atributos del hada más rápidamente. Cuando abras el regalo que has comprado, habrá un atuendo con beneficios aleatorios para atributos aleatorios que solo se pueden usar en un cierto período de la edad de las hadas indicado en el descripción de la ropa. El regalo también solo se puede usar en el hada actual, es decir, si usa un atuendo para ayudarlo a aumentar los atributos de su hada al comprar otro, ese atuendo ya no estará disponible y deberá comprar un regalo nuevamente. Consejo: los regalos se utilizan mejor para objetivos que requieren más de 8000 puntos para un determinado atributo.",
+        "desbloqueart": "desbloquear",
+        "desbloquear": "En la pestaña de desbloqueo, lanzará nuevos tipos de entrenamiento para usar en la organización del hada. Cuanto mayor sea el nivel de entrenamiento desbloqueado, mayor será la cantidad de puntos que te da cuando lo usas. En 'aprender' desbloqueas importantes entrenamientos para el cumplimiento de metas y consecución de objetivos y prerrequisitos para que el hada pueda desbloquear una nueva clase, cabe mencionar que con cada entrenamiento desbloqueado será necesario más y más Vigor para desbloquear la siguiente, siendo que cuanto más tomas de un color determinado, más barato es el desbloqueo. En 'Entretenimiento' desbloqueas 'entrenamientos' que relajan a tu hada, reduciendo el estrés que provoca el entrenamiento real, son como juegos para ella, es muy importante mantener un buen equilibrio entre estos dos tipos.",
+        "estresset": "Estrés",
+        "estresse": "En la parte superior del menú organizador hay una barra de estrés mental, es importante que sepas cómo equilibrar esta barra para no perder puntos importantes en los atributos conquistados o puntos de 'Acción'. Para mantener la barra siempre con un promedio razonable, sin arriesgarse a que se rompa, basta con que en la organización de hadas no solo haya entrenamientos, sino una mezcla entre (Aprendizaje x Entretenimiento).",
+        "organizart": "Organizar",
+        "organizar": "Dentro de la organización es donde realizarás la acción de 'Organizar la Agenda', solo seleccionas los entrenamientos / entretenimientos y pulsas en inicio, es importante mantener un equilibrio en los horarios de entrenamiento y entretenimiento para que el estrés mental del hada no supere el límite . Al organizar, se consumirán 10 VIT y luego se restablecerá toda tu Acción para que puedas jugar al dulce de hadas. Consejo: intente siempre combinar el entretenimiento con el mismo tipo de atributo que está buscando, o para el entretenimiento que los atributos globales. El VIT se reinicia todos los días a las 5 a.M.",
+        "docedefadat": "Dulce hada",
+        "docedefada": "Para jugar al dulce de hadas, la acción se consume por cada movimiento que hagas en el tablero. El objetivo es recopilar los atributos que buscas sin dejar atrás los que necesitarás para desbloquear requisitos para pruebas y clases. Las pruebas se realizan a determinadas edades y se indican en la esquina de la pantalla cuando están cerca de suceder.",
+        "metast": "Metas",
+        "metas": "Los objetivos de la vida de la hada aparecen durante su evolución, se muestran en la esquina inferior izquierda de la pantalla, para ver los requisitos solicitados solo presiona arriba y tendrás acceso a lo que tu hada debe tener antes de cierta edad para ganar algunos atributos de bonificación .",
+        "requerimentost": "Requisitos",
+        "requerimentos": "Para saber qué necesitará tu hada para desbloquear una nueva clase, justo al lado en la interfaz hay un estante con libros, simplemente haz clic allí y verifica qué clase siguiente querrás desbloquear, para cada nueva clase desbloqueada de un determinado atributo. el siguiente siempre requerirá más y más puntos para alcanzar tu objetivo."
+    },
+
+    "TRILHADASESTRELAS": {
+        "name": "Estelar",
+        "descrip": "El estelar se libera al alcanzar el nivel 60. Dentro de la interfaz del rastro hay 2 tipos que debes evolucionar siempre que tengas los materiales necesarios, la evolución del rastro afecta directamente a tu CB además de aumentar los atributos de tu personaje según el sendero que está subiendo de nivel. En la evolución de la nebulosa, el CB también se ve afectado directamente, lo que aumenta los atributos del personaje y aún le otorga una habilidad adicional que tiene una pequeña posibilidad de activarse.",
+        "trilhat": "Estelar",
+        "trilha": "El primer estelar lanzado para ti será Flecha, los materiales utilizados para evolucionar tu rastro de las estrellas son Obsidiana, Esmeralda, Colbalto Oceânico y Amethyst que se obtienen en el mapa de Ruinas Antigas realizando las dos misiones diarias, abriendo la bolsa de gemas estelares o comprando en almacén del sendero, la cantidad de materiales solicitados aumenta a medida que sube el nivel del sendero, inicialmente para cualquiera de ellos se le pedirá 6 obsidiana, 6 esmeralda y 6 cobalto. Es importante ver qué atributos te da el sendero y cuáles son tus atributos cuando alcanzas el nivel máximo, para hacerlo solo haz clic en el sendero y justo después en la lupa que está en el lado derecho de la descripción, mira si los atributos son importantes para tu carácter porque los senderos tienen sus peculiaridades, pueden darte ataque, defensa, daño contra jefes, posibilidad de bloqueo, etc. A medida que suba de nivel en su sendero, se liberarán otros senderos, lo que hace un total de 12.",
+        "elitedasruinas": "La misión para derrotar a 5 elites de la ruina se lleva a cabo de la siguiente manera, debes ir a un lugar para cumplir tu misión principal que es derrotar a 100 monstruos, siempre que derrotes a una cierta cantidad de monstruos aparece un jefe, debes derrotar al jefe 5 veces para completar todas tus misiones en Ruinas Antiguas.",
+        "nebulat": "Nebulosa",
+        "nebula": "La nebulosa funciona de la misma forma que el estelar, debes contar con los materiales necesarios para que puedas avanzar de nivel. La mayor diferencia se encuentra en 2 detalles, el primero es el tipo de material necesario para evolucionar tu nebulosa, aquí se utilizan Piedra Esmaltada, Ámbar y Diamante en Bruto que se compran en la tienda de senderos con cristales, comprando con espirales en cualquier evento / tienda o juntar las insignias ganadas en la celebración del castillo del cielo. Y el segundo es que al evolucionar el núcleo al menos al nivel de fuerza púrpura, se libera una habilidad adicional que tiene una pequeña posibilidad de activarse. También se puede acceder a los detalles de cada nebulosa a través de la lupa que se encuentra en el lado derecho en la descripción de cada una.",
+        "lojat": "Tienda",
+        "loja": "Se accede a la tienda Star Trail haciendo clic en el botón en el lado izquierdo de la interfaz de Star Trail. Todos los materiales necesarios para aumentar el nivel del sendero se venden por cristales.",
+        "dicast": "Elite y Propina",
+        "dica": "No importa cuánto tiempo lleve recolectar esmeraldas y cobalto oceánico, no gaste sus cristales para comprarlos, sus cristales deben gastarse solo en piedra esmaltada (2500k), ámbar (2500k) y diamante en bruto (50000k). Como puede ver, el diamante en bruto será el más difícil de conquistar, así que tenga paciencia y recoja sus cristales. Otro consejo es no vender sus bolsas de gemas estrella, úselas siempre para comenzar a recolectar piedras y cristales temprano."
+    },
+
+    "FRONTEDAGLORIA": {
+        "name": "Frente de Gloria",
+        "descrip": "Al alcanzar el nivel 80 recibirás la misión del despertar que debes realizar para poder acceder a la Frontera de la Gloria. Los conjuntos se lanzarán en la parte de cartas, cada conjunto debe crearse para una situación específica en la que vas a jugar, por ejemplo, conjunto 1: JcE, conjunto 2: JcJ, conjunto 3: Frente de gloria, el conjunto de frente de gloria debe contener las cartas Mine o Loras que empezaron a caer en el nuevo reino de las tarjetas VACÍAS. Estas cartas tienen el atributo PUNCH que se usa para destruir el escudo del jefe, cuanto más golpees, más rápido se romperá el escudo. Cuando rompas el escudo del jefe tendrás un pequeño momento para que sea posible dañarlo antes de que se restaure el escudo, si en este momento no puedes derrotar al jefe tendrás que volver a romper el escudo hasta que puedas realizar esta acción. Es al frente de la gloria donde soltarás runas, experiencia y libros que se usarán para mejorar tus habilidades de despertar.",
+        "desafiosolot": "Desafío en solitario",
+        "desafiosolo": "El desafío en solitario se lanza justo después de que hayas completado la misión del despertar, aquí habrá una cantidad mínima recomendada de ejercicio para que puedas pasar fácilmente al primer jefe, a medida que avanzas, la cantidad de ejercicio necesario aumenta gradualmente hasta un máximo de 150 eso estará en el tercer jefe. Derrotar al último jefe te dará experiencia de despertar y una nueva habilidad aleatoria relacionada con el despertar. El desafío en solitario solo se puede completar una vez y no se reinicia semanalmente, al igual que el desafío en equipo.",
+        "desafioequipet": "Desafío de equipo",
+        "desafioequipe": "Puedes comenzar batallas en equipo después de pasar las 3 etapas en modo individual en el frente de gloria, o ser parte de un equipo que ya puede comenzar en este modo siempre que hayas pasado al menos el nivel 1 en modo solo. A diferencia del desafío en solitario, el desafío en equipo se vuelve más difícil y requiere que tengas aún más perforaciones y daños para superar. Otra diferencia con el desafío del equipo es que se puede completar una vez a la semana, lo que hace posible ganar experiencia al despertar, runas y habilidades relacionadas con él nuevamente. Intenta entrar siempre con un equipo fuerte y bien equilibrado en cuanto a clase, porque aquí es realmente más difícil que el desafío en solitario. El frente de la gloria se reinicia todos los jueves a las 5 a. M.",
+        "perfurart": "Tarjetas perforadas",
+        "perfurar": "La perforación es un atributo utilizado en el desafío Fronte da Glória, la función de perforación es eliminar el escudo que rodea al jefe en este modo, al final de la barra el jefe será vulnerable y perderá HP al recibir daño. Las cartas de taladro se adquieren en el reino de las cartas desde el nivel 80 jugando el reino del vacío, debes recolectar 25 fragmentos de Mina o Loras y luego fusionarlos para adquirir tus cartas, es posible equipar hasta 4 Minas y 4 Loras aumentando aún más tu ponche, es importante que dejes tus cartas bien depuradas y en el +12 mejorando para que puedas sacarles el máximo partido. El material utilizado para refinar las cartas de perforación se adquiere desmantelando otras Minas o Loras."
+
     }
+
 
 }

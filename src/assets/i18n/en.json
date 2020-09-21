@@ -1,7 +1,8 @@
 {
     "HOME": {
         "title": "Welcome",
-        "descrip": "Welcome to WikiTow, the purpose of the application is to be able to help in some way those who are starting in the game or even those who have been playing for some time. Feel free to send your opinion about the app or suggestion / correction of any information. In the menu on the left you will access all the content that the app currently has. Make good use of it and I hope this app helps you!"
+        "colaboracao": "Guild Collaboration, FairyTail - EST-117",
+        "descrip": "Welcome to Tales of Guide, our goal is to be able to help in some way those who are just starting out or even those who have been playing for some time. Feel free to send your opinion on the application or suggestion / correction of any information. In the menu on the left you will access all the content that we currently have. Get good winnings and a good game!"
     },
     "ALERT": {
         "header": "Error",
@@ -61,7 +62,7 @@
         "lvlreq": "LVL 55 to eat",
         "require": "Ingredients",
         "name": "Fish Fillet",
-        "buffs": "BR: 2880, HP: 4200, Attack: 140, Defense: 140, DMG: +1%"
+        "buffs": "BR: 2880, HP: 4200, Attack: 140, Defense: 140, DMG: +1% - you must buy the receipt at the npc."
 
     },
 
@@ -106,7 +107,7 @@
         "lvlreq": "LVL 55 to eat",
         "require": "Ingredients",
         "name": "Spaghetti",
-        "buffs": "BR: 3480, HP: 6000, Attack: 200, Defense: 200, DMG to boss: +2%"
+        "buffs": "BR: 3480, HP: 6000, Attack: 200, Defense: 200, DMG to boss: +2%  - you must buy the receipt at the npc."
 
     },
 
@@ -151,7 +152,7 @@
         "lvlreq": "LVL 60 to eat",
         "require": "Ingredients",
         "name": "Chuleta de cordero",
-        "buffs": "BR: 4680, HP: 9000, Attack: 300, Defense: 300, Debuff Boost: 2% ~ 5%, DMG: 0 ~ 1%"
+        "buffs": "BR: 4680, HP: 9000, Attack: 300, Defense: 300, Debuff Boost: 2% ~ 5%, DMG: 0 ~ 1%  - you must buy the receipt at the npc."
 
     },
     
@@ -187,7 +188,7 @@
         "lvlreq": "LVL 70 to eat",
         "require": "Ingredients",
         "name": "Fideua",
-        "buffs": "BR: 5640, HP: 11400, Attack: 380, Defense: 380, Bonus DMG to targets with debuff: 2% ~ 4%, Helper cards: 6"
+        "buffs": "BR: 5640, HP: 11400, Attack: 380, Defense: 380, Bonus DMG to targets with debuff: 2% ~ 4%, Helper cards: 6 - you must buy the receipt at the npc."
 
     },
 
@@ -196,7 +197,7 @@
         "lvlreq": "LVL 70 to eat",
         "require": "Ingredients",
         "name": "Crispy Squid",
-        "buffs": "BR: 5880, HP: 12000, Attack: 400, Defense: 400, Crit DMG: 4%, Crit Rate: 0 ~ 2%"
+        "buffs": "BR: 5880, HP: 12000, Attack: 400, Defense: 400, Crit DMG: 4%, Crit Rate: 0 ~ 2% - recipe earned in the master cook's bag."
 
     },
 
@@ -232,7 +233,7 @@
         "lvlreq": "LVL 80 to eat",
         "require": "Ingredients",
         "name": "Mushroom Pie",
-        "buffs": "BR: 6840, HP: 14400, Attack: 480, Defense: 480, Healing Done: 3% ~ 8%, Movement Speed: 2% ~ 8%"
+        "buffs": "BR: 6840, HP: 14400, Attack: 480, Defense: 480, Healing Done: 3% ~ 8%, Movement Speed: 2% ~ 8% - you must buy the receipt at the npc."
 
     },
 
@@ -241,7 +242,7 @@
         "lvlreq": "LVL 80 to eat",
         "require": "Ingredients",
         "name": "Lobster Thermidor",
-        "buffs": "BR: 7080, HP: 15000, Attack: 500, Defense: 500, Attack: 1% ~ 2%, Crit rate: 1% ~ 2%, Ignore Def: 0% ~ 5%"
+        "buffs": "BR: 7080, HP: 15000, Attack: 500, Defense: 500, Attack: 1% ~ 2%, Crit rate: 1% ~ 2%, Ignore Def: 0% ~ 5% - recipe earned in the master cook's bag."
 
     },
 
@@ -268,7 +269,7 @@
         "lvlreq": "LVL 90 to eat",
         "require": "Ingredients",
         "name": "Seafood Sukiyaki",
-        "buffs": "BR: 8040, HP: 18600, Attack: 620, Defense: 620, Block chance: 5%, Block damage: 0% ~ 3%, Reduction reflect rate: 0% ~ 5%"
+        "buffs": "BR: 8040, HP: 18600, Attack: 620, Defense: 620, Block chance: 5%, Block damage: 0% ~ 3%, Reduction reflect rate: 0% ~ 5%  - you must buy the receipt at the npc."
 
     },
 
@@ -277,7 +278,7 @@
         "lvlreq": "LVL 90 to eat",
         "require": "Ingredients",
         "name": "Salmon & Egg on Toast",
-        "buffs": "BR: 8280, HP: 19500, Attack: 650, Defense: 650, Dodge Rate: 2% ~ 3%, HP: 0% ~ 3%, DMGx: 0% ~ 3%"
+        "buffs": "BR: 8280, HP: 19500, Attack: 650, Defense: 650, Dodge Rate: 2% ~ 3%, HP: 0% ~ 3%, DMGx: 0% ~ 3%  - recipe earned in the master cook's bag."
 
     },
 
@@ -287,19 +288,22 @@
 
     "FARM": {
         "name": "Farm",
-        "descricao": "Farm is where you can grow, manufacture food items and fulfill customer orders for more in-game benefits and rewards. It can be unlocked from level 30 onwards by paying 100 kingdom fame.",
+        "descricao": "At the farm, you can grow, manufacture food items, fulfill customer requests for rewards such as: farm coins, unlimited experience and feathers. Fishing, mining and acquiring wood. The farm can be unlocked from level 30 onwards by paying 100 kingdom fame.",
         "headerchefechoco": "Chief Choco",
-        "chefechoco": "After serving all customers, Chef Choco can appear on your farm asking you for a special request. At the service you will win the bag of the master cook who can give you some rare or normal item. It also gives you the chance to make improvements to the animals on your farm.",
+        "chefechoco": "After serving all customers, Chef Choco can appear on your farm asking you for a special request. Serving you will win the bag of the master cook who can give you the chance to get improvements for the animals on your farm and culinary points, in addition to recipes that can only be obtained through the bag.",
         "headerguaxinim": "The Great Raccoon",
-        "guaxinim": "Several times a day the Raccoon will appear on your farm asking you for something random, it is important to serve you as it is one of the sources you have to earn insect eggs.",
+        "guaxinim": "Several times during the course of the day the great Raccoon will appear on your farm with a random request. It is important to serve you as it is one of the sources of obtaining insect eggs, which are used to feed coconut and also to charge the guild.",
         "headerpets": "Farm pet",
-        "cachorros": "You can get a pet dog for 10,000 farm coins. He will stay on your farm and take a trip to bring back rewards every 8 times he is fed. Only your friends and guild mates can feed the dog. You can feed up to 12 dogs once a day, including your own dog. After 4 short trips, the dog is taking a longer trip.",
-        "fimdescricao": "So always make time for your farm, as it is important for its evolution."
+        "cachorros": "You can get a pet dog for 10,000 coins from the farm. He will stay on your farm and take a trip to bring back rewards every 8 times he is fed. Only your friends and guild mates can feed the dog. You can feed up to 12 dogs once a day, including your own dog. After 4 short trips, the dog will take a longer trip.",
+        "fimdescricao": "So always set aside time for your farm, as it is important for your evolution."
     },
 
     "CB": {
-        "name": "Tips on BR",
-        "cbcartas": "",
+        "name": "Dicas sobre CB",
+        "descrip": "EM BREVE!",
+        "cbcartarheader": "CB das Cartas",
+        "cbcartas": "Nas cartas a dica que podemos dar para os iniciantes é, não gaste sua mana melhorando cartas roxas, pois elas serão trocadas rapidamente por cartas douradas. Quando começar a pegar suas primeiras cartas douradas não tenho medo de avançar ela até o limite máximo de +12, pois quando pegar cartas melhores e for realizar a troca, ao desmantelar suas cartas douradas, toda mana gasta para melhorar até +12 será devolvida para você. Assim te permitindo aumentar o nível da sua nova carta. Conforme você avançar no jogo verá que existem cartas de diferentes níveis e tipos, douradas nível 1,2 e 3, vermelhas (que são as melhores do jogo) níveis 1,2 e 3 também, como já é esperado as cartas vermelhas são as mais difíceis de se conseguir mas vale a paciência pois o retorno de CB e atributos para o personagem é muito bom.",
+        "cbequipsheader": "CB dos Equipamentos",
         "cbequips": "",
         "cbacessorios": "",
         "cbmontariabatalha": "",
@@ -316,101 +320,193 @@
 
     "MERCADO": {
         "name": "Market",
-        "descrip": "",
-        "vitrine": "",
-        "especial": "",
-        "limite": "",
-        "espiral": "",
-        "moeda": "",
-        "pontos": "",
-        "artefato": "",
-        "comprar": "",
-        "vender": "",
-        "antecipacao": ""
+        "descrip": "Within the market option, you will notice that there are two types of trade. The store is where you can spend spirals, buy packages, exchange your buyback coins, spend your kingdom fame and points earned in the arena that are used to buy a golden chest fragment or random talisman card. In commerce, this is where you will find items dropped by other players that are put up for sale.",
+        "comercioheader": "Trade",
+        "comercio": "In the trade you can obtain several items, such as: equipment for the character, coats of arms, skills for your guardian, hats, accessories, unidentified letters and others. The difference within the trade is the showcase that works by bidding system, where an item is exposed for 4 hours and during that time up to 50 players can be interested in that item. At the end of the count, the item will be randomly sold to the “luckiest” player.",
+        "loja": "Store",
+        "descriploja": "In the store tab you will have access to some items that are sold directly by the game.",
+        "especialt": "Special",
+        "especial": "Offers that are purchased only with paid spirals. In this tab it is not possible to achieve anything with a linked spiral.",
+        "limitet": "Limit",
+        "limite": "Some packages and items are also purchased with a paid spiral. Upon reaching a certain level, some more interesting items appear, such as the “class change book” that is purchased with a silver star.",
+        "espiralt": "Spiral",
+        "espiral": "Here you can use your linked spirals to obtain improvement materials for your accessories and equipment, such as: Improvement gems. It can also be obtained: Simple mounts, Gacha tickets, Lotus fruit, Mana, among others that release according to your level.",
+        "moedat": "Coin",
+        "moeda": "The coins are acquired through repurchase, you can repurchase with unidentified items and cards in addition to some other items that are obtained in the game such as: Adaman. You can buy: Silver stars, Mana, Stardust, Improvement materials, Golden moonlight and others.",
+        "pontost": "Points",
+        "pontos": "The points are divided into 3 types.",
+        "cartasAjudante": "- Helper Cards: Acquired when you help another player in some dg, such as in the Card Kingdoms, Equipment, Dragon's Treasure, Escort, Chief of Zodiacs or even sending food plates.",
+        "ptarena": "- Arena Points: earned when you fight in the arena, earning placements.",
+        "famareino": "- Kingdom fame: obtained by participating in kingdom events throughout the day on the server. In this tab you can buy fragments of chest, talisman cards, improvement materials, among others.",
+        "artefatot": "Artifact",
+        "artefato": "Random items available daily for you to buy, such as: feather, elegant fabric, net and dust. Items can be updated using “Artifact update ticket”, purchased with 10 spirals."
     },
 
     "FAMA": {
-        "name": "Kingdom Fame",
-        "descrip": "",
-        "ondeganhar": "",
-        "paraqueserve": "",
-        "dicascomogastar": ""
+        "name": "Kingdom fame",
+        "descrip": "Kingdom fame is earned by participating in kingdom events that occur daily throughout the day within the game. Remember that there is a daily limit to the kingdom's fame gains. The kingdom's fame is used to release socket in equipment and buy some improvement materials for its equipment. It is also possible to buy purple moonlight to make summons and drop coats of arms. To use the points just go to the market in the Points tab."
     },
 
     "MONTARIADEGUERRA": {
         "name": "War Mount",
-        "descrip": "",
-        "ondeganhar": "",
-        "paraqueserve": "",
-        "subirnvl": "",
-        "fundir": ""
+        "descrip": "The war mount is released from level 70 onwards, when the Sky Castle event is released. Upon entering the castle you will perform some missions to earn the necessary exchange currency to be able to buy your first dragon egg. The war mount is used to assist you in combat and affects your CB directly.",
+        "sacolat": "Bag",
+        "sacola": "In the bag is presented all the items that you drop or win in chests bought in the shop of the castle of heaven. If you want to dismantle the earned items, they will turn into essence for consumption by the mount.",
+        "subirnvlt": "Up NV",
+        "subirnvl": "To level up your mount, you will use materials that no longer serve as your exp source. Blue equipment gives little exp while purple ones give a much more interesting amount to help the mount up.",
+        "fundirt": "To merge",
+        "fundir": "The materials used in the foundry are dragon eggs that you can drop by breaking carts, opening boxes of supplies that are sold in the castle shop, opening eggs in the dragon's treasure or even buying from the store with paid spirals. Important to pay attention to this feature as it helps a lot in the CB of your mount.",
+        "ovodourado": "The golden dragon egg can be obtained in the treasure room with 6 golden apples that can be purchased at events after character level 75. It can also be purchased at in-game events. The golden egg changes the look of your mount, making it more beautiful, in addition to climbing CB and releasing the 'evolve' tab, where you can increase the ranking by completing the 5 stars. To complete these stars and move up the ranking from I to IV, you need to consume golden eggs and spend 20000k of silver star. Each ranking will unlock attributes to the mount such as: damage bonus against mounts and HP bonus. More spaces will also be unlocked to equip the dragon orbs that are acquired with points at the end of the castle. Upon reaching the II and IV ranking, the mount's appearance will be changed.",
+        "pedradeguerrat": "War Stone",
+        "pedradeguerra": "When you reach level 85, you will enable your mount the tab, War Stone, the war stones are obtained in events or by opening chests of the daily missions of the castle of heaven. They also have qualities as well as equipment ranging from blue to gold. By winning your war stones you can evolve them with the goal of making the perfect stone. The price paid for each attempt at evolution is with silver stars increasing with each level achieved, here there are 3 possible situations, 1 - Failure, 2 - Success or 3 - Perfect. You should try to evolve your stones with as many PERFECT stars as you can, the more perfect the bigger the CB that your War Stone will give you."
+    
     },
 
     "CASTELOCEU": {
         "name": "Sky Castle",
-        "descrip": "",
-        "comofunciona": "",
-        "baus": "",
-        "carrocas": "",
-        "lojadoceu": ""
+        "descrip": "Upon reaching level 70 you will gain access to the castle of heaven, where you will earn your battle mount, to win it simply simply complete the daily missions of the castle and buy it at the store. After completing your missions and receiving your rewards, simply enter the castle of heaven shop through the kingdom interface and buy your first riding egg.",
+        "baust": "Chest collection",
+        "baus": "In the opponent's field there are chests on the ground, they are on the side of the map, so when leaving your base, just follow the right or left sides. You must take 5 of these chests and bring them to your base, there is a marker in your field showing where they should be left.",
+        "carrocast": "Destroy Carts",
+        "carrocas": "Just as in the chests there are two wagons in each enemy field, here it is cool to go with a team or as soon as you open the castle as there will be many players hitting the wagon, which will make the mission easier and faster to complete. The mission is to destroy 3 wagons, you do not need to take the final blow to account for the destruction, just having caused damage will count as 1 wagon destroyed.",
+        "detalhet": "Spots",
+        "detalhe": "Even after destroying the carts and taking the 5 chests, your progress bar is still not complete. To finish completing this progress bar just find a field with monsters that are on the sides or in the center of the map and kill the mobs that are there. After you have fully loaded your bar and collected the rewards there is nothing more to be done here."
     },
 
     "CORREDORNEBULOSO": {
-        "name": "Cloudy Corridor",
-        "descrip": "",
-        "comofunciona": "",
-        "acessorios": "",
-        "equipe": ""
+        "name": "Misty Corridor",
+        "descrip": "The misty corridor is released when reaching level 75, access is via the Manador map. The runner is the way for you to start earning your accessories within the world of Tales. Assemble a team of 5 strong players with the same skill level, it is not recommended to play in automatic mode on this map, always move and deviate as much as possible so as not to lose your 4 available lives.",
+        "bossesqt": "Boss Left: Mahonin",
+        "bossesq": "Right at the entrance to the Mahonin camp there is an 'activator' that will spawn a dark ghost and a ghost of light that you will transform into to cancel some boss abilities if he summons them. At a certain point Mahonin can summon a dark creature in the middle of the field that will unleash waves of massive damage, use the activator to transform into the ghost of light, get close to the creature and use the ghost's skill to kill it immediately. Tip: arrange for 1 player to activate while another player is already positioned to transform, so you cancel the greatest possible damage to your team. Mahonin also has a skill where she starts talking about the divine light of judgment, in that moment be quick, use the activator so that some member of your team becomes the dark ghost, get close to Mahonin and use the ghost's ability. If you are unable to perform the action, use some transformation as the damage they will receive is high.",
+        "bossdirt": "Boss Right: Clione",
+        "bossdir": "The most peaceful of all is Clione, before entering the battlefield of Clione, take the rune that is right at the entrance, the player who takes the rune will be responsible for freeing his allies from the stun that Clione causes in all (except for those with the rune). In the upper right corner of the screen there is an activator that should be used as soon as Clione yells “STOP THIS TUMBLE”, the player who took the rune must run to the activator so he can free his allies, in case the allies do not do this in the area of ​​effect of Clione's attack they will take hit kill. It is basically a question of positioning.",
+        "baphomett": "3 Baphomets",
+        "baphomet": "After passing Clione you will go up to the 3 Baphomets, it is recommended to go one DPS in the middle and two on each side on the right and left sides, step on the circle that is right at the entrance of each baphomet to disable the shield that surrounds them and start doing damage. Kill them quickly so they don't activate their skills.",
+        "ellat": "Final boss: Ella",
+        "ella": "Ella is the last boss and her skills are some of the most complicated in the runner. It is extremely important to keep moving at all times, as it causes high amounts of damage. To get past this boss, just be careful and do damage whenever possible. Two skills you need to watch out for are the balloons that the boss drops and when a particular card is flipped in the middle of the fight. In balloons there is no secret, just dodge to stay alive. In the second skill, Ella will show 3 surprise cards, and when they are revealed run to the opposite side, for example: If Ella shows you a BLACK SWORD card, you must run to the red side of the field, and if she gives you show a RED HEARTS card, you must run to the black side of the field. If you are unable to perform this action you will take hit kil. There will be a moment during the battle when the field will be divided and a card will appear on each side, the members of each part of the field must be quick to kill the card, remembering that whoever is on the red side will not be able to help the members on the black side , until both cards are defeated.",
+        "acessoriost": "Accessories",
+        "acessorios": "Defeating each boss will give you random accessories, with different qualities following the same pattern, blue, purple and gold. The accessories have elements and are indicated for each type of build you are doing, Fire: DPS, Ice: Tank, Wind: Dodge."
     },
 
     "EQUIPAMENTOS": {
         "name": "Equipaments",
-        "descrip": "",
-        "dicas": "",
-        "avancar": "",
-        "slotscarta": "",
-        "reforja": ""
+        "descrip": "As a whole the equipment is one of the most important parts of your character, it is based on it that you will shape what attribute your character will be focused on, the sets are composed of (chest, belt, pants and boots), joining the 4 parts of the same set, that is to say with the same name, you will activate extra attributes for your character such as: critical rate, chance to block, dodge and others. The weapon, glove and talisman in turn do not have sets, but there are also several different types, you must choose the one that best fits the type of character you are making. The hat can be earned using the artifact map and can come with different qualities (purple, gold or red).",
+        "dicast": "Tips",
+        "dicas": "If you are starting the game now use the equipment that will drop during the game until you reach level 60, from this level you should focus on buying and dropping golden equipment level 60, never spend your shells with equipment that is not this level, because the level 60 equipment is the only one that will stay with you during the game, because later they can be advanced in equipment 70, 80 and so on, using the coats of arms.",
+        "avancart": "Advance",
+        "avancar": "Advancing a piece of equipment makes it a little stronger, just having the necessary materials that are dropped in the realm of the equipment and a certain amount of silver star to perform this action. When the level of your advanced equipment is raised to 70 for example, the material spent on it in time to advance will be returned. Tip: It is only worthwhile to advance a piece of equipment if it is very difficult to get the coat of arms to advance the level, because the level attributes are better than an advance.",
+        "slotscartat": "Card Sockets",
+        "slotscarta": "Card sockets are released during the game. As your character levels up, the option to open new card slots will be released, and these slots are paid for with kingdom fame to be unlocked. The maximum that a device can have is up to 4 slots. The only piece of equipment that is different for opening slots is the hat and you need to purchase hat socket scrolls for this action to be possible, these scrolls are purchased from the trade or dismantling other hats. For the first slot you will need 30 scrolls and for the second 300 scrolls.",
+        "subirnvlt": "Increase Equipment Level",
+        "subirnvl": "To level up a piece of equipment, you will need to drop or buy a coat of arms for the item you want to level up. When you get this coat of arms, just go to the level up option that is accessed by clicking on the item in question and have the necessary items that will be (your equipment 60 + coat + crystal). Crystals can be purchased from retailers or by dismantling golden equipment above level 40.",
+        "reforjat": "Reform",
+        "reforja": "Reforming your items should only be done on equipment level 60 or higher. Reforming an equipment is nothing more than changing your additional attributes in search of better ones, here the best ones are the golden attributes, always reform your equipment until you get some golden attribute, after getting it you can 'lock' a certain attribute so that you can perform a new reforms without it changing. Up to 2 attributes can be locked and thereby raising the price paid to carry out the reforms in addition to the need for 2 types of materials instead of 1. The equipment with a good reforge has its progress bar fully filled or at least close to that."
 
     },
 
     "CARTAS":{
         "name": "Cards",
-        "melhorar": "",
-        "refinar": "",
-        "desmantelar": "",
-        "poeiraamarela": "",
-        "poeiravermelha": ""
+        "descrip": "One of the best ways to make your character stronger is with good cards. The cards respect the quality levels as well as the equipment, there are the blue, purple, gold and red cards, and they have different levels, they are I, II, III and IV. The red cards are conquered only by collecting 25 fragments of the respective level you are gathering and then merging them into 1 card. The golden cards, in addition to being acquired with the junctions of the fragments, can be dropped in the kingdom of the cards and also in the dragon's treasure, as well as the purple and blue ones. All cards have 'effects', each yellow card can have up to 5 effects, while red cards can have 6, these effects are achieved by refining your card until all are listed.",
+        "melhorart": "Improve Cards",
+        "melhorar": "To improve a card you will use silver star and mana. Gold cards can be improved up to +12, while red cards can be improved up to +15. If you have upgraded a card and are going to replace it, when the amount of mana that was used to reach the maximum limit will be dismantled, it will be returned. The mana you need to improve your cards is acquired by dismantling the cards you get in the realm of cards that you will not use or buying from the store.",
+        "refinart": "Refine",
+        "refinar": "Through refining you can improve the effects of the card. Every card has an effect limit, yellow cards can have up to 5 effects, while red cards can have 6. The material used to refine cards is acquired at events, at the store or at the zodiac chiefs.",
+        "poeiraamarelat": "Yellow Star Dust",
+        "poeiraamarela": "Material used to refine cards of golden quality. The higher the level of the card, the more dust will be needed to perform the refinement.",
+        "poeiravermelhat": "Red Star Dust",
+        "poeiravermelha": "Material used to refine red quality cards. The higher the level of the card, the more dust will be needed to perform the refinement."
     },
 
     "CONCHAS": {
         "name": "Shells",
-        "comoganhar": "",
-        "paraqueserve":"",
-        "dicas": ""
+        "comoganhart": "How to get shells",
+        "comoganhar": "You can earn shells by selling golden equipment, coats of arms, mounts, hats, or whatever you can put on the market. You also win shells by charging the guild, betting on the race that takes place every Wednesday, giving the final blow to the head of the world and donating purple or gold badges of fame acquired at Kingdom Events. In the game there is also a 'pass', with the medals of courage that are obtained when doing daily missions, it is possible to exchange for a fixed weekly amount of shells.",
+        "paraqueservet": "How to use?",
+        "paraqueserve":"Shells are your currency of purchase within the game trade. It is with it that you will buy your golden items, your coats of arms, your mounts, among many other things available on the market."
     },
 
     "GUILDA": {
         "name": "Guild",
-        "descrip": "",
-        "treinamentodaguilda":"",
-        "cargadaguilda": "",
-        "guaxinins": "",
-        "coco": "",
-        "gvg": "",
-        "temploluz": "",
-        "dragao": "",
-        "artefato": "",
-        "invocacoes": ""
+        "treinamentodaguildat": "Guild Training",
+        "treinamentodaguilda": "When performing activities related to the guild you will receive guild crests, these crests are used to be donated in guild training. By donating your coats you start the process of evolution of the goblet. Each goblet is personal and even if you change guild it will stay where you left off. Upon completing the 100% calix and going to the next level you will receive points that will be distributed according to your need. In attributes you will receive CB and% damage or extra resistance against critics. Game mode will give you buffs in certain modes: Damage Boost and team HP in GvG, Damage to boosting monsters in the realms, Damage Boost and HP in the temple of light, HP Boost in the treasure hunter, HP Boost in GvG, HP Boost in the sky castle and HP Boost in the duel of the ruins. Production increases the amount of fish, wood or minerals you collect. Renda offers you some extras within the game, such as silver star, mana and kingdom fame. Note that there is also a domain type for each of the modes, when filling these domain bars you will receive extra attributes or spirals for example, you can check the bonus you will gain by clicking on (?) That is right next to the name. Guild training is accessed through the events tab within the guild menu.",
+        "cargadaguildat": "Guild Charge",
+        "cargadaguilda": "Guild loading is one of the ways you can get shells within the game. It works in a simple way, just load it with what is being requested. As you progress you will earn some fixed rewards: gold chests, shells and guild crest, until you reach the last one that will be after completing 10 wagons and winning 1 map of the artifact. You can also request daily help so that guild members can upload your request. Remembering that shipping can also be done using spirals if you don't get what is being requested. The guild load is accessed through the events tab within the guild menu.",
+        "guaxininst": "Legion of Raccoons",
+        "guaxinins": "At random times of the day the raccoon legion will attack your guild, you must form a team with at least 3 members and everyone must be from the same guild to expel the raccoons. For every raccoon you expel, you get guild crests to use in guild training, as well as insect eggs to feed the coconut and the chance to get black pepper used to cook on your farm. The only invasion that is sure to happen every day at the same time is at 6:50 pm on the server, in this invasion in addition to expelling raccoons your guild must defeat the Old Vombat that will arise after everyone is expelled. Old Vombat must be defeated by 7:10 pm, otherwise the guild will lose 300 funds, which are used to raise the level.",
+        "cocot": "Coco",
+        "coco": "Coco is the guild's mascot and can be fed up to 25 times a day by each member, either with insect eggs, carp, cod and / or puffer fish. After filling the coconut with joy points, it will produce a treasure. The guild master can claim the treasure and start the celebration event. The more food contribution points you have, the more rewards you will receive during the event. If the joy points fill up quickly, more Cocos will appear in your guild, but if it takes too long to fill, it will disappear. The top 3 in the donation ranking win spirals.",
+        "gvgt": "Guild Wars",
+        "gvg": "The guild war takes place every Tuesday and Thursday at 8 pm server time. It is of utmost importance that you participate and help your guild in this event, as this is where you will earn the artifacts to be able to forge the guild's weapons. In the GvG there is the main BATTLEFIELD, where only those who are appointed battle elites by the guild leader or delegate can enter. The main field is where the game is won or lost and can enter up to 30 members who must fight against opponents, protect allied towers and destroy enemy towers. On the right and left side, we have two entrances to MINAS that are extremely important. The objective is to collect the crystals that appear on the map, by collecting these crystals, your towers on the battlefield will strengthen and renegerate life more quickly, thus disrupting the enemy. If you see an opponent attacking crystals, he will automatically stop collecting. It is essential that there is a strong team in the MINES to kill enemies while the rest of them collect.",
+        "temploluzt": "Temple of Light",
+        "temploluz": "It is a dungeon accessed through the guild territory that can be opened every Friday from 10:00 am to 11:00 pm by the guild leader. The goal is to eliminate all the bosses and go up as many floors as possible. The duration of the dungeon is 30 minutes and can enter up to 40 people per portal. Each defeated boss will give gold chest fragments, exp and guild crest, and may have the chance to win purple dragon egg and battle mount armor. After the Normal Temple is completed, the Temple Elite will be unlocked, where only guild masters can name the elites who will have access. Defeating the Elite Temple boss will drop items into the Guild Auction Vault. The auction will start as soon as the Elite Temple ends, and the winnings will be distributed according to the damage done, suffered and healing rankings.",
+        "dragaot": "Dragon's Mission",
+        "dragao": "The dragon mission can start every Tuesday and you need to have 20 guild members online for the event to start. The goal is to defeat the dragon that will appear in the guild's territory and kidnap a female member. After the kidnapping, the members had to choose between 2 paths, 'united we will win' and 'hero's path', the hero's path is recommended for the strongest members of the guild because it is done in a solo way. The united we will win is done by all the members that enter this way. It is mandatory to have at least 1 hero to save the kidnapped princess. This event offers plenty of silver stars and exp in addition to the title of princess (for girls) and count for those who save the princess (remembering that both the female and male characters can be heroes).",
+        "artefatot": "Guild Artifact",
+        "artefato": "The guild artifact is the weapon used only by guild members that is fused through the artifact fragments obtained in the guild war. This weapon increases stats and offers bonuses, but only for activities that involve the guild, that is, it does not work for everything within the game. When your guild forges the first weapon, it can be converted into other weapons and passed by several members. Respecting the time limit between each conversion.",
+        "invocacoest": "Summon Bells",
+        "invocacoes": "Whenever you perform the dragon's treasure event, you receive some summoning bells. These bells must be called in the guild's territory. It is interesting to create a team to kill them if you cannot do it yourself. The team's staff also receives a little drop from the summoned monster, silver star and can even be dropped to golden equipment."
     },
 
     "GUARDIAO": {
         "name": "Guardian",
-        "descrip": "",
-        "matriz": "",
-        "aprender": "",
-        "evoluir": "",
-        "refinar": "",
-        "mutar": ""
+        "descrip": "Guardians have different qualities like blue, purple, gold and red. Just as in the equipment, these qualities range from the weakest (blue) to the strongest (red), the blue to gold qualities can be acquired using the NETWORK item on the Island of Guardians map. The red quality guardians, on the other hand, are only conquered by gathering 25 fragments of a determined guardian, the fragments can be dropped with a map of the artifact, bought in stores or at events.",
+        "matrizt": "Matrix",
+        "matriz": "As you level up new matrices will be unlocked allowing you to place more guardians on it. The most important point of the matrix is ​​to pay attention to the attribute that each one gives you in relation to the equipped guardian. For example, in the top matrix, it gives you 9% (golden guardians) of all the guardian's attributes, so you must make your guardian stronger in this space. As you are unlocking and gaining new guardians try to leave the one that is stronger in a given slot so that you can benefit more from it. The slots that will be released will be: ATQ, DEF, HP, BALANCE.",
+        "aprendert": "Learn Skill",
+        "aprender": "To learn a new guardian skill, simply drop, win or buy a book and teach it to your guardian. The best tip we can give you here is: always look for books that offer you attributes in (%), like the Power of the Sage, Dexter's Heart, Power of the Sentinel among many others.",
+        "evoluirt": "Evolve",
+        "evoluir": "Below each guardian there are a number of stars, to increase those stars and thus increase your guardian's strength, you must give him summer juices. When the progress bar is complete, just sacrifice the requested number of guardians with the same star total as the guardian that is improving so that you can advance to the next level. (Example: If your guardian has 4 stars, you must sacrifice 4 guardians who have 4 stars so that he can reach 5 stars.)",
+        "refinart": "Refine",
+        "refinar": "WARNING: DO NOT THROW OUT YOUR LOTUS FRUITS. Refining a guardian is nothing more than changing his personality and passive ability. As with equipment and cards, there are also qualities here (blue, purple, gold and red). Taking out a good skill and a good personality depends a lot on luck. But, whenever possible, use lotus fruits.",
+        "mutart": "Mutate",
+        "mutar": "When your guardian reaches 5 stars and you have the level required to access the mute tab, you can further increase your guardian's strength. The mutation is very simple, just offer another 5 star guardian as a sacrifice for your principal so that he can be mutated. After the mutation, the offered guardian will disappear and your mutated guardian will be stronger, and the mutation energy period must be respected. The energy fills as daily missions are carried out and to speed up, purple or better dishes, which last for a period of 8 hours, must be used."
+    },
+
+    "FADA": {
+        "name": "Fairy",
+        "descrip": "Upon reaching level 65 the fairy will be released and to unlock just build her house on the farm with the requested materials.",
+        "vitt": "Vitality",
+        "vit": "VIT is what you will use to be able to use the organizing action, every time you make the fairy organize, 10 VIT is consumed. Every day you receive 30 VIT to spend on the fairy, this amount can be increased by buying a gift for her, the gift of 60 spirals increases the daily VIT to 40 while the gift of 150 increases to 50.",
+        "presentet": "Gifts",
+        "presente": "The fairy's gift is a way to help you to raise the fairy's attributes more quickly. When you open the gift you have purchased, there will be an outfit with random buffs for random attributes that can only be used in a certain period of the fairy age indicated in the description of clothing. The gift can also only be used on the current fairy, that is, if you use an outfit to help you raise attributes on your fairy when picking up another one, that outfit will no longer be available and you need to buy a gift again. Tip: Gifts are best used for goals that require 8000+ points for a certain attribute.",
+        "desbloqueart": "Unlock",
+        "desbloquear": "In the unlock tab you will release new types of training to be used in organizing the fairy. The higher the level of training unlocked, the greater the number of points it gives you when used. In 'learn' you unlock important trainings for the fulfillment of goals and achievement of objectives and prerequisites so that the fairy can unlock a new class, it is worth mentioning that with each unlocked training it will be necessary more and more Vigor to unlock the next one, being that the more you take a certain color, the cheaper the unlock is. In 'Entertainment' you unlock 'trainings' that relax your fairy, reducing the stress caused by real training, they are like games for her, it is very important to maintain a good balance between these two types.",
+        "estresset": "Stress",
+        "estresse": "At the top of the organizing menu there is a mental stress bar, it is important that you know how to balance this bar so as not to lose important points in the conquered attributes or 'Action' points. To keep the bar always with a reasonable average, not risking it bursting, it is enough that in the fairy organization there is not only Training, but a mix between (Learning x Entertainment).",
+        "organizart": "Organize",
+        "organizar": "Inside organizing is where you will perform the action of 'Organizing the Agenda', just select the training / entertainments and click on start, it is important to maintain a balance in the training and entertainment schedules so that the mental stress of the fairy does not exceed the limit . When organizing, 10 VIT will be consumed and then all your Action will be reestablished again so you can play the fairy candy. Tip: Always try to combine entertainment with the same type of attribute you are looking for, or for entertainment than global attributes. The VIT is reset every day at 5 am.",
+        "docedefadat": "Sweet Fairy",
+        "docedefada": "To play the fairy candy, Action is consumed for every move you make on the board. The objective is to collect the attributes you are looking for without leaving behind those you will need to unlock requirements for tests and classes. Tests take place at certain ages and are indicated in the corner of the screen when they are close to happening.",
+        "metast": "Goals",
+        "metas": "The fairy's life goals appear during her evolution, are shown in the lower left corner of the screen, to see the requested requirements just press on top and you will have access to what your fairy must have before a certain age to earn some bonus attributes .",
+        "requerimentost": "Requirements",
+        "requerimentos": "To know what your fairy will need to unlock a new class, right next to it in the interface there is a shelf with books, just click there and check which next class you will want to unlock, for each new class unlocked of a certain attribute to next will always require more and more points to reach your goal."
+    },
+
+    "TRILHADASESTRELAS": {
+        "name": "StarTrail",
+        "descrip": "The star trail is released upon reaching level 60. Within the trail interface there are 2 types that must be evolved whenever you have the necessary materials, the evolution of the trail directly affects your CB in addition to increasing your character's attributes according to the trail that is leveling up. In the evolution of the nebula, the CB is also directly affected, increasing the character's attributes and still giving him an additional ability that has a small chance of being activated.",
+        "trilhat": "StarTrail",
+        "trilha": "The first trail released for you will be Sagitta, the materials used to evolve your trail of the stars are Obsidian, Esmeralda, Colbalto Oceânico and Amethyst which are obtained on the Ruinas Antigas map by carrying out the two daily missions, opening the star gem bag or buying from store of the trail, the number of materials requested increases as the level of the trail goes up, initially for any one of them you will be asked for 6 Obsidian, 6 Emerald and 6 Cobalt. It is important to see what attributes the trail gives you and what your attributes are when you reach the maximum level, to do so just click on the trail and right after on the magnifying glass that is on the right side of the description, see if the attributes are important for your character because the trails have their peculiarities, they can give you attack, defense, damage against bosses, chance of blocking and etc. As you level up your trail, other trails will be released, making a total of 12.",
+        "elitedasruinas": "The mission to defeat 5 elites from the ruin is carried out as follows, you must go to a spot to carry out your main mission which is to defeat 100 monsters, whenever you defeat a certain amount of monsters a boss appears, you must defeat the boss 5 times to complete all your missions in Ancient Ruins.",
+        "nebulat": "Nebula",
+        "nebula": "The nebula works in the same way as the trail of the stars, you must have the necessary materials so that you can advance it in level. The biggest difference is found in 2 details, the first is the type of material needed to evolve your nebula, here are used Enameled Stone, Amber and Rough Diamond that are purchased at the trail store with crystals, buying with spirals at any event / store or putting together the badges earned in the celebration of the castle of heaven. And the second is that by evolving the nucleus at least to the purple strength level, an extra ability is released that has a small chance of being activated. The details of each nebula can also be accessed through the magnifying glass that is on the right side in the description of each one.",
+        "lojat": "Store",
+        "loja": "The star trail store is accessed by clicking on the button on the left side of the star trail interface. All materials needed to increase the level of the trail are sold by crystals.",
+        "dicast": "Elite and Tip",
+        "dica": "No matter how long it takes to gather Emeralds and Oceanic Cobalt, don't spend your crystals to buy them, your crystals should be spent only on Enameled Stone (2500k), Amber (2500k) and Rough Diamond (50000k). As you can see the rough diamond will be the most difficult to be conquered, so be patient and collect your crystals. Another tip is not to sell your star gem bags, always use them to start collecting stones and crystals early."
+    },
+
+    "FRONTEDAGLORIA": {
+        "name": "Front of Glory",
+        "descrip": "Upon reaching level 80 you will receive the quest for awakening that must be performed in order to access the Frontier of Glory. The sets will be released in the cards part, each set must be created for a specific situation you are going to play, for example set 1: PVE, set 2: PVP, set 3: Front of Glory, the front set of glory must contain the cards Mine or Loras that started to be dropped in the new EMPTY card kingdom. These cards have the PUNCH attribute that is used to destroy the boss's shield, the more you punch, the faster the shield will break. When you break the boss's shield you will have a small moment so that it is possible to damage it before the shield is restored, if at this time you are unable to defeat the boss you will have to break the shield again until you can perform this action. It is at the front of glory that you will drop runes, exp and books that will be used to improve your awakening skills.",
+        "desafiosolot": "Solo Challenge",
+        "desafiosolo": "The solo challenge is released right after you have completed the awakening quest, here there will be a minimum recommended amount of drill so that you can easily pass the first boss, as you advance the amount of drill needed gradually increases to a maximum of 150 that will be on the third boss. Defeating the last boss will give you awakening exp and a new random awakening-related ability. The solo challenge can only be completed once and is not reset weekly, as well as the team challenge.",
+        "desafioequipet": "Team Challenge",
+        "desafioequipe": "You can start team battles after going through the 3 stages in solo mode on the glory front, or being part of a team that can already start in this mode as long as you have at least passed level 1 in solo mode. Unlike the solo challenge, the team challenge becomes more difficult requiring you to have even more drilling and damage to get through. Another difference from the team challenge is that it can be completed once a week, making it possible to gain exp from awakening, runes and skills related to it again. Always try to enter with a strong and well-balanced team in terms of class because here it is really more difficult than the solo challenge. The front of glory is reset every Thursday at 5am.",
+        "perfurart": "Pierce Cards",
+        "perfurar": "Piercing is an attribute used in the Fronte da Glória challenge, the piercing function is to remove the shield that surrounds the boss in this mode, at the end of the bar the boss will be vulnerable and lose HP when taking damage. Drill cards are acquired in the card kingdom from level 80 playing the kingdom of the void, you must collect 25 fragments of Mina or Loras and then merge them to acquire your cards, it is possible to equip up to 4 Mines and 4 Loras increasing even more your punch, it is important that you leave your cards well refined and in the +12 improvement so that you can get the most out of them. The material used to refine drill cards is acquired by dismantling other Mines or Loras."
+
     }
 
 

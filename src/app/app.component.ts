@@ -6,6 +6,8 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 import { LanguageService } from './services/language.service';
 import { TranslateService } from '@ngx-translate/core';
 
+import { Push, PushOptions, PushObject } from '@ionic-native/push/ngx'
+
 @Component({
   selector: 'app-root',
   templateUrl: 'app.component.html',
@@ -18,7 +20,8 @@ export class AppComponent {
     private splashScreen: SplashScreen,
     private statusBar: StatusBar,
     private languageService: LanguageService,
-    private translate: TranslateService
+    private translate: TranslateService,
+    private push: Push
   ) {
     this.sideMenu();
     this.initializeApp();
@@ -29,7 +32,22 @@ export class AppComponent {
       this.statusBar.styleDefault();
       this.splashScreen.hide();
       this.languageService.setInitialAppLanguage();
+      this.initializeFirebase();
     });
+  }
+
+  private initializeFirebase() {
+    const options: PushOptions = {
+      android: {
+        senderID: 'Seu codigo aqui'
+      }
+    }
+
+    const pushObject: PushObject = this.push.init(options)
+
+    pushObject.on('registration').subscribe(res => console.log(` ${res.registrationId}`))
+
+    pushObject.on('notification').subscribe(res => console.log(`Já chegou o disco voador: ${res.message}`))
   }
 
   sideMenu()

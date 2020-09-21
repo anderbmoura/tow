@@ -18,6 +18,8 @@ import { IonicStorageModule } from '@ionic/storage';
 
 import { AdmobFreeService } from './services/admobfree.service';
 import { AdMobFree } from '@ionic-native/admob-free/ngx';
+
+import { Push } from '@ionic-native/push/ngx'
  
 export function createTranslateLoader(http: HttpClient) {
   return new TranslateHttpLoader(http, 'assets/i18n/', '.json');
@@ -42,7 +44,8 @@ export function createTranslateLoader(http: HttpClient) {
     SplashScreen,
     AdMobFree,
     AdmobFreeService,
-    { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
+    { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
+    Push
   ],
   bootstrap: [AppComponent]
 })
